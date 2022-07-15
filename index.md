@@ -8,25 +8,28 @@ notification: From 7 July to 3 August 2022, only 2 designated visitors are
   allowed for each inpatient.
 sections:
   - hero:
-      title: IMH
-      subtitle: Institute of Mental Health
+      title: Test Conference 2023
+      subtitle: Welcome to the test conference
       background: /images/IMH-2365249432.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Major Topics
+          description: What's up with Mental Health
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Our Speakers
+          description: Who's coming
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Sessions
+          description: When is it happening
           url: /privacy/
+        - title: Register now
+          description: Join us!
+          url: ""
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      subtitle: Let's talk about Mental health
+      description: In the new era, ...
       button: Button text
       url: /faq/
   - resources:
