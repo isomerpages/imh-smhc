@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Test Conference 2023
+description: Test Conference 2023
 image: /images/isomer-logo.svg
 permalink: /
 notification: From 7 July to 3 August 2022, only 2 designated visitors are
@@ -43,3 +43,4 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
+
