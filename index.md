@@ -19,7 +19,7 @@ sections:
           url: https://google.com
         - title: Our Speakers
           description: Who's coming
-          url: https://gmail.com
+          url: /test-search/speakers
         - title: Sessions
           description: When is it happening
           url: /privacy/
