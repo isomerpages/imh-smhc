@@ -1,4 +1,5 @@
 collections:
   test-search:
     output: true
-    order: []
+    order:
+      - Search for Speakers.md
