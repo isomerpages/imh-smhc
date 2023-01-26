@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Folder 4/.keep
+      - Folder 1/Example Title.md
       - Folder 1/.keep
