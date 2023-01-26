@@ -4,8 +4,7 @@ title: Test Conference 2023
 description: Test Conference 2023
 image: /images/isomer-logo.svg
 permalink: /
-notification: From 7 July to 3 August 2022, only 2 designated visitors are
-  allowed for each inpatient.
+notification: Jonathan was here
 sections:
   - hero:
       title: Test Conference 2023
@@ -43,4 +42,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
