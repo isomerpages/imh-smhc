@@ -7,24 +7,12 @@ permalink: /
 notification: Jonathan was here
 sections:
   - hero:
-      title: Test Conference 2023
-      subtitle: Welcome to the test conference
-      background: /images/IMH-2365249432.jpg
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Major Topics
-          description: What's up with Mental Health
-          url: https://google.com
-        - title: Our Speakers
-          description: Who's coming
-          url: /test-search/speakers
-        - title: Sessions
-          description: When is it happening
-          url: /privacy/
-        - title: Register now
-          description: Join us!
-          url: ""
+      title: SMHC 2023
+      subtitle: haha
+      background: /images/hero-banner.png
+      dropdown:
+        title: Hero Dropdow
+        options: []
   - infobar:
       title: Infobar title
       subtitle: Let's talk about Mental health
