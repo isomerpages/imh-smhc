@@ -2,4 +2,5 @@ collections:
   test-search:
     output: true
     order:
+      - Example Title.md
       - Search for Speakers.md
