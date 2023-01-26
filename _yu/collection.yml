@@ -2,10 +2,6 @@ collections:
   yu:
     output: true
     order:
-      - Folder 4/Example Title c.md
-      - Folder 4/Example Title b.md
-      - Folder 4/Example Title a.md
-      - Folder 4/.keep
       - Folder 1/Example Title 2.md
       - Folder 1/Example Title.md
       - Folder 1/.keep
