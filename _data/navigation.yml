@@ -6,3 +6,5 @@ links:
     url: /Example/
   - title: Menu Title
     url: /permalink
+  - title: Menu Title
+    collection: yu
