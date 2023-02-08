@@ -1,5 +1,5 @@
 collections:
-  yu:
+  programme:
     output: true
     order:
       - Folder 1/Example Title 2.md
