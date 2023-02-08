@@ -11,15 +11,15 @@ sections:
       subtitle: Let's talk about Mental health
       background: /images/hero-banner.png
       key_highlights:
-        - title: Key Highlight Title
+        - title: Event Highlight
           description: Key Highlight description
           url: /highlight1/
-        - title: Key Highlight Title
+        - title: Event Highlight 2
           description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
+          url: /highlight2/
+        - title: Event highlight 3
           description: Key Highlight description
-          url: ""
+          url: /highlight3/
       button: learn more
       url: /about/about-smhc/
   - infobar:
