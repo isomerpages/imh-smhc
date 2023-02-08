@@ -2,5 +2,5 @@ collections:
   speakers:
     output: true
     order:
-      - Plenary Speakers/Plenary Speakers.md
+      - Plenary Speakers/Speaker 1.md
       - Plenary Speakers/.keep
