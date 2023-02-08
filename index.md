@@ -21,7 +21,7 @@ sections:
           description: Key Highlight description
           url: ""
       button: learn more
-      url: /about/
+      url: www.open.gov.sg/about/
   - infobar:
       title: EVENT HIGHLIGHTS
       subtitle: Let's talk about Mental health
