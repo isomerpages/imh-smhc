@@ -1,5 +1,5 @@
-title: Test Conference 2023
-url: ""
+title: SMHC 2023
+url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Test Conference 2023
+description: Singapore Mental Health Conference 2023
 permalink: none
 baseurl: ""
 exclude:
