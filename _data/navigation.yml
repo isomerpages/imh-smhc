@@ -8,9 +8,11 @@ links:
     collection: programme
   - title: Speakers
     collection: speakers
-  - title: Contact Us
-    url: /contact-us/
   - title: Sponsorship
     collection: sponsorship
+  - title: Contact Us
+    url: /contact-us/
+  - title: Register
+    collection: register
   - title: Log In
     url: /Log In/
