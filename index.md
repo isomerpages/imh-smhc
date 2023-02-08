@@ -4,19 +4,27 @@ title: Singapore Mental Health Conference 2023
 description: Singapore Mental Health Conference 2023
 image: /images/isomer-logo.svg
 permalink: /
-notification: Jonathan was here
+notification: ""
 sections:
   - hero:
-      title: SMHC 2023
-      subtitle: haha
-      background: /images/hero-banner.png
-      dropdown:
-        title: Hero Dropdow
-        options: []
-  - infobar:
-      title: Infobar title
+      title: Singapore Mental Health Conference 2023
       subtitle: Let's talk about Mental health
-      description: In the new era, ...
+      background: /images/hero-banner.png
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: /highlight1/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      button: learn more
+      url: /learn more/
+  - infobar:
+      title: EVENT HIGHLIGHTS
+      subtitle: Let's talk about Mental health
       button: Button text
       url: /faq/
   - resources:
@@ -30,5 +38,3 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
-
-
