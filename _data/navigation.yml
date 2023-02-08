@@ -1,16 +1,18 @@
 logo: ""
 links:
-  - title: About
-    url: /About/
+  - title: Home
+    url: /home/
   - title: About
     collection: about
   - title: Programme
     collection: programme
-  - title: About
-    collection: about
+  - title: Speakers
+    collection: speakers
   - title: About
     collection: about
   - title: Contact Us
     url: /contact-us/
+  - title: Sponsorship
+    collection: sponsorship
   - title: Log In
     url: /Log In/
