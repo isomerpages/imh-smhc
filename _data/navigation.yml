@@ -2,17 +2,15 @@ logo: ""
 links:
   - title: About
     url: /About/
+  - title: Programme
+    collection: test-search
   - title: Speakers
     collection: yu
   - title: Sponsorship
-    url: /Sponsorship/
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
+    collection: test-search
   - title: Register
-    url: /Register/
-    sublinks: []
+    collection: test-search
   - title: Contact Us
     url: /contact-us/
-  - title: Menu Title
-    collection: test-search
+  - title: Log In
+    url: /Log In/
