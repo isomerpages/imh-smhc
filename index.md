@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: SMHC 2023
+title: Singapore Mental Health Conference 2023
 description: Singapore Mental Health Conference 2023
 image: /images/isomer-logo.svg
 permalink: /
@@ -30,4 +30,5 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
+
 
