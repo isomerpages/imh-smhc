@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Test Conference 2023
-description: Test Conference 2023
+title: SMHC 2023
+description: Singapore Mental Health Conference 2023
 image: /images/isomer-logo.svg
 permalink: /
 notification: Jonathan was here
@@ -30,3 +30,4 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
+
