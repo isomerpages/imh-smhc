@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Advisory Committee.md
       - Welcome Message.md
       - About SMHC.md
