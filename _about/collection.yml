@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Welcome Message.md
-      - Search for Speakers.md
+      - About SMHC.md
