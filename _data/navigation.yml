@@ -8,8 +8,6 @@ links:
     collection: programme
   - title: Speakers
     collection: speakers
-  - title: About
-    collection: about
   - title: Contact Us
     url: /contact-us/
   - title: Sponsorship
