@@ -1,7 +1,5 @@
 logo: ""
 links:
-  - title: Home
-    url: /home/
   - title: About
     collection: about
   - title: Programme
