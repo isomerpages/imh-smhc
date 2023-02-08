@@ -2,5 +2,5 @@ collections:
   register:
     output: true
     order:
-      - Register Now.md
       - terms-of-use.md
+      - Register Now.md
