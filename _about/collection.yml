@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - Example Title.md
+      - Welcome Message.md
       - Search for Speakers.md
