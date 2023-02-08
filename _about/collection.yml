@@ -1,5 +1,5 @@
 collections:
-  test-search:
+  about:
     output: true
     order:
       - Example Title.md
