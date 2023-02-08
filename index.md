@@ -20,8 +20,8 @@ sections:
         - title: Event highlight 3
           description: Key Highlight description
           url: /highlight3/
-      button: learn more
-      url: /about/about-smhc/
+      button: JOIN OUR MAILING LIST
+      url: /
   - infobar:
       title: EVENT HIGHLIGHTS
       subtitle: Let's talk about Mental health
