@@ -2,14 +2,14 @@ logo: ""
 links:
   - title: About
     url: /About/
-  - title: Programme
-    collection: test-search
+  - title: About
+    collection: about
   - title: Speakers
     collection: yu
-  - title: Sponsorship
-    collection: test-search
-  - title: Register
-    collection: test-search
+  - title: About
+    collection: about
+  - title: About
+    collection: about
   - title: Contact Us
     url: /contact-us/
   - title: Log In
