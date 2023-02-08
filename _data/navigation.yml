@@ -1,10 +1,18 @@
 logo: ""
 links:
+  - title: About
+    url: /About/
+  - title: Speakers
+    collection: yu
+  - title: Sponsorship
+    url: /Sponsorship/
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: Register
+    url: /Register/
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: Example
-    url: /Example/
   - title: Menu Title
-    url: /permalink
-  - title: Menu Title
-    collection: yu
+    collection: test-search
