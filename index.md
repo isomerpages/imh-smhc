@@ -11,7 +11,7 @@ sections:
       subtitle: Let's talk about Mental health
       background: /images/hero-banner.png
       button: LEARN MORE
-      url: /about/
+      url: /about/welcome-message/
   - resources:
       title: Event Highlights
       subtitle: Explore
