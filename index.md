@@ -23,8 +23,9 @@ sections:
       url: /faq/
   - infopic:
       title: Infopic Title
-      subtitle: Infopic Subtitle
+      subtitle: let's talk about mental health
       description: Infopic description
-      button: Button Text
+      button: Join our mailing list
       alt: Image alt text
+      url: /
 ---
