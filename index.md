@@ -22,15 +22,15 @@ sections:
           url: /highlight3/
       button: LEARN MORE
       url: /about/
+  - resources:
+      title: EVENT HIGHLIGHT
+      subtitle: Explore
+      button: SEE ALL
   - infobar:
       title: EVENT HIGHLIGHTS
       subtitle: Let's talk about Mental health
       button: Button text
       url: /faq/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
