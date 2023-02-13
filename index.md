@@ -14,7 +14,7 @@ sections:
       url: /about/welcome-message/
   - infopic:
       title: Psychosocial Network of Support Across the Lifespan
-      subtitle: let's talk about mental health
+      subtitle: let's talk about...
       button: Join our mailing list
       url: /
   - resources:
