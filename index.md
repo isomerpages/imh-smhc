@@ -18,10 +18,7 @@ sections:
       button: Join our mailing list
       url: /
   - resources:
-      title: Event Highlights
+      title: Our Programme
       subtitle: Explore
       button: SEE ALL
-  - infopic:
-      subtitle: OUr sponsors
-      alt: Image alt text
 ---
