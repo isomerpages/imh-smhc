@@ -10,16 +10,6 @@ sections:
       title: Singapore Mental Health Conference 2023
       subtitle: Let's talk about Mental health
       background: /images/hero-banner.png
-      key_highlights:
-        - title: Event Highlight
-          description: Key Highlight description
-          url: /highlight1/
-        - title: Event Highlight 2
-          description: Key Highlight description
-          url: /highlight2/
-        - title: Event highlight 3
-          description: Key Highlight description
-          url: /highlight3/
       button: LEARN MORE
       url: /about/
   - resources:
