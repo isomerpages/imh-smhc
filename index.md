@@ -21,9 +21,4 @@ sections:
       title: Event Highlights
       subtitle: Explore
       button: SEE ALL
-  - infobar:
-      title: EVENT HIGHLIGHTS
-      subtitle: Let's talk about Mental health
-      button: Button text
-      url: /faq/
 ---
