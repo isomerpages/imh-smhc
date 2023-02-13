@@ -21,4 +21,7 @@ sections:
       title: Event Highlights
       subtitle: Explore
       button: SEE ALL
+  - infopic:
+      subtitle: OUr sponsors
+      alt: Image alt text
 ---
