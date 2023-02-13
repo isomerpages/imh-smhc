@@ -9,8 +9,7 @@ We are excited to present the 2023 edition of SMHC, which will be held on 30 & 3
 
 The SMH debuted in 2013 and its subsequent editions had seenstrong support and sustained interest among mental health professionals and community partners. We are confident that the 2023 edition will be another conference that all will look forward to.  
 
-SMHC 2023 is organised by the Institute of Mental Health (IMH). National Council of Social Service (NCSS).  
-Agency for integrated Care (AIC), and Health Promotion Board (HPB), with IMH and NCSS acting as the Co-Chairs for this upcoming event. Joining us this year on the organising committee are Clarity. ClubHeal, Mindset Care Limited, Singapore Anglican Community Services, and TOUCH Community Services in our continued efforts to include the voices of Voluntary Welfare Organisations in delivering a comprehensiveand engaging programme.  
+SMHC 2023 is organised by the Institute of Mental Health (IMH). National Council of Social Service (NCSS), Agency for integrated Care (AIC), and Health Promotion Board (HPB), with IMH and NCSS acting as the Co-Chairs for this upcoming event. Joining us this year on the organising committee are Clarity. ClubHeal, Mindset Care Limited, Singapore Anglican Community Services, and TOUCH Community Services in our continued efforts to include the voices of Voluntary Welfare Organisations in delivering a comprehensiveand engaging programme.  
 
 The theme for SMHC 2023 is 'Psychosocial network of support across the lifespan.' 
 
