@@ -13,7 +13,7 @@ sections:
       button: LEARN MORE
       url: /about/
   - resources:
-      title: EVENT HIGHLIGHT
+      title: Event Highlights
       subtitle: Explore
       button: SEE ALL
   - infobar:
