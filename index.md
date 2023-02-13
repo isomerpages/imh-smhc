@@ -12,6 +12,11 @@ sections:
       background: /images/hero-banner.png
       button: LEARN MORE
       url: /about/welcome-message/
+  - infopic:
+      title: Psychosocial Network of Support Across the Lifespan
+      subtitle: let's talk about mental health
+      button: Join our mailing list
+      url: /
   - resources:
       title: Event Highlights
       subtitle: Explore
@@ -21,11 +26,4 @@ sections:
       subtitle: Let's talk about Mental health
       button: Button text
       url: /faq/
-  - infopic:
-      title: Infopic Title
-      subtitle: let's talk about mental health
-      description: Infopic description
-      button: Join our mailing list
-      alt: Image alt text
-      url: /
 ---
