@@ -13,4 +13,6 @@ description: ""
 | Virtual     | $250     | $300     |
 | Student     | $50     | $50     |
 
-
+```
+<button type\="button"\>Click Me!</button\>
+```
