@@ -5,4 +5,4 @@ description: ""
 ---
 # Overview
 ![](/images/Frame%203.png)
-![](/images/Frame%201%20(1).png)
+![](/images/Frame%201.png)
