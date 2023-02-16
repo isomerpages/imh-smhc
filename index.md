@@ -17,6 +17,7 @@ sections:
       subtitle: let's talk about...
       button: Join our mailing list
       url: /
+      image: /images/kelly-sikkema-4le7k9XVYjE-unsplash.jpg
   - resources:
       title: Our Programme
       subtitle: Explore
