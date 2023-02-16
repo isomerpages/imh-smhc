@@ -18,6 +18,7 @@ sections:
       button: Join our mailing list
       url: /
       image: /images/kelly-sikkema-4le7k9XVYjE-unsplash.jpg
+      alt: iuiuhiuhiu
   - resources:
       title: Our Programme
       subtitle: Explore
