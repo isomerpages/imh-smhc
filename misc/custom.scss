@@ -137,9 +137,9 @@ $desktop: 960px + (2 * $gap) !default;
 // Button
 
 .button{
-  background-color: #4CAF50;
+  background-color: $secondary;
   font-family: 'Isomer Sans', sans-serif;
-  color: $secondary;
+  color: #ffffffff;
   padding: 15px 20px;
   text-decoration: none;
 }
