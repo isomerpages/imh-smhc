@@ -136,6 +136,14 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Button
 
+.button{
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
 .bp-button.is-text span {
   &:hover, &:focus {
     color: $secondary;
