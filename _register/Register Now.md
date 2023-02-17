@@ -14,4 +14,4 @@ Register today!
 | Student     | $50     | $50     |
 
 [Register Now  ]()
-<a href="#" class="button">My Button Text</a>
+<button>My Button Text</button>
