@@ -13,6 +13,7 @@ Register today!
 | Virtual     | $250     | $300     |
 | Student     | $50     | $50     |
 
-<button class="my-button">Click me</button>
+<button class="my-button"><a href="https://google.com">Register Now</a></button>
+
 
 
