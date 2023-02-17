@@ -14,4 +14,4 @@ Register today!
 | Student     | $50     | $50     |
 
 [Register Now  ]()
-[Register](/_log-in/Log%20In.md){: .bp-button}
+[Register](https://imh-test-staging.netlify.app/about/welcome-message/){: .bp-button}
