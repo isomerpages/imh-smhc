@@ -13,7 +13,6 @@ Register today!
 | Virtual     | $250     | $300     |
 | Student     | $50     | $50     |
 
-[Register Now  ]()
 <button class="my-button">Click me</button>
 
 
