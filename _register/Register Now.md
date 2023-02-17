@@ -2,9 +2,6 @@
 title: Register Now
 permalink: /register/register-now/
 description: ""
-
-[Register Now!](Button Link){: .bp-button}
-
 ---
 # JOIN US AT SMHC 2023!
 
@@ -17,3 +14,4 @@ Register today!
 | Student     | $50     | $50     |
 
 [Register Now  ]()
+[Register](Button Link){: .bp-button}
