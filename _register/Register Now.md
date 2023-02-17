@@ -14,4 +14,12 @@ Register today!
 | Student     | $50     | $50     |
 
 [Register Now  ]()
-[Register](https://imh-test-staging.netlify.app/about/welcome-message/){: .bp-button}
+[Register](https://imh-test-staging.netlify.app/about/welcome-message/){: .button}
+
+.button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 4px;
+  text-decoration: none;
+}
