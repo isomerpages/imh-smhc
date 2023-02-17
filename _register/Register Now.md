@@ -14,4 +14,4 @@ Register today!
 | Student     | $50     | $50     |
 
 [Register Now  ]()
-[Register](https://imh-test-staging.netlify.app/about/welcome-message/){: .button}
+<a href="#" class="button">My Button Text</a>
