@@ -2,6 +2,9 @@
 title: Register Now
 permalink: /register/register-now/
 description: ""
+
+[Register Now!](Button Link){: .button}
+
 ---
 # JOIN US AT SMHC 2023!
 
