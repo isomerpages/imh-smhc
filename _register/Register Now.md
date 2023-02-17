@@ -14,4 +14,4 @@ Register today!
 | Student     | $50     | $50     |
 
 [Register Now  ]()
-[Register](/_programme/Day%201%20Programme.md){: .bp-button}
+[Register](/_log-in/Log%20In.md){: .bp-button}
