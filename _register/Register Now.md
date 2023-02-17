@@ -14,4 +14,6 @@ Register today!
 | Student     | $50     | $50     |
 
 [Register Now  ]()
-<button>My Button Text</button>
+<button class="my-button">Click me</button>
+
+
