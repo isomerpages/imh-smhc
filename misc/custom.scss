@@ -145,10 +145,12 @@ $desktop: 960px + (2 * $gap) !default;
   font-weight: bold;
   padding: 18px 30px;
   text-transform: uppercase;
-  text-decoration: none; /* remove hyperlink underline */
 }
 
-
+.my-button a {
+  text-decoration: none;
+  color: inherit;
+}
 
 .my-button:hover {
   text-decoration: none; /* remove hyperlink underline on hover */
