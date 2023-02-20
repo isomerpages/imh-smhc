@@ -11,7 +11,7 @@ sections:
       subtitle: Let's talk about Mental health
       background: /images/Banner copy.png
       button: LEARN MORE
-      url: /about/
+      url: /about/about-smhc/
   - infopic:
       title: Psychosocial Network of Support Across the Lifespan
       subtitle: let's talk about...
