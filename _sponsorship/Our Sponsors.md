@@ -3,5 +3,7 @@ title: Our Sponsors
 permalink: /sponsorship/our-sponsors/
 description: ""
 ---
+![](/images/Frame%206.png)
 
-[![Google Logo](![Alt text](/images/Frame%206.png))](https://www.google.com)
+
+[![](/images/Frame%206.png)](http://www.example.com)
