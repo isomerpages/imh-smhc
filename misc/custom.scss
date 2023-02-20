@@ -148,10 +148,6 @@ $desktop: 960px + (2 * $gap) !default;
   text-decoration: none; /* remove underline from the a tag inside the button */
 }
 
-.my-button:hover {
-  background-color: #3e8e41;
-}
-
 .my-button a {
   color: inherit; /* use the same color as the button */
   text-decoration: none; /* remove underline from the a tag inside the button */
