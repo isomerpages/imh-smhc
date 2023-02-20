@@ -365,8 +365,6 @@ $desktop: 960px + (2 * $gap) !default;
 
 .my-image {
   background-image: url('./images/Frame 6.png');
-  width: 200px;
-  height: 200px;
   background-size: cover;
   background-position: center;
   cursor: pointer;
