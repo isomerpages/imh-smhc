@@ -148,8 +148,7 @@ $desktop: 960px + (2 * $gap) !default;
   text-decoration: none; /* remove hyperlink underline */
 }
 
-function goToWebsite() {
-  window.location.href = "https://www.google.com";
+
 
 .my-button:hover {
   text-decoration: none; /* remove hyperlink underline on hover */
