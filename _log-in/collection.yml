@@ -1,5 +1,4 @@
 collections:
   log-in:
     output: true
-    order:
-      - Log In.md
+    order: []
