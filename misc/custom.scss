@@ -363,9 +363,26 @@ $desktop: 960px + (2 * $gap) !default;
 
 // png
 
+.my-link {
+  display: inline-block;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
 .my-image {
   background-image: url('./images/Frame 6.png');
+  width: 200px;
+  height: 200px;
   background-size: cover;
   background-position: center;
   cursor: pointer;
+}
+
+.my-link:hover {
+  background-color: #eee;
+}
+
+.my-link:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px #0057B8;
 }
