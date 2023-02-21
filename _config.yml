@@ -2,8 +2,8 @@ title: Singapore Mental Health Conference 2023
 url: https://www.open.gov.sg
 favicon: /images/SMHC2023_logo.png
 colors:
-  primary-color: "#588b8b"
-  secondary-color: "#935050"
+  primary-color: "#935050"
+  secondary-color: "#588b8b"
   media-colors:
     - title: media-color-one
       color: "#588b8b"
