@@ -19,7 +19,7 @@ sections:
         - title: LEARNING ABOUT SUPPORT
           description: Throughout Your Lifetime
           url: /programme/day-1-programme/
-        - title: HYBRIDISED EVENT
+        - title: HYBRID EVENT
           description: Virtual And Physical Viewing
           url: /about/welcome-message/
   - infopic:
