@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Singapore Mental Health Conference 2023
-      subtitle: Let's talk about Mental health
+      subtitle: 3 - 4 October 2023
       background: /images/e572e44f914c995331578c8bc5650b6e.jpg
       button: LEARN MORE
       url: /about/about-smhc/
