@@ -12,6 +12,10 @@ sections:
       background: /images/e572e44f914c995331578c8bc5650b6e.jpg
       button: LEARN MORE
       url: /about/about-smhc/
+      key_highlights:
+        - title: OVER 30 SPEAKERS
+          description: ""
+          url: ""
   - infopic:
       title: Psychosocial Network of Support Across the Lifespan
       subtitle: let's talk about...
