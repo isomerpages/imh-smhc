@@ -3,14 +3,14 @@ url: https://www.open.gov.sg
 favicon: /images/SMHC2023_logo.png
 colors:
   primary-color: "#588b8b"
-  secondary-color: "#588B8B"
+  secondary-color: "#935050"
   media-colors:
     - title: media-color-one
-      color: "#DFFDFF"
+      color: "#588b8b"
     - title: media-color-two
-      color: "#588B8B"
+      color: "#588b8b"
     - title: media-color-three
-      color: "#588B8B"
+      color: "#588b8b"
     - title: media-color-four
       color: "#588B8B"
     - title: media-color-five
