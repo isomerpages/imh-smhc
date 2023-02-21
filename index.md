@@ -21,7 +21,7 @@ sections:
           url: ""
         - title: HYBRIDISED EVENT
           description: Virtual And Physical Viewing
-          url: ""
+          url: /about/welcome-message/
   - infopic:
       title: Psychosocial Network of Support Across the Lifespan
       subtitle: let's talk about...
