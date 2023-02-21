@@ -14,7 +14,13 @@ sections:
       url: /about/about-smhc/
       key_highlights:
         - title: OVER 30 SPEAKERS
-          description: ""
+          description: From Esteemed Institutes
+          url: ""
+        - title: LEARNING ABOUT SUPPORT
+          description: Throughout Your Lifetime
+          url: ""
+        - title: HYBRIDISED EVENT
+          description: Virtual And Physical Viewing
           url: ""
   - infopic:
       title: Psychosocial Network of Support Across the Lifespan
