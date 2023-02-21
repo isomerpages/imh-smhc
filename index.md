@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: OVER 30 SPEAKERS
           description: From Esteemed Institutes
-          url: ""
+          url: /speakers/Session-Speaker/Speaker-1/
         - title: LEARNING ABOUT SUPPORT
           description: Throughout Your Lifetime
           url: /programme/day-1-programme/
