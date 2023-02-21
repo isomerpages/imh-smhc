@@ -28,6 +28,7 @@ sections:
       button: Join our mailing list
       url: /
       image: /images/art_header.png
+      alt: support
   - resources:
       title: Our Programme
       subtitle: Explore
