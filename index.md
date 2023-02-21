@@ -18,7 +18,7 @@ sections:
           url: ""
         - title: LEARNING ABOUT SUPPORT
           description: Throughout Your Lifetime
-          url: ""
+          url: /programme/day-1-programme/
         - title: HYBRIDISED EVENT
           description: Virtual And Physical Viewing
           url: /about/welcome-message/
