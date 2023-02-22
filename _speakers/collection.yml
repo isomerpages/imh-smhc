@@ -2,10 +2,10 @@ collections:
   speakers:
     output: true
     order:
-      - Session Speaker/.keep
-      - Session Speaker/Speaker 1.md
-      - Session Speaker/Speaker 2.md
-      - Session Speaker/Speaker 3.md
+      - Keynote Speaker/.keep
+      - Keynote Speaker/Speaker 1.md
+      - Keynote Speaker/Speaker 2.md
+      - Keynote Speaker/Speaker 3.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Speaker 1.md
       - Plenary Speakers/Speaker 2.md
