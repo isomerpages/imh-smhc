@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Keynote Speaker.md
-      - Plenary Speaker/.keep
-      - Plenary Speaker/Speaker 1.md
+      - Plenary Speakers/.keep
+      - Plenary Speakers/Speaker 1.md
       - Track Speakers/.keep
       - Track Speakers/Speaker 1.md
       - Track Speakers/Speaker 2.md
