@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Mental Health Conference 2023
-      subtitle: 3 - 4 October 2023
+      title: Making Mental Health A Collective Effort
+      subtitle: 4 - 5 October 2023, Max Atria, Singapore Expo
       background: /images/header_essay-this-23021_psyche_01_v005.jpg
-      button: LEARN MORE
+      button: SAVE THE DATE
       url: /about/about-smhc/
       key_highlights:
         - title: OVER 30 SPEAKERS
