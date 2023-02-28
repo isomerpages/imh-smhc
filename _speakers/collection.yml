@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers.md
       - Keynote Speaker/.keep
       - Keynote Speaker/Speaker 1.md
       - Keynote Speaker/Speaker 2.md
