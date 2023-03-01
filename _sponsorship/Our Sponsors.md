@@ -3,4 +3,6 @@ title: Our Sponsors
 permalink: /sponsorship/our-sponsors/
 description: ""
 ---
-[![](/images/Frame%206.png)](/speakers/plenary-speakers/speaker-1/)
+![](/images/HPB_R_V_CMYK_Logo%201.png)
+![](/images/SMHCNCSSlogo2014hires.png)
+![](/images/SMHClogoAIC_page-0001%201.png)
