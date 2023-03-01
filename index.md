@@ -33,4 +33,9 @@ sections:
       title: Our Programme
       subtitle: Explore
       button: SEE ALL
+  - infopic:
+      title: Co-Organisers
+      button: SEE ALL
+      url: /sponsorship/our-sponsors/
+      alt: Image alt text
 ---
