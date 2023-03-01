@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Making Mental Health A Collective Effort
       subtitle: 4 - 5 October 2023, Max Atria, Singapore Expo
-      background: /images/header_essay-this-23021_psyche_01_v005.jpg
+      background: /images/emma-simpson-mNGaaLeWEp0-unsplash.jpg
       button: SAVE THE DATE
       url: /about/about-smhc/
       key_highlights:
