@@ -136,21 +136,45 @@ $desktop: 960px + (2 * $gap) !default;
 
 //container for logo
 
-.image-container {
+.image-logo-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
-.image-container a {
+.image-logo-container a {
   flex: 1 0 30%;
   margin: 10px;
 }
 
-.image-container img {
+.image-logo-container img {
   width: 100%;
   height: auto;
   display: block;
+}
+
+// container for speakers
+
+.image-speaker-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.image-speaker-box {
+  flex: 1 0 30%;
+  margin: 10px;
+  text-align: center;
+}
+
+.image-speaker-box img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.image-speaker-text {
+  margin-top: 10px;
 }
 
 // Button
