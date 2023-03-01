@@ -37,6 +37,6 @@ sections:
       title: Co-Organisers
       button: SEE ALL
       url: /sponsorship/our-sponsors/
-      alt: Image alt text
+      alt: Co-Organisers
       image: /images/Co-Organiser Logos.png
 ---
