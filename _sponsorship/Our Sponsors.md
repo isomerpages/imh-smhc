@@ -3,6 +3,6 @@ title: Our Sponsors
 permalink: /sponsorship/our-sponsors/
 description: ""
 ---
-![](/images/HPB_R_V_CMYK_Logo%201.png)
+![width = 10px](/images/HPB_R_V_CMYK_Logo%201.png)
 ![](/images/SMHCNCSSlogo2014hires.png)
 ![](/images/SMHClogoAIC_page-0001%201.png)
