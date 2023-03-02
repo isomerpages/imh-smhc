@@ -161,21 +161,29 @@ $desktop: 960px + (2 * $gap) !default;
   justify-content: space-between;
 }
 
-.image-speaker-box {
+.image-speaker-wrapper {
   flex: 1 1 25%;
-  margin: 10px;
-  text-align: center;
+  margin: 20px;
 }
 
-.image-speaker-box img {
+.image-speaker-wrapper img {
   width: 100%;
-  height: auto;
   display: block;
 }
 
 .image-speaker-text {
+  text-align: center;
+}
+
+.image-speaker-text h3 {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+
+.image-speaker-text p {
   margin-top: 10px;
 }
+
 
 // Button
 
