@@ -2,5 +2,5 @@ collections:
   organisers:
     output: true
     order:
-      - Supporting Organisers.md
       - Main Organisers.md
+      - Supporting Organisers.md
