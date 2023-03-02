@@ -9,8 +9,7 @@ third_nav_title: Plenary Speakers
     <td align="center">
       <a href="/speakers/plenary-speakers/speaker-1/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" alt="Description of Image 1" width="200"></a>
       <br>
-      Chief, Department of Psychosis
-      Institute of Mental Health 
+      <div style="text-align: center;">Chief, Department of Psychosis<br>Institute of Mental Health</div>
     </td>
     <td align="center">
       <a href="/speakers/plenary-speakers/speaker-2/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" alt="Description of Image 2" width="200"></a>
