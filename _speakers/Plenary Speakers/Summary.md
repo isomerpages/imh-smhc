@@ -23,4 +23,3 @@ third_nav_title: Plenary Speakers
     <td><img src="../../images/my-passport-photo%201.png" width="200px"></td>
   </tr>
 </table>
-![Alt text](../../images/Phy-Ho-Wee-Kok-315x300-c-default%201.png)![Alt text](../../images/my-passport-photo%201.png)
