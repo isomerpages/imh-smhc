@@ -62,4 +62,4 @@ third_nav_title: Plenary Speakers
     </td>
     <td align="center">
       <a href="image-link-11"><img src="/images/my-passport-photo%201.png" alt="Description of Image 11" width="200"></a>
-      <br
+      <br>
