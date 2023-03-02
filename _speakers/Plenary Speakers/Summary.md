@@ -9,6 +9,6 @@ third_nav_title: Plenary Speakers
 | Description for Image 1 | Description for Image 2 | Description for Image 3 | Description for Image 4 |
 
 
-| [![Image 5](/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png)](link5) | [![Image 6](image6.png)](link6) |  |  |
+| [![Image 5](/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png){width=250 height=250}](link5) | [![Image 6](image6.png)](link6) |  |  |
 
 | Description for Image 5 |  |  |  |
