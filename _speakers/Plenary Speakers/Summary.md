@@ -6,7 +6,7 @@ third_nav_title: Plenary Speakers
 ---
 <table>
   <tr>
-    <td><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" width="200px" a href="https://hpb.gov.sg/"></td>
+    <td><a href="https://hpb.gov.sg/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" width="200px"alt="Image 1"></a></td>
     <td><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" width="200px"></td>
     <td><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" width="200px"></td>
     <td><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" width="200px"></td>
