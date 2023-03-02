@@ -4,22 +4,8 @@ permalink: /speakers/plenary-speakers/summary/
 description: ""
 third_nav_title: Plenary Speakers
 ---
-
-<div class="image-speaker-container">
-    <div class="image-speaker-box">
-        <a href="/speakers/plenary-speakers/speaker-1/"><img src="/images/my-passport-photo%201.png" alt="Image 1"></a>
-        <div class="image-speaker-text">Text for Image 1</div>
-    </div>
-    <div class="image-speaker-box">
-        <a href="/speakers/plenary-speakers/speaker-2/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" alt="Image 2"></a>
-        <div class="image-speaker-text">Text for Image 2</div>
-    </div>
-    <div class="image-speaker-box">
-        <a href="/speakers/plenary-speakers/speaker-3/"><img src="/images/my-passport-photo%201.png" alt="Image 3"></a>
-        <div class="image-speaker-text">Text for Image 3</div>
-    </div>
-    <div class="image-speaker-box">
-        <a href="/speakers/plenary-speakers/speaker-4/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" alt="Image 4"></a>
-        <div class="image-speaker-text">Text for Image 4</div>
-    </div>
-</div>
+| [![Image 1](![](/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png))](link1) | [![Image 2](image2.png)](link2) | [![Image 3](image3.png)](link3) | [![Image 4](image4.png)](link4) |
+| --- | --- | --- | --- |
+| Description for Image 1 | Description for Image 2 | Description for Image 3 | Description for Image 4 |
+| [![Image 5](image5.png)](link5) | [![Image 6](image6.png)](link6) | [![Image 7](image7.png)](link7) | [![Image 8](image8.png)](link8) |
+| Description for Image 5 | Description for Image 6 | Description for Image 7 | Description for Image 8 |
