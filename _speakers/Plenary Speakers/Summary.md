@@ -65,3 +65,11 @@ third_nav_title: Plenary Speakers
     </td>
     </tr>
 </table>
+
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: none;
+}
