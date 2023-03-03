@@ -152,7 +152,15 @@ $desktop: 960px + (2 * $gap) !default;
   height: auto;
   display: block;
 }
+// Remove lines for table
 
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: none;
+}
 // Button
 
 .my-button {
