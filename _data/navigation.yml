@@ -17,4 +17,4 @@ links:
   - title: Register
     collection: register
   - title: Log In
-    url: https://www.google.com
+    url: /log-in
