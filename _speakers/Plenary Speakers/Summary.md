@@ -4,6 +4,8 @@ permalink: /speakers/plenary-speakers/summary/
 description: ""
 third_nav_title: Plenary Speakers
 ---
+# Plenary Speakers
+
 <table>
   <tr>
     <td align="center">
