@@ -9,19 +9,19 @@ third_nav_title: Plenary Speakers
 <table >
   <tr>
     <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-1/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" alt="Description of Image 1" width="150"></a>
+      <a href="/speakers/plenary-speakers/speaker-1/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 1" width="150"></a>
       <br>
     </td>
     <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-2/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" alt="Description of Image 2" width="150"></a>
+      <a href="/speakers/plenary-speakers/speaker-2/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 2" width="150"></a>
       <br>
     </td>
     <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-3/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" alt="Description of Image 3" width="150"></a>
+      <a href="/speakers/plenary-speakers/speaker-3/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 3" width="150"></a>
       <br>
     </td>
     <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-4/"><img src="/images/Phy-Ho-Wee-Kok-315x300-c-default%201.png" alt="Description of Image 4" width="150"></a>
+      <a href="/speakers/plenary-speakers/speaker-4/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 4" width="150"></a>
       <br>
     </td>
 </tr>
