@@ -12,3 +12,5 @@ The theme for SMHC 2023 is 'Psychosocial network of support across the lifespan'
 The SMHC is co-organised by the institute of Mental Health (IMH), National Council of Social Service (NCSS), Agency for Integrated Care (AIC), and Health Promotion Board (HPB). with IMH and NCSS co-chairing the 2023 edition.  
 
 To find out more, please feel free to browse our webpages and if you have any queries, please contact the Conference Secretariat at [smh@imh.com.sg](mailto:smh@imh.com.sg).
+
+![](/images/Footer.png)
