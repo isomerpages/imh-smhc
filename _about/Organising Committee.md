@@ -4,3 +4,5 @@ permalink: /about/organising-committee/
 description: ""
 ---
 ![](/images/Organising%20Committee.png)
+
+![](/images/Footer.png)
