@@ -36,5 +36,5 @@ sections:
   - infopic:
       url: /sponsorship/our-sponsors/
       alt: Organisers
-      image: /images/Footer.png
+      image: /images/Logo Banner.png
 ---
