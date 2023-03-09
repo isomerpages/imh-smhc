@@ -2,4 +2,4 @@ collections:
   sponsorship:
     output: true
     order:
-      - Platinum Sponsors.md
+      - Sponsors.md
