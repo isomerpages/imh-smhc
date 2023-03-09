@@ -35,7 +35,7 @@ sections:
       button: SEE ALL
   - infopic:
       url: /sponsorship/our-sponsors/
-      alt: Co-Organisers
+      alt: Organisers
       image: /images/Footer.png
       title: Co-Organisers
 ---
