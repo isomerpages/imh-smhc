@@ -6,8 +6,6 @@ links:
     collection: programme
   - title: Speakers
     collection: speakers
-  - title: Organisers
-    collection: organisers
   - title: Posters
     url: /posters
   - title: Sponsorship
