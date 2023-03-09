@@ -18,3 +18,5 @@ links:
     collection: register
   - title: Log In
     url: /log-in
+  - title: Menu Title
+    collection: about
