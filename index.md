@@ -38,5 +38,5 @@ sections:
       button: SEE ALL
       url: /sponsorship/our-sponsors/
       alt: Co-Organisers
-      image: /images/Co-Organiser Logos.png
+      image: /images/Footer.png
 ---
