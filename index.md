@@ -23,9 +23,8 @@ sections:
           description: Virtual And Physical Viewing
           url: /about/welcome-message/
   - infopic:
-      title: Psychosocial Network of Support Across the Lifespan
+      title: "Psychosocial Network of Support Across the Lifespan "
       subtitle: let's talk about...
-      button: Join our mailing list
       url: /
       image: /images/art_header.png
       alt: support
