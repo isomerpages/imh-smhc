@@ -1,5 +1,4 @@
 collections:
   sponsorship:
     output: true
-    order:
-      - Sponsors.md
+    order: []
