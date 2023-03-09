@@ -37,5 +37,4 @@ sections:
       url: /sponsorship/our-sponsors/
       alt: Organisers
       image: /images/Footer.png
-      title: Co-Organisers
 ---
