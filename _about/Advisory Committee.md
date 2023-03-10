@@ -6,4 +6,3 @@ description: ""
 ![](/images/Advisory%20Committee.png)
 <br>
 <br>
-![](/images/Footer.png)
