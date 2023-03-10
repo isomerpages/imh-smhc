@@ -5,4 +5,3 @@ description: ""
 ---
 ![](/images/Keynote%20Speaker.png)
 
-![](/images/Footer.png)
