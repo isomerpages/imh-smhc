@@ -56,4 +56,3 @@ third_nav_title: Track Speakers
     </tr>
 </table>
 
-![](/images/Footer.png)
