@@ -8,4 +8,3 @@ description: ""
 # Tracks
 ![](/images/Tracks.png)
 
-![](/images/Footer.png)
