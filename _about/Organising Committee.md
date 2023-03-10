@@ -5,4 +5,3 @@ description: ""
 ---
 ![](/images/Organising%20Committee.png)
 
-![](/images/Footer.png)
