@@ -9,4 +9,3 @@ description: ""
 
 ![](/images/Frame%204.png)
 
-![](/images/Footer.png)
