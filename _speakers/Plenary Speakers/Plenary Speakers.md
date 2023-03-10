@@ -56,4 +56,3 @@ third_nav_title: Plenary Speakers
     </tr>
 </table>
 
-![](/images/Footer.png)
