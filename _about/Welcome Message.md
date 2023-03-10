@@ -20,5 +20,3 @@ Delegates can also look forward to a new feature in SMHC 2023 - a poster exhibit
 Do explore this website for more details on SMHC 2023 or email the SMHC Secretariat ([smhc@imh.com.sg](mailto:smhc@imh.com.sg)) if you require further information. 
 
 We wish you a pleasant browsing experience, and look forward to seeing you at SMHC 2023!
-
-![](/images/Footer.png)
