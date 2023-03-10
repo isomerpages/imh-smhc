@@ -1,6 +1,0 @@
-collections:
-  organisers:
-    output: true
-    order:
-      - Main Organisers.md
-      - Supporting Organisers.md
