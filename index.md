@@ -35,12 +35,5 @@ sections:
   - infopic:
       url: /sponsorship/
       alt: Organisers
-      image: /images/Co-Organiser Banner.png
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
       image: /images/Co-Organiser Banner Horizontal.png
-      alt: Image alt text
 ---
