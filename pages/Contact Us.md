@@ -3,11 +3,7 @@ title: Contact Us
 permalink: /contact-us-customised/
 description: ""
 ---
-# Get in touch with SMHC 2023
-
-**Secretariat**<br>
-[+65 6123 4567](tel:+6561234567)<br>
-[smhc@imh.com.sg](mailto:smhc@imh.com.sg)
+# Get in touch with us
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/63ff02cbf7a44b0011c96993">here</a>.</div>
 
