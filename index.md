@@ -33,7 +33,14 @@ sections:
       subtitle: Explore
       button: SEE ALL
   - infopic:
-      url: /sponsorship/our-sponsors/
+      url: /sponsorship/
       alt: Organisers
-      image: /images/Logo Banner.png
+      image: /images/Co-Organiser Banner.png
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/Co-Organiser Banner Horizontal.png
+      alt: Image alt text
 ---
