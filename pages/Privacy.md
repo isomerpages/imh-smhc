@@ -3,31 +3,16 @@ title: Privacy
 permalink: /privacy/
 description: ""
 ---
-
 Privacy Statement
 =================
 
 **Government Agency Privacy Statement**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#government-agency-privacy-statement)
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 This Government Agency Privacy Statement (“**Privacy Statement**”) must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “**Service**”).
 
-​
-
-### 
-
-General[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#general)
-
-*   1.
-    
-    This is a Government agency digital service.
-    
-
-*   2.
-    
-    Please note that:
+### General[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#general)
+ 1. This is a Government agency digital service.
+ 2. Please note that:
     
     *   2.1 We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
         
@@ -38,19 +23,14 @@ General[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#genera
     *   2.3 The Service may utilise cookies to facilitate authentication and/or login to the Service. If such cookies are rejected, you might not be able to use the Service.
         
     
-
-*   3.
-    
-    Please see the Annex for any additional terms or information.
+3. Please see the Annex for any additional terms or information.
     
 
-### 
+### Use of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#use-of-data)
 
-Use of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#use-of-data)
+4. We may request or collect certain types of data from you in connection with your access or use of the Service. The data that may be requested/collected include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Statement, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
 
-4\. We may request or collect certain types of data from you in connection with your access or use of the Service. The data that may be requested/collected include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Statement, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
-
-5\. If you provide us with personal data, or where we collect personal data from you:
+5. If you provide us with personal data, or where we collect personal data from you:
 
 *   5.1. We may use, disclose and process the data for any one or more of the following purposes:
     
@@ -72,7 +52,6 @@ Use of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#us
     *   5.1.6. to enable us to contact you or communicate with you on any matters relating to your access or use of the Service, including but not limited to the purposes set out above, via email, push notifications or such other forms of communication that we may introduce from time to time depending on the functionality of the Service and/or your device.
         
     
-
 *   5.2. We may share necessary data with other Public Sector Entities, and third party service providers in connection with the Service, so as to provide the Service to you in the most efficient and effective way unless such sharing is prohibited by law.
     
 
@@ -85,21 +64,17 @@ Use of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#us
 *   5.5. Please note that we may be required to disclose your data by law, including any law governing the use/provision of any service of a third party service provider or collaborator.
     
 
-6\. You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
+6. You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
 
-### 
+### Protection of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#protection-of-data)
 
-Protection of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#protection-of-data)
+7. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
 
-7\. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
+8. The Service may contain links to external sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-8\. The Service may contain links to external sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+### Contact Information[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#contact-information)
 
-### 
-
-Contact Information[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#contact-information)
-
-9\. Please contact [support@isomer.gov.sg](mailto:support@isomer.gov.sg) if you:
+9. Please contact [support@isomer.gov.sg](mailto:support@isomer.gov.sg) if you:
 
 *   9.1. have any enquiries or feedback on our data protection policies and procedures; or
     
@@ -107,23 +82,13 @@ Contact Information[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-stat
 *   9.2. need more information on or access to data which you have provided to us in the past.
     
 
-### 
+### Definitions[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#definitions)
 
-Definitions[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#definitions)
-
-10\. In this Privacy Statement, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
-
-​
+10. In this Privacy Statement, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
 
 _This version of the Privacy Statement is dated 3 August 2022 and will take effect from 15 September 2022._
 
-_​_
-
-Annex[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#annex)
+### Annex[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#annex)
 
 
-----------------------------------------------------------------------------------
-
-*   1.
-    
-    If you have editing access to any website created using Isomer, please note that GovTech will collect your email address and other contact details. In the event you request data from us concerning visitors to your Isomer site, you warrant and represent that you have the consent of site visitors for us to provide the data to you or that such consent is not necessary under the applicable rules/laws.
+*   1. If you have editing access to any website created using Isomer, please note that GovTech will collect your email address and other contact details. In the event you request data from us concerning visitors to your Isomer site, you warrant and represent that you have the consent of site visitors for us to provide the data to you or that such consent is not necessary under the applicable rules/laws.
