@@ -3,9 +3,7 @@ title: Privacy
 permalink: /privacy/
 description: ""
 ---
-Privacy Statement
-=================
-
+# Privacy Statement
 **Government Agency Privacy Statement**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#government-agency-privacy-statement)
 
 This Government Agency Privacy Statement (“**Privacy Statement**”) must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “**Service**”).
