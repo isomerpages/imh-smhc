@@ -8,7 +8,7 @@ description: ""
 
 This Government Agency Privacy Statement (“**Privacy Statement**”) must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “**Service**”).
 
-### General[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#general)
+### **General**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#general)
  1. This is a Government agency digital service.
  2. Please note that:
     
@@ -24,7 +24,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 3. Please see the Annex for any additional terms or information.
     
 
-### Use of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#use-of-data)
+### **Use of Data**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#use-of-data)
 
 4\. We may request or collect certain types of data from you in connection with your access or use of the Service. The data that may be requested/collected include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Statement, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
 
@@ -64,13 +64,13 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 6\. You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
 
-### Protection of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#protection-of-data)
+### **Protection of Data**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#protection-of-data)
 
 7\. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
 
 8\. The Service may contain links to external sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-### Contact Information[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#contact-information)
+### **Contact Information**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#contact-information)
 
 9\. Please contact [support@isomer.gov.sg](mailto:support@isomer.gov.sg) if you:
 
@@ -80,13 +80,13 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 *   9.2. need more information on or access to data which you have provided to us in the past.
     
 
-### Definitions[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#definitions)
+### **Definitions**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#definitions)
 
 10\. In this Privacy Statement, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
 
 _This version of the Privacy Statement is dated 3 August 2022 and will take effect from 15 September 2022._
 
-### Annex[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#annex)
+### **Annex**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#annex)
 
 
 *   1. If you have editing access to any website created using Isomer, please note that GovTech will collect your email address and other contact details. In the event you request data from us concerning visitors to your Isomer site, you warrant and represent that you have the consent of site visitors for us to provide the data to you or that such consent is not necessary under the applicable rules/laws.
