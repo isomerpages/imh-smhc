@@ -3,7 +3,7 @@ title: Log In
 permalink: /log-in/
 description: ""
 ---
-# Log In 
+# Watch the Conference Live Now 
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/d8OL6m0ZblA" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
