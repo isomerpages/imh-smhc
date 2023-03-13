@@ -22,7 +22,7 @@ Terms of Use
 
 Please see the Schedule for more information and terms concerning this Service.
 
-### 3\. **Licence Terms and Restrictions**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3.-licence-terms-and-restrictions)
+### **3\. Licence Terms and Restrictions**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3.-licence-terms-and-restrictions)
 
 3.1. The Service, including the materials made available on or through the Service, is owned by, licensed to, managed or controlled by GovTech. Please see clause 4 (Third Party Materials) for more information.
 
@@ -208,10 +208,7 @@ Where GovTech is the defendant or respondent, it shall be given at least 30 days
 
 _These Terms of Use are dated 3 August 2022_ _and will take effect from 15 September 2022._
 
-Schedule[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#schedule)
-
-
------------------------------------------------------------------------------------
+## **Schedule**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#schedule)
 
 ### **1\. Name of Service: Isomer**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#1.-name-of-service-isomer)
 
