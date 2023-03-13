@@ -3,13 +3,10 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-
 Terms of Use
 ============
 
-### 
-
-1\. General[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#1.-general)
+### 1\. General[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#1.-general)
 
 1.1. These Terms of Use govern your access to and use of our services, including the application (whether as software or as a website or otherwise), its contents (including APIs, if any), push notifications and all other accompanying materials as identified in the Schedule below (collectively, the "**Service**”).
 
@@ -21,15 +18,11 @@ Terms of Use
 
 1.5. If you are accessing or using the Service for and on behalf of another entity (such as your employer), you warrant and represent that you have the necessary authority to bind such entity to these Terms of Use.
 
-### 
-
-2\. Nature of this Service[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#2.-nature-of-this-service)
+### 2\. Nature of this Service[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#2.-nature-of-this-service)
 
 Please see the Schedule for more information and terms concerning this Service.
 
-### 
-
-3\. **Licence Terms and Restrictions**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3.-licence-terms-and-restrictions)
+### 3\. **Licence Terms and Restrictions**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3.-licence-terms-and-restrictions)
 
 3.1. The Service, including the materials made available on or through the Service, is owned by, licensed to, managed or controlled by GovTech. Please see clause 4 (Third Party Materials) for more information.
 
@@ -48,9 +41,7 @@ Please see the Schedule for more information and terms concerning this Service.
 
 3.4. You will not interfere or attempt to interfere with the proper working of the Service or otherwise do anything that imposes an unreasonable or disproportionately large load on GovTech’s servers.
 
-### 
-
-3A. Account Access and Security[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3a.-account-access-and-security)
+### 3A. Account Access and Security[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3a.-account-access-and-security)
 
 3A.1. You are solely responsible for maintaining the confidentiality and security of any authentication credentials associated with your use of the Service, including the security of any of your devices which store the authentication credentials.
 
@@ -62,9 +53,7 @@ Please see the Schedule for more information and terms concerning this Service.
 
 3A.5. For the avoidance of doubt, you are solely responsible for any loss of whatever nature arising from unauthorised or unofficial modifications made to your device which permit or escalate privileged access, or remove restrictions to such access, which are not intended by the manufacturer or provider of your device or operating system of your device (e.g., “rooting” or “jailbreaking” your mobile phone).
 
-### 
-
-4\. Third Party Materials[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#4.-third-party-materials)
+### 4\. Third Party Materials[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#4.-third-party-materials)
 
 4.1. The Service may require, enable or facilitate access to or use of software or services of a third party (“**Third Party**”). In such an event, there may be terms of use of the third party software or service (the “**Third Party Terms**”). GovTech may be required under or as a result of the Third Party Terms to notify you of certain terms that apply to you (either directly as an end user, or as a party whose acts or omissions could cause GovTech to breach the Third Party Terms) when you use the Services. An example of Third Party Terms may be open source software terms or standard form terms of the distribution platform from which you obtain any part of the Service (e.g. Google Play Store or Apple App Store terms) which bind GovTech as a developer or user of the distribution platform (the “**Distribution Terms**”). Information on the Third Party Terms are embedded in the Service, already accounted for in these Terms of Use, publicly available (e.g the Distribution Terms) or otherwise listed in the Schedule herein.\[1\] For the avoidance of doubt, insofar as this Clause 4 relates to the Distribution Terms, the relevant Distribution Terms are the terms of the specific platform from which you obtained a copy of the software or application that is part of the Service. For example, if you obtained the said copy from the Google Play Store, then the relevant terms are Google’s Distribution Terms.
 
@@ -86,9 +75,7 @@ Please see the Schedule for more information and terms concerning this Service.
 
 4.7. Without prejudice and in addition to the foregoing, GovTech shall not be responsible for your use of any software or service of a Third Party.
 
-### 
-
-**5\. Your Consent to Your Data and to Access Functions of Your Device**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#5.-your-consent-to-your-data-and-to-access-functions-of-your-device)
+### **5\. Your Consent to Your Data and to Access Functions of Your Device**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#5.-your-consent-to-your-data-and-to-access-functions-of-your-device)
 
 5.1. You hereby grant to GovTech a non-exclusive, worldwide, perpetual and royalty-free right to collect, use, disclose, process, modify, adapt, create derivative works of, reproduce, and sublicense any and all information or data submitted, uploaded or shared by you to the extent necessary to provide the Service or for any other purpose expressly or impliedly provided in these Terms of Use, or as permitted by law.
 
@@ -98,15 +85,11 @@ Please see the Schedule for more information and terms concerning this Service.
 
 5.4. Please also see clause 8 (Privacy Statement).
 
-### 
-
-**5A. Ownership of Feedback/Requests/Suggestions**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#5a.-ownership-of-feedback-requests-suggestions)
+### **5A. Ownership of Feedback/Requests/Suggestions**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#5a.-ownership-of-feedback-requests-suggestions)
 
 You agree that all title and interest in any feedback, requests or suggestions from you concerning the Services provided to GovTech shall be owned by GovTech.
 
-### 
-
-**5B. Confidentiality**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#5b.-confidentiality)
+### **5B. Confidentiality**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#5b.-confidentiality)
 
 5B.1. If you receive information or data (in whatever form) from GovTech or a Third Party which is designated confidential or proprietary or is otherwise reasonably understood to be confidential or proprietary (collectively, “**Confidential Information**”), you shall not use, disclose or reproduce the Confidential Information except for the purpose for which it was provided to you. If consent to disclose the Confidential Information to a third party is given by GovTech or the Third Party to you, any act or omission in respect of the Confidential Information by that person shall be deemed to be your act or omission and you agree to be fully liable for the same. In all cases, you shall protect the Confidential Information to the same extent you protect your own confidential information but in no event less than a reasonable standard of care. You shall ensure that any recipients are bound by confidentiality terms at least as restrictive as this Clause.
 
@@ -124,9 +107,7 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 
 5B.4. Nothing in this Clause 5B shall prejudice GovTech’s or the Third Party’s other rights at law.
 
-### 
-
-6\. Disclaimers and Indemnity[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#6.-disclaimers-and-indemnity)
+### 6\. Disclaimers and Indemnity[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#6.-disclaimers-and-indemnity)
 
 6.1. **The Service is provided on an "as is" and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties of any kind whatsoever in relation to the Service and hereby disclaims all express, implied and/or statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to any representations or warranties:**
 
@@ -171,9 +152,7 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 *   6.7.2. no action may be brought by you against GovTech arising out of or in connection with these Terms of Use more than one (1) year after the cause of action arose.
     
 
-### 
-
-7\. Hyperlinks[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#7.-hyperlinks)
+### 7\. Hyperlinks[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#7.-hyperlinks)
 
 7.1. Insofar as the Service provides a hyperlink to material not maintained or controlled by GovTech, GovTech shall not be responsible for the content of the hyperlinked material and shall not be liable for any damages or loss arising from access to the hyperlinked material. Use of the hyperlinks and access to such hyperlinked materials are entirely at your own risk. The hyperlinks are provided merely as a convenience to you and do not imply endorsement by, association or affiliation with GovTech of the contents of or provider of the hyperlinked materials.
 
@@ -187,35 +166,25 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 *   7.3.2. to disclaim responsibility and/or liability for materials that link to or frame any part of the Service.
     
 
-### 
-
-8\. Privacy Statement[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement)
+### 8\. Privacy Statement[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement)
 
 You also agree to the terms of the Government Agency Privacy Statement for this Service as may be amended from time to time. The Government Agency Privacy Statement will form part of these Terms of Use.
 
-### 
-
-**9\. Rights of Third Parties**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#9.-rights-of-third-parties)
+### **9\. Rights of Third Parties**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#9.-rights-of-third-parties)
 
 Subject to the rights of the Third Party and/or Singapore public sector agencies, a person who is not a party to this Terms of Use shall have no right under the Contract (Rights of Third Parties) Act or otherwise to enforce any of its terms.
 
-### 
-
-**10\. Assignment**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#10.-assignment)
+### **10\. Assignment**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#10.-assignment)
 
 10.1. You may not assign or sub-contract this Terms of Use without the prior written consent of GovTech.
 
 10.2. GovTech may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and this Terms of Use, without notifying you and without further reference to you. Your acceptance of this Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract.
 
-### 
-
-**10A. Severability**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#10a.-severability)
+### **10A. Severability**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#10a.-severability)
 
 If any term of these Terms of Use is held by a court or tribunal of competent jurisdiction to be invalid or unenforceable, then these Terms of Use, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included but, to the extent permissible, such invalid or unenforceable terms shall be deemed to have been replaced by terms that are (a) valid and enforceable and (b) express the intention or produce the result closest to the original intention of the invalid or unenforceable terms.
 
-### 
-
-**11\. Governing Law and Dispute Resolution**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#11.-governing-law-and-dispute-resolution)
+### **11\. Governing Law and Dispute Resolution**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#11.-governing-law-and-dispute-resolution)
 
 11.1. These Terms of Use shall be governed by and construed in accordance with laws of Singapore.
 
@@ -244,13 +213,9 @@ Schedule[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#schedule)
 
 -----------------------------------------------------------------------------------
 
-### 
+### 1\. Name of Service: Isomer[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#1.-name-of-service-isomer)
 
-1\. Name of Service: Isomer[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#1.-name-of-service-isomer)
-
-### 
-
-2\. Nature of Service[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#2.-nature-of-service)
+### 2\. Nature of Service[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#2.-nature-of-service)
 
 a. Notwithstanding anything in the Terms of Use, the Service is intended for use by a Singapore public sector agency or a healthcare institution that is under the NHG, SingHealth, or NUHS healthcare clusters only, or otherwise indicated by the Ministry of Health (MOH), or allowed by GovTech from time to time (each a “**Permitted Entity**” or “**you**”). You shall not use the Service unless you are authorised by a Permitted Entity to bind it to the Terms of Use and act for and on behalf of the Permitted Entity. GovTech may in its sole and absolute discretion implement such security and/or identification measures to ensure that only Permitted Entities are able to use the Service. Please further note that while a Permitted Entity may authorise external vendors to use the Service for and on behalf of the Permitted Entity, the use and/or access rights of such external vendors may be restricted by GovTech in its sole and absolute discretion. The Permitted Entity shall be responsible for the acts and omissions of the external vendors or anyone else using or accessing the Service under the Permitted Entity’s name or account, or on behalf of the Permitted Entity.
 
@@ -288,9 +253,7 @@ h. You may terminate the Terms of Use by giving GovTech one month’s written no
 
 i. The Permitted Entity acknowledges and accepts that websites created with Isomer are designed to work only with Github, and GovTech shall not be responsible for any issues arising out of or in connection with the Permitted Entity’s decision to discontinue use of Github or Isomer.
 
-### 
-
-3\. **Third party software/services**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3.-third-party-software-services)
+### 3\. **Third party software/services**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3.-third-party-software-services)
 
 *   a. GitHub’s terms of service ([link](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service))
     
@@ -306,8 +269,6 @@ i. The Permitted Entity acknowledges and accepts that websites created with Isom
 
 Note that additionally, you shall grant to GovTech all rights necessary to comply with any of the Third Party Terms, including rights to your domain name or SSL certificates.
 
-### 
-
-4\. Special Terms[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#4.-special-terms)
+### 4\. Special Terms[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#4.-special-terms)
 
 If you are an existing user of the Service as of 15 September 2022, these Terms of Use shall be backdated to apply to the period you used the Service but did not have an MOU (comprising the Universal Service Terms and Services Sheet) with GovTech for such use.
