@@ -28,7 +28,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 4\. We may request or collect certain types of data from you in connection with your access or use of the Service. The data that may be requested/collected include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Statement, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
 
-5. If you provide us with personal data, or where we collect personal data from you:
+5\. If you provide us with personal data, or where we collect personal data from you:
 
 *   5.1. We may use, disclose and process the data for any one or more of the following purposes:
     
@@ -62,17 +62,17 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 *   5.5. Please note that we may be required to disclose your data by law, including any law governing the use/provision of any service of a third party service provider or collaborator.
     
 
-6. You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
+6\. You may withdraw your consent to the use and disclosure of your data by us with reasonable notice and subject to any prevailing legal or contractual restrictions; however, doing so may prevent the proper functioning of the Service and may also result in the cessation of the Service to you.
 
 ### Protection of Data[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#protection-of-data)
 
-7. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
+7\. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
 
-8. The Service may contain links to external sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+8\. The Service may contain links to external sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
 ### Contact Information[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#contact-information)
 
-9. Please contact [support@isomer.gov.sg](mailto:support@isomer.gov.sg) if you:
+9\. Please contact [support@isomer.gov.sg](mailto:support@isomer.gov.sg) if you:
 
 *   9.1. have any enquiries or feedback on our data protection policies and procedures; or
     
@@ -82,7 +82,7 @@ This Government Agency Privacy Statement (“**Privacy Statement**”) must be r
 
 ### Definitions[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#definitions)
 
-10. In this Privacy Statement, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
+10\. In this Privacy Statement, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
 
 _This version of the Privacy Statement is dated 3 August 2022 and will take effect from 15 September 2022._
 
