@@ -35,6 +35,16 @@ sections:
         background. We must work together to create a culture that values and
         supports mental health."'
   - infopic:
+      title: " Inspiring, Educational, and Unforgettable"
+      subtitle: SMHC 2022
+      description: Remembering Our Past Events
+      alt: Image alt text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - infopic:
       title: Our Organisers
       url: /
       image: /images/co-organiser no words.png
