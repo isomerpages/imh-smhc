@@ -10,8 +10,6 @@ sections:
       title: Singapore Mental Health Conference 2023
       subtitle: 4 - 5 October 2023, Max Atria, Singapore Expo
       background: /images/emma-simpson-mNGaaLeWEp0-unsplash.jpg
-      button: Coming soon
-      url: /
       key_highlights:
         - title: OVER 30 SPEAKERS
           description: From Esteemed Institutes
