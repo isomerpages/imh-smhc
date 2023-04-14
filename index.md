@@ -39,6 +39,7 @@ sections:
       subtitle: Remembering Our Past Event
       description: " Inspiring, Educational, and Unforgettable"
       alt: Image alt text
+      image: /images/istockphoto-1290277712-612x612.jpg
   - infobar:
       title: Join the Mental Health Movement
       subtitle: event coming soon...
