@@ -4,7 +4,7 @@ title: Singapore Mental Health Conference 2023
 description: Singapore Mental Health Conference 2023
 image: /images/isomer-logo.svg
 permalink: /
-notification: Coming Soon...
+notification: ""
 sections:
   - hero:
       title: Singapore Mental Health Conference 2023
