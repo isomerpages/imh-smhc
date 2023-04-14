@@ -24,8 +24,8 @@ sections:
       url: /sponsorship/
       alt: Organisers
       image: /images/art_header.png
-      subtitle: let's talk about...
-      title: Mental Wellbeing
+      subtitle: Collaborate for impact
+      title: Bringing Healthcare Professionals Together
       description: SMHC is a platform where professionals gather to exchange ideas and
         discuss ways to improve the mental health of our population.
   - infobar:
