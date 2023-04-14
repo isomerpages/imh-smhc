@@ -23,7 +23,7 @@ sections:
   - infopic:
       title: Organised By
       url: /
-      image: /images/Co-Organiser Banner.png
+      image: /images/co-organiser no words.png
       alt: support
   - infopic:
       url: /sponsorship/
