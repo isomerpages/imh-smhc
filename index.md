@@ -41,7 +41,7 @@ sections:
       alt: Image alt text
       image: /images/istockphoto-1290277712-612x612.jpg
   - infobar:
-      title: Join the Mental Health Movement
+      title: In October
       subtitle: event coming soon...
       description: Stay tuned for more updates on our exciting lineup of workshops,
         panels, and presentations
