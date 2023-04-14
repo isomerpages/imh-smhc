@@ -26,13 +26,12 @@ sections:
       image: /images/art_header.png
       subtitle: let's talk about...
       title: Mental Health
-  - infopic:
+  - infobar:
       title: Gan Kim Yong, Minister for Health
       subtitle: "Quote by "
       description: '"Mental wellness is important for everyone, regardless of age or
         background. We must work together to create a culture that values and
         supports mental health."'
-      alt: Image alt text
   - infopic:
       title: Our Organisers
       url: /
