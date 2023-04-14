@@ -27,6 +27,12 @@ sections:
       subtitle: previous events...
       title: Our Mental Health
   - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: "BROUGHT TO YOU BY "
       url: /
       image: /images/co-organiser no words.png
