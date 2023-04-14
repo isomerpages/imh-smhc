@@ -40,10 +40,10 @@ sections:
       description: " Inspiring, Educational, and Unforgettable"
       alt: Image alt text
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Join the Mental Health Movement
+      subtitle: event coming soon...
+      description: Stay tuned for more updates on our exciting lineup of workshops,
+        panels, and presentations
   - infopic:
       title: Our Organisers
       url: /
