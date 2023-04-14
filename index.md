@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Singapore Mental Health Conference 2023
       subtitle: COMING SOON IN OCTOBER
-      background: /images/emma-simpson-mNGaaLeWEp0-unsplash.jpg
+      background: /images/Banner copy.png
       key_highlights:
         - title: OVER 30 SPEAKERS
           description: From Esteemed Institutes
