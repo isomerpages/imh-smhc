@@ -25,7 +25,9 @@ sections:
       alt: Organisers
       image: /images/art_header.png
       subtitle: let's talk about...
-      title: Mental Health
+      title: Mental Wellbeing
+      description: SMHC is a platform where professionals gather to exchange ideas and
+        discuss ways to improve the mental health of our population.
   - infobar:
       title: Gan Kim Yong, Minister for Health
       subtitle: "Quote by "
