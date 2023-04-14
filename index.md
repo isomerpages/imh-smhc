@@ -21,13 +21,14 @@ sections:
           description: Virtual And Physical Viewing
           url: ""
   - infopic:
-      title: "Psychosocial Network of Support Across the Lifespan "
-      subtitle: let's talk about...
+      title: Organised By
       url: /
-      image: /images/art_header.png
+      image: /images/Co-Organiser Banner.png
       alt: support
   - infopic:
       url: /sponsorship/
       alt: Organisers
-      image: /images/Co-Organiser Banner Horizontal.png
+      image: /images/art_header.png
+      subtitle: previous events...
+      title: Our Mental Health
 ---
