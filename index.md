@@ -4,34 +4,30 @@ title: Singapore Mental Health Conference 2023
 description: Singapore Mental Health Conference 2023
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Coming Soon...
 sections:
   - hero:
-      title: Making Mental Health A Collective Effort
+      title: Singapore Mental Health Conference 2023
       subtitle: 4 - 5 October 2023, Max Atria, Singapore Expo
       background: /images/emma-simpson-mNGaaLeWEp0-unsplash.jpg
-      button: SAVE THE DATE
-      url: /about/about-smhc/
+      button: Coming soon
+      url: /
       key_highlights:
         - title: OVER 30 SPEAKERS
           description: From Esteemed Institutes
-          url: /speakers/Session-Speaker/Speaker-1/
+          url: ""
         - title: LEARNING ABOUT SUPPORT
           description: Throughout Your Lifetime
-          url: /programme/day-1-programme/
+          url: ""
         - title: HYBRID EVENT
           description: Virtual And Physical Viewing
-          url: /about/welcome-message/
+          url: ""
   - infopic:
       title: "Psychosocial Network of Support Across the Lifespan "
       subtitle: let's talk about...
       url: /
       image: /images/art_header.png
       alt: support
-  - resources:
-      title: Our Programme
-      subtitle: Explore
-      button: SEE ALL
   - infopic:
       url: /sponsorship/
       alt: Organisers
