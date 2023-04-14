@@ -29,9 +29,9 @@ sections:
   - infopic:
       title: Gan Kim Yong, Minister for Health
       subtitle: "Quote by "
-      description: Mental wellness is important for everyone, regardless of age or
+      description: '"Mental wellness is important for everyone, regardless of age or
         background. We must work together to create a culture that values and
-        supports mental health.
+        supports mental health."'
       alt: Image alt text
   - infopic:
       title: Our Organisers
