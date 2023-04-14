@@ -33,8 +33,9 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: "BROUGHT TO YOU BY "
+      title: Our Organisers
       url: /
       image: /images/co-organiser no words.png
-      alt: support
+      alt: Organisers
+      subtitle: Brought To You By...
 ---
