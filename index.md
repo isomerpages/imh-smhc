@@ -21,14 +21,14 @@ sections:
           description: Virtual And Physical Viewing
           url: ""
   - infopic:
-      title: Organised By
-      url: /
-      image: /images/co-organiser no words.png
-      alt: support
-  - infopic:
       url: /sponsorship/
       alt: Organisers
       image: /images/art_header.png
       subtitle: previous events...
       title: Our Mental Health
+  - infopic:
+      title: "BROUGHT TO YOU BY "
+      url: /
+      image: /images/co-organiser no words.png
+      alt: support
 ---
