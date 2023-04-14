@@ -29,7 +29,7 @@ sections:
       description: SMHC is a platform where professionals gather to exchange ideas and
         discuss ways to improve the mental health of our population.
   - infobar:
-      title: Gan Kim Yong, Minister for Health
+      title: Gan Kim Yong, Minister of Health 2021
       subtitle: "Quote by "
       description: '"Mental wellness is important for everyone, regardless of age or
         background. We must work together to create a culture that values and
