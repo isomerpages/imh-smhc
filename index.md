@@ -24,8 +24,8 @@ sections:
       url: /sponsorship/
       alt: Organisers
       image: /images/art_header.png
-      subtitle: previous events...
-      title: Our Mental Health
+      subtitle: let's talk about...
+      title: Mental Health
   - infopic:
       title: Gan Kim Yong, Minister for Health
       subtitle: "Quote by "
