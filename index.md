@@ -20,12 +20,6 @@ sections:
         - title: HYBRID EVENT
           description: Virtual And Physical Viewing
           url: ""
-  - infobar:
-      title: Gan Kim Yong, Minister for Health
-      subtitle: "Quote by "
-      description: '"Mental wellness is important for everyone, regardless of age or
-        background. We must work together to create a culture that values and
-        supports mental health."'
   - infopic:
       url: /sponsorship/
       alt: Organisers
@@ -34,6 +28,12 @@ sections:
       title: Mental Wellbeing
       description: SMHC is a platform where professionals gather to exchange ideas and
         discuss ways to improve the mental health of our population.
+  - infobar:
+      title: Gan Kim Yong, Minister for Health
+      subtitle: "Quote by "
+      description: '"Mental wellness is important for everyone, regardless of age or
+        background. We must work together to create a culture that values and
+        supports mental health."'
   - infopic:
       title: Our Organisers
       url: /
