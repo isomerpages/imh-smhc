@@ -8,43 +8,8 @@ notification: Event Coming Soon In October
 sections:
   - hero:
       title: Singapore Mental Health Conference 2023
-      subtitle: COMING SOON IN OCTOBER
+      subtitle: 4 - 5 OCTOBER
       background: /images/Banner copy.png
-      key_highlights:
-        - title: OVER 30 SPEAKERS
-          description: From Esteemed Institutes
-          url: ""
-        - title: LEARNING ABOUT SUPPORT
-          description: Throughout Your Lifetime
-          url: ""
-        - title: HYBRID EVENT
-          description: Virtual And Physical Viewing
-          url: ""
-  - infopic:
-      url: /sponsorship/
-      alt: Organisers
-      image: /images/art_header.png
-      subtitle: Collaborate for impact
-      title: Bringing Healthcare Professionals Together
-      description: SMHC is a platform where professionals gather to exchange ideas and
-        discuss ways to improve the mental health of our population.
-  - infobar:
-      title: Gan Kim Yong, Minister of Health 2021
-      subtitle: "Quote by "
-      description: '"Mental wellness is important for everyone, regardless of age or
-        background. We must work together to create a culture that values and
-        supports mental health."'
-  - infopic:
-      title: SMHC 2022
-      subtitle: Remembering Our Past Event
-      description: " Inspiring, Educational, and Unforgettable"
-      alt: Image alt text
-      image: /images/istockphoto-1290277712-612x612.jpg
-  - infobar:
-      title: In October
-      subtitle: event coming soon...
-      description: Stay tuned for more updates on our exciting lineup of workshops,
-        panels, and presentations
   - infopic:
       title: Our Organisers
       url: /
