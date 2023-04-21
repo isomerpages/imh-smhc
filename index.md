@@ -10,6 +10,8 @@ sections:
       title: Singapore Mental Health Conference 2023
       subtitle: 4 - 5 OCTOBER
       background: /images/Banner copy.png
+      button: Save the date
+      url: /
   - infopic:
       title: Our Organisers
       url: /
