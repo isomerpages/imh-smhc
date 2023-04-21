@@ -8,7 +8,7 @@ notification: Event Coming Soon In October
 sections:
   - hero:
       title: Singapore Mental Health Conference 2023
-      subtitle: 4 - 5 OCTOBER
+      subtitle: 4 - 5 OCTOBER 2023, SINGAPORE EXPO
       background: /images/Banner copy.png
       button: Save the date
       url: /
