@@ -13,9 +13,8 @@ sections:
       button: Save the date
       url: /
   - infopic:
-      title: Our Organisers
       url: /
       image: /images/co-organiser no words.png
       alt: Organisers
-      subtitle: Brought To You By...
+      subtitle: Organised By
 ---
