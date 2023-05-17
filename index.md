@@ -16,22 +16,32 @@ sections:
         - title: Over 30 speakers
           description: From Esteemed Institutes
           url: ""
-        - title: Learniung about support
+        - title: Learning about support
           description: Throughout Your Lifetime
           url: ""
         - title: Hybrid Event
           description: Virtual and Physical Viewing
           url: ""
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Bringing Healthcare Proffesionals Together
+      subtitle: collaborate for impact
+      description: SMHC is a platform where professionals gathe to exchange ideas and
+        discuss ways to improve the mental health of our population
       alt: Image alt text
+      image: /images/art_header.png
+  - infobar:
+      title: Psychosocial Network of Support Across the Lifespan
+      subtitle: "let's talk about "
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Our Programme
+      subtitle: explore
+      button: See all
+  - infopic:
+      title: SMHC 2022
+      subtitle: Remembering our past event
+      description: Inspiring, Educational, and Unforgettable
+      image: /images/istockphoto-1290277712-612x612.jpg
+      alt: Image alt text
   - infopic:
       url: /
       image: /images/co-organiser no words.png
