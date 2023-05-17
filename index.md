@@ -30,8 +30,11 @@ sections:
       alt: Image alt text
       image: /images/art_header.png
   - infobar:
-      title: Psychosocial Network of Support Across the Lifespan
-      subtitle: "let's talk about "
+      title: Gan Kim Yong, Minister of Health 2021
+      subtitle: "quote by "
+      description: '"Mental wellness is important for everyone, regardless of age or
+        background. We must work together to create a culture that values and
+        supports mental health."'
   - resources:
       title: Our Programme
       subtitle: explore
