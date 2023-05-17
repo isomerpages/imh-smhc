@@ -12,6 +12,16 @@ sections:
       background: /images/rectangle 23.png
       button: Save the date
       url: /
+      key_highlights:
+        - title: Over 30 speakers
+          description: From Esteemed Institutes
+          url: ""
+        - title: Learniung about support
+          description: Throughout Your Lifetime
+          url: ""
+        - title: Hybrid Event
+          description: Virtual and Physical Viewing
+          url: ""
   - infopic:
       url: /
       image: /images/co-organiser no words.png
