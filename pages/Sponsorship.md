@@ -4,46 +4,11 @@ permalink: /sponsorship/
 description: ""
 ---
 
-
-
-
 <div class="image-logo-container">
     <a href="https://hpb.gov.sg/"><img src="/images/HPB_R_V_CMYK_Logo%201.png" alt="Image 1"></a>
     <a href="https://www.aic.sg/"><img src="/images/SMHClogoAIC_page-0001.png" alt="Image 2"></a>
     <a href="https://www.ncss.gov.sg/"><img src="/images/SMHCNCSSlogo2014hires.png" alt="Image 3"></a>
-    <a href="https://www.ncss.gov.sg/"><img src="/images/SMHCNCSSlogo2014hires.png" alt="Image 3"></a>
-    <a href="https://www.ncss.gov.sg/"><img src="/images/SMHCNCSSlogo2014hires.png" alt="Image 3"></a>
 </div>
 
-<table >
-    <tr>
-        <td align="center">
-        <a href="https://hpb.gov.sg/"><img src="/images/HPB_R_V_CMYK_Logo%201.png" alt="Description of Image 9" width="200"></a>
-        <br>
-        </td>
-        <td align="center">
-        <a href="https://www.aic.sg/"><img src="/images/SMHClogoAIC_page-0001.png" alt="Description of Image 10" width="200"></a>
-        <br>
-        </td>
-        <td align="center">
-        <a href="https://www.ncss.gov.sg/"><img src="/images/SMHCNCSSlogo2014hires.png" alt="Description of Image 10" width="200"></a>
-        <br>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-        <a href="https://hpb.gov.sg/"><img src="/images/HPB_R_V_CMYK_Logo%201.png" alt="Description of Image 9" width="200"></a>
-        <br>
-        </td>
-        <td align="center">
-        <a href="https://www.aic.sg/"><img src="/images/SMHClogoAIC_page-0001.png" alt="Description of Image 10" width="200"></a>
-        <br>
-        </td>
-        <td align="center">
-        <a href="https://www.ncss.gov.sg/"><img src="/images/SMHCNCSSlogo2014hires.png" alt="Description of Image 10" width="200"></a>
-        <br>
-        </td>
-    </tr>
-</table>
 
 ###### For Sponsorship enquiries, please [contact us](/contact-us-customised/)!
