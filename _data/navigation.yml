@@ -1,2 +1,9 @@
 logo: /images/smhc2023_logo_horizontal_updated.png
-links: []
+links:
+  - title: Resources
+    resource_room: true
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
