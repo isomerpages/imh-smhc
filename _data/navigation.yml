@@ -1,32 +1,18 @@
 logo: /images/SMHC2023_logo_horizontal.png
 links:
   - title: About
-    url: /about
-    sublinks: []
-  - title: Programme
-    url: /programme
-    sublinks: []
-  - title: Speakers
-    url: /speakers
-    sublinks: []
-  - title: Posters
-    url: /posters
-  - title: Sponsorship
-    url: /sponsorship
-  - title: Contact Us
-    url: /contact-us
-  - title: Register
-    url: /register
-    sublinks: []
-  - title: Log In
-    url: /log-in
-  - title: About
     collection: about
   - title: Programme
     collection: programme
   - title: Speakers
     collection: speakers
-  - title: Speakers
-    collection: speakers
+  - title: Sponsorship
+    url: /sponsorship
+  - title: Contact Us
+    url: /contact-us
+  - title: Posters
+    url: /posters
   - title: Register
     collection: register
+  - title: Log In
+    url: /log-in
