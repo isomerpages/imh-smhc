@@ -20,11 +20,7 @@ third_nav_title: Plenary Speakers
       <a href="/speakers/plenary-speakers/speaker-3/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 3" width="150"></a>
       <br>
     </td>
-    <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-4/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 4" width="150"></a>
-      <br>
-    </td>
-</tr>
+  </tr>
 
   <tr>
     <td align="center">
