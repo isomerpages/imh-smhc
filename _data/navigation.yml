@@ -16,3 +16,8 @@ links:
     collection: register
   - title: Log In
     url: /log-in
+  - title: About
+    url: /about
+    sublinks:
+      - title: Welcome Message
+        url: /about/welcome
