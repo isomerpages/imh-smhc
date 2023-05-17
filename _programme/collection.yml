@@ -1,0 +1,7 @@
+collections:
+  programme:
+    output: true
+    order:
+      - Day 1 Programme.md
+      - Day 2 Programme.md
+      - Download eProgramme Booklet.md
