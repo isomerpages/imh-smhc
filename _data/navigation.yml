@@ -17,7 +17,7 @@ links:
   - title: Log In
     url: /log-in
   - title: About
-    url: /about
+    url: /about/welcome-message/
     sublinks:
       - title: Welcome Message
-        url: /about/welcome
+        url: /about/welcome-message/
