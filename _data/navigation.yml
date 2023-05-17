@@ -20,3 +20,13 @@ links:
     sublinks: []
   - title: Log In
     url: /log-in
+  - title: About
+    collection: about
+  - title: Programme
+    collection: programme
+  - title: Speakers
+    collection: speakers
+  - title: Speakers
+    collection: speakers
+  - title: Register
+    collection: register
