@@ -23,6 +23,16 @@ sections:
           description: Virtual and Physical Viewing
           url: ""
   - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
+  - infopic:
       url: /
       image: /images/co-organiser no words.png
       alt: Organisers
