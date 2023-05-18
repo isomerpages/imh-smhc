@@ -6,53 +6,39 @@ third_nav_title: Plenary Speakers
 ---
 #  Speakers
 
-<table >
-  <tr>
-    <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-1/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 1" width="150"></a>
-      <br>
-    </td>
-    <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-2/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 2" width="150"></a>
-      <br>
-    </td>
-    <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-3/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 3" width="150"></a>
-      <br>
-    </td>
-    <td align="center" border="none">
-      <a href="/speakers/plenary-speakers/speaker-4/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 4" width="150"></a>
-      <br>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="/speakers/plenary-speakers/speaker-5/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 5" width="200"></a>
-      <br>
-    </td>
-    <td align="center">
-      <a href="/speakers/plenary-speakers/speaker-6/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 6" width="200"></a>
-      <br>
-    </td>
-    <td align="center">
-      <a href="/speakers/plenary-speakers/speaker-7/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 7" width="200"></a>
-      <br>
-    </td>
-    <td align="center">
-      <a href="/speakers/plenary-speakers/speaker-8/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 8" width="200"></a>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="/speakers/plenary-speakers/speaker-9/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 9" width="200"></a>
-      <br>
-    </td>
-    <td align="center">
-      <a href="/speakers/plenary-speakers/speaker-10/"><img src="/images/Speaker%20Summary.png" alt="Description of Image 10" width="200"></a>
-      <br>
-    </td>
-    </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-1/"><img alt="plenary speakers 1" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-2/"><img alt="plenary speakers 2" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-3/"><img alt="plenary speakers 3" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-4/"><img alt="plenary speakers 4" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-5/"><img alt="plenary speakers 5" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-6/"><img alt="plenary speakers 6" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-7/"><img alt="plenary speakers 7" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-8/"><img alt="plenary speakers 8" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-9/"><img alt="plenary speakers 9" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-10/"><img alt="plenary speakers 10" src="/images/Speaker%20Summary.png"></a>
+  </div>
+  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/speaker-11/"><img alt="plenary speakers 11" src="/images/Speaker%20Summary.png"></a>
+ 
+</div>
 
