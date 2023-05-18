@@ -39,6 +39,6 @@ third_nav_title: Plenary Speakers
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/plenary-speakers/speaker-11/"><img alt="plenary speakers 11" src="/images/Speaker%20Summary.png"></a>
- 
+  </div>
 </div>
 
