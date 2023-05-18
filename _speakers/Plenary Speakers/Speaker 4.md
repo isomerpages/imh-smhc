@@ -9,21 +9,21 @@ third_nav_title: Plenary Speakers
     <a href="https://hpb.gov.sg/"><img alt="Image 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="link2"><img alt="Image 2" src=""></a>
+    <a href="https://hpb.gov.sg/"><img alt="Image 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="https://www.youtube.com"><img alt="Image 3" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
+    <a href="https://hpb.gov.sg/"><img alt="Image 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="link4"><img alt="Image 4" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
+    <a href="https://hpb.gov.sg/"><img alt="Image 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
-</div>
-<br>
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: 33.33%; max-width: 100%;">
-    <a href="link5"><img alt="Image 5" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="https://hpb.gov.sg/"><img alt="Image 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
-  <div style="flex-basis: 33.33%; max-width:100%;">
-    <a href="https://youtube.com/"><img alt="Image 6" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="https://hpb.gov.sg/"><img alt="Image 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="https://hpb.gov.sg/"><img alt="Image 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
 </div>
