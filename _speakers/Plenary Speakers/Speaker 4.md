@@ -19,10 +19,10 @@ third_nav_title: Plenary Speakers
   </div>
 </div>
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: 25%; max-width: 25%;">
+  <div style="flex-basis: 33.33%; max-width: 100%;">
     <a href="link5"><img alt="Image 5" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
-  <div style="flex-basis: 25%; max-width:25%;">
+  <div style="flex-basis: 33.33%; max-width:100%;">
     <a href="https://youtube.com/"><img alt="Image 6" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
 </div>
