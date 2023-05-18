@@ -9,7 +9,7 @@ third_nav_title: Plenary Speakers
     <a href="https://hpb.gov.sg/"><img alt="Image 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="link2"><img alt="Image 2" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
+    <a href="link2"><img alt="Image 2" src=""></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="link3"><img alt="Image 3" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
