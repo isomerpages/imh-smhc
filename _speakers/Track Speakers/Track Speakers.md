@@ -40,4 +40,19 @@ third_nav_title: Track Speakers
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 11" src="/images/Speaker%20Summary.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 12" src="/images/Speaker%20Summary.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 13" src="/images/Speaker%20Summary.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 14" src="/images/Speaker%20Summary.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 15" src="/images/Speaker%20Summary.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 16" src="/images/Speaker%20Summary.png"></a>
+  </div>
 </div>
