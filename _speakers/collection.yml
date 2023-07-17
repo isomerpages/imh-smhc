@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Keynote Speaker.md
-      - Plenary Speakers/Prof Swapna Verma.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Plenary Speakers.md
+      - Plenary Speakers/Prof Swapna Verma.md
       - Plenary Speakers/Speaker 1.md
       - Plenary Speakers/Speaker 2.md
       - Plenary Speakers/Speaker 3.md
