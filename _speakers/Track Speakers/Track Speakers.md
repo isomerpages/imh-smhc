@@ -8,10 +8,10 @@ third_nav_title: Track Speakers
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/prof-swapna-verma/"><img alt="track speakers 1" src="/images/SpeakersPhoto/profswapna1.jpg"></a>
+    <a href="/speakers/track-speakers/ellaisha-samari/"><img alt="track speaker 1" src="/images/SpeakersPhoto/ellaishasamaritn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-2/"><img alt="track speakers 2" src="/images/Speaker%20Summary.png"></a>
+    <a href="/speakers/track-speakers/speaker-2/"><img alt="track speaker 2" src="/images/Speaker%20Summary.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/speaker-3/"><img alt="track speakers 3" src="/images/Speaker%20Summary.png"></a>
