@@ -11,48 +11,45 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/adeline-ng"><img alt="track speaker 2" src="/images/SpeakersPhoto/adelinengtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-3/"><img alt="track speakers 3" src="/images/SpeakersPhoto/bernardlimtn.png"></a>
+    <a href="/speakers/track-speakers/bernard-lim"><img alt="track speakers 3" src="/images/SpeakersPhoto/bernardlimtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-4/"><img alt="track speakers 4" src="/images/SpeakersPhoto/chiasiokhoontn.png"></a>
+    <a href="/speakers/track-speakers/chia-siok-hoon"><img alt="track speakers 4" src="/images/SpeakersPhoto/chiasiokhoontn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-5/"><img alt="track speakers 5" src="/images/SpeakersPhoto/christophercheoktn.png"></a>
+    <a href="/speakers/track-speakers/christopher-cheok"><img alt="track speakers 5" src="/images/SpeakersPhoto/christophercheoktn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker 1" src="/images/SpeakersPhoto/ellaishasamaritn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-6/"><img alt="track speakers 6" src="/images/SpeakersPhoto/janhavivaingankartn.png"></a>
+    <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers 6" src="/images/SpeakersPhoto/janhavivaingankartn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-7/"><img alt="track speakers 7" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/jean-liu/"><img alt="track speakers 7" src="/images/SpeakersPhoto/jeanliutn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-8/"><img alt="track speakers 8" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers 8" src="/images/SpeakersPhoto/jenniferkohtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-9/"><img alt="track speakers 9" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/kelly-ng"><img alt="track speakers 9" src="/images/SpeakersPhoto/kellyngtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-10/"><img alt="track speakers 10" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/koh-hwan-jing/"><img alt="track speakers 10" src="/images/SpeakersPhoto/kohhwanjingtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 11" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 11" src="/images/SpeakersPhoto/mattoontn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 12" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 12" src="/images/SpeakersPhoto/ongxinlingtn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 13" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 13" src="/images/SpeakersPhoto/pearlineleetn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 14" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 14" src="/images/SpeakersPhoto/rahulmalhotratn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 15" src="/images/SpeakersPhoto/Summary.png"></a>
-  </div>
-	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 16" src="/images/SpeakersPhoto/Summary.png"></a>
+    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 15" src="/images/SpeakersPhoto/yaofengyuantn.png"></a>
   </div>
 </div>
