@@ -8,7 +8,7 @@ third_nav_title: Plenary Speakers
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/prof-swapna-verma/"><img alt="track speakers 1" src="/images/SpeakersPhoto/patrickmcgorrytn.png"></a>
+    <a href="/speakers/track-speakers/prof-swapna-verma/"><img alt="plenary speakers 1" src="/images/SpeakersPhoto/patrickmcgorrytn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/plenary-speakers/speaker-2/"><img alt="plenary speakers 2" src="/images/SpeakersPhoto/swapnavermatn.png"></a>
