@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Keynote Speaker.md
+      - Plenary Speakers/Patrick Mcgorry.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Plenary Speakers.md
       - Plenary Speakers/Swapna Verma.md
