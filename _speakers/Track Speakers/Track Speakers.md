@@ -35,21 +35,21 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/kelly-ng"><img alt="track speakers 9" src="/images/SpeakersPhoto/kellyngtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/koh-hwan-jing/"><img alt="track speakers 10" src="/images/SpeakersPhoto/kohhwanjingtn.png"></a>
+    <a href="/speakers/track-speakers/koh-hwan-jing"><img alt="track speakers 10" src="/images/SpeakersPhoto/kohhwanjingtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 11" src="/images/SpeakersPhoto/mattoontn.png"></a>
+    <a href="/speakers/track-speakers/matt-oon"><img alt="track speakers 11" src="/images/SpeakersPhoto/mattoontn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 12" src="/images/SpeakersPhoto/ongxinlingtn.png"></a>
+    <a href="/speakers/track-speakers/ong-xin-ling"><img alt="track speakers 12" src="/images/SpeakersPhoto/ongxinlingtn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 13" src="/images/SpeakersPhoto/pearlineleetn.png"></a>
+    <a href="/speakers/track-speakers/pearline-lee"><img alt="track speakers 13" src="/images/SpeakersPhoto/pearlineleetn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 14" src="/images/SpeakersPhoto/rahulmalhotratn.png"></a>
+    <a href="/speakers/track-speakers/rahul-malhotra"><img alt="track speakers 14" src="/images/SpeakersPhoto/rahulmalhotratn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/speaker-11/"><img alt="track speakers 15" src="/images/SpeakersPhoto/yaofengyuantn.png"></a>
+    <a href="/speakers/track-speakers/yao-feng-yuan"><img alt="track speakers 15" src="/images/SpeakersPhoto/yaofengyuantn.png"></a>
   </div>
 </div>
