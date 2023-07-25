@@ -4,6 +4,7 @@ permalink: /programme/day-2-programme/
 description: ""
 ---
 ## Overview
+![](/images/Programme/smhc2023day2.png)
 ![](/images/Programme/day2-1.png)
 ![](/images/Programme/day2-2.png)
 ## Tracks
