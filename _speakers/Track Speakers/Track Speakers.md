@@ -82,6 +82,9 @@ third_nav_title: Track Speakers
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/stella-teo"><img alt="track speakers 15" src="/images/SpeakersPhoto/stellateotn.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/steve-loh"><img alt="track speakers 15" src="/images/SpeakersPhoto/stevelohtn.png"></a>
+  </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/thisum-kankanamge"><img alt="track speakers 15" src="/images/SpeakersPhoto/thisumkankanamgetn.png"></a>
   </div>
