@@ -76,6 +76,9 @@ third_nav_title: Track Speakers
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/shazana-shahwan"><img alt="track speakers 15" src="/images/SpeakersPhoto/shazanashahwantn.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/simon-leow"><img alt="track speakers 15" src="/images/SpeakersPhoto/simonleowtn.png"></a>
+  </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/stella-teo"><img alt="track speakers 15" src="/images/SpeakersPhoto/stellateotn.png"></a>
   </div>
