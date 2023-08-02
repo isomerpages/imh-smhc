@@ -13,6 +13,9 @@ third_nav_title: Track Speakers
     <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/adeline-ng"><img alt="track speaker" src="/images/SpeakersPhoto/adelinengtn.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/alvin-neo"><img alt="track speaker" src="/images/SpeakersPhoto/alvinneotn.png"></a>
+  </div>
 	 <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/amaranta-lim"><img alt="track speaker" src="/images/SpeakersPhoto/amarantalimtn.png"></a>
   </div>
@@ -30,6 +33,9 @@ third_nav_title: Track Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/daphne-koek"><img alt="track speaker" src="/images/SpeakersPhoto/daphnekoektn.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/dennis-kom"><img alt="track speaker" src="/images/SpeakersPhoto/denniskomtn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker" src="/images/SpeakersPhoto/ellaishasamaritn.png"></a>
