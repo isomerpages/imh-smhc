@@ -20,6 +20,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/christopher-cheok"><img alt="track speakers" src="/images/SpeakersPhoto/christophercheoktn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/creighton-heaukulani"><img alt="track speakers" src="/images/SpeakersPhoto/creightonheaukulanitn.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker" src="/images/SpeakersPhoto/ellaishasamaritn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
