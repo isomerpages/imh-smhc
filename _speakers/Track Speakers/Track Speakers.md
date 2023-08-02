@@ -13,6 +13,9 @@ third_nav_title: Track Speakers
     <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/adeline-ng"><img alt="track speaker" src="/images/SpeakersPhoto/adelinengtn.png"></a>
   </div>
+	 <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/amaranta-lim"><img alt="track speaker" src="/images/SpeakersPhoto/amarantalimtn.png"></a>
+  </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/bernard-lim"><img alt="track speakers" src="/images/SpeakersPhoto/bernardlimtn.png"></a>
   </div>
