@@ -7,6 +7,9 @@ third_nav_title: Track Speakers
 ##  Speakers
 
 <div style="display: flex; flex-wrap: wrap;">
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/aaron-tan"><img alt="track speaker" src="/images/SpeakersPhoto/aarontantn.png"></a>
+  </div>
     <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/adeline-ng"><img alt="track speaker" src="/images/SpeakersPhoto/adelinengtn.png"></a>
   </div>
