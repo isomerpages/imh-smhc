@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Keynote Speaker.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Plenary Speakers.md
       - Plenary Speakers/Swapna Verma.md
