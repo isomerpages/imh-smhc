@@ -29,25 +29,25 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/jean-liu/"><img alt="track speakers" src="/images/SpeakersPhoto/jeanliutn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers 8" src="/images/SpeakersPhoto/jenniferkohtn.png"></a>
+    <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers" src="/images/SpeakersPhoto/jenniferkohtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/kelly-ng"><img alt="track speakers 9" src="/images/SpeakersPhoto/kellyngtn.png"></a>
+    <a href="/speakers/track-speakers/kelly-ng"><img alt="track speakers" src="/images/SpeakersPhoto/kellyngtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/koh-hwan-jing"><img alt="track speakers 10" src="/images/SpeakersPhoto/kohhwanjingtn.png"></a>
+    <a href="/speakers/track-speakers/koh-hwan-jing"><img alt="track speakers" src="/images/SpeakersPhoto/kohhwanjingtn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers 10" src="/images/SpeakersPhoto/lidongdong.png"></a>
+    <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/SpeakersPhoto/lidongdongtn.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/matt-oon"><img alt="track speakers" src="/images/SpeakersPhoto/mattoontn.png"></a>
   </div>
 	  <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/matt-oon"><img alt="track speakers" src="/images/SpeakersPhoto/ngminhua.png"></a>
+    <a href="/speakers/track-speakers/ng-min-hua"><img alt="track speakers" src="/images/SpeakersPhoto/ngminhuatn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/ong-shi-hui"><img alt="track speakers" src="/images/SpeakersPhoto/ongshihui.png"></a>
+    <a href="/speakers/track-speakers/ong-shi-hui"><img alt="track speakers" src="/images/SpeakersPhoto/ongshihuitn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ong-xin-ling"><img alt="track speakers 12" src="/images/SpeakersPhoto/ongxinlingtn.png"></a>
@@ -83,6 +83,6 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/yao-feng-yuan"><img alt="track speakers 15" src="/images/SpeakersPhoto/yaofengyuantn.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/zhou-quan"><img alt="track speakers" src="/images/SpeakersPhoto/zhouquan.png"></a>
+    <a href="/speakers/track-speakers/zhou-quan"><img alt="track speakers" src="/images/SpeakersPhoto/zhouquantn.png"></a>
   </div>
 </div>
