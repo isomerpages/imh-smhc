@@ -8,6 +8,7 @@ third_nav_title: Track Speakers
   <div style="flex-basis: 100%; max-width: 100%;">
     <img alt="track speakers 1" src="/images/SpeakersPhoto/alvinneo.png">
   </div>
+	</div>
 	
 Dr Alvin Neo is an innovative Family Physician with over 10 years of experience in leadership roles and clinical settings. 
 
@@ -20,4 +21,3 @@ As the project lead of Mindside, Dr Neo is at the forefront of efforts to bring 
 Beyond his organisation, Dr. Neo also contributes to national healthcare policies and protocols. He serves as a member and advisor on several Ministry of Health workgroups and drug advisory boards for pharmaceutical companies.
 	
 Dr. Neo's blend of medical expertise and business acumen bridges the gap between clinical practice and the evolving healthcare landscape. His dedication to innovation and navigating industry complexities positions him as a catalyst for positive change. 
-</div>
