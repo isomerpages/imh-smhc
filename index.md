@@ -10,7 +10,7 @@ sections:
       background: /images/hero image for website 1920 x 720 px-01.jpg
       url: /
   - infopic:
-      image: /images/track  (1).png
+      image: /images/track final.png
       url: /
       title: Track Themes
       button: view here
