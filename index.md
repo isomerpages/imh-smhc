@@ -22,6 +22,9 @@ sections:
         - title: Hybrid Event
           description: Virtual and Physical Viewing
           url: ""
+  - infopic:
+      image: /images/track .png
+      url: https://youtu.be/NQcYZplTXnQ
   - infobar:
       title: Gan Kim Yong, Minister of Health 2021
       subtitle: quote by
@@ -43,6 +46,4 @@ sections:
       image: /images/co-organiser no words.png
       alt: Organisers
       subtitle: Organised By
-  - infopic:
-      image: /images/track .png
 ---
