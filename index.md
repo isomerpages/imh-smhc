@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Singapore Mental Health Conference 2023
       subtitle: 4 - 5 OCTOBER 2023, SINGAPORE EXPO
-      background: /images/emma-simpson-mNGaaLeWEp0-unsplash.jpg
+      background: /images/hero image for website 1920 x 720 px-01.jpg
       button: Save the date
       url: /
   - infopic:
