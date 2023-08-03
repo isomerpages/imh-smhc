@@ -58,6 +58,9 @@ third_nav_title: Track Speakers
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/SpeakersPhoto/lidongdongtn.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/loo-wei-leng"><img alt="track speakers" src="/images/SpeakersPhoto/looweilengtn.png"></a>
+  </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/matt-oon"><img alt="track speakers" src="/images/SpeakersPhoto/mattoontn.png"></a>
   </div>
