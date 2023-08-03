@@ -8,6 +8,7 @@ third_nav_title: Track Speakers
   <div style="flex-basis: 100%; max-width: 100%;">
     <img alt="track speakers 1" src="/images/SpeakersPhoto/simonleow.png">
   </div>
+	</div>
 	
 Mr Simon Leow is the co-founder of Happiness Initiative. It is a social enterprise dedicated to promoting happiness and well-being in Singapore and the region.
 	
@@ -18,4 +19,3 @@ Mr Leow oversees the research and development department at Happiness Initiative
 His strengths include creativity, love for learning, and kindness. His purpose is to build a community that promotes the practice of well-being so that individuals, organisations, and communities can thrive.
 	
 He holds a Master in Applied Positive Psychology from the University of Pennsylvania. His next project is building a Well-Being Resort in Bali.
-</div>
