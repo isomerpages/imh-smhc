@@ -4,15 +4,16 @@ permalink: /contact-us-customised/
 description: ""
 ---
 # Get in touch with us
+For enquiries, please contact us by submitting the form below or email smhc@imh.com.sg.
 
 <div style="font-family: Sans-Serif;
     font-size: 15px;
     color: #000;
     opacity: 0.9;
-    padding-top: 5px;
+    padding-top: px;
     padding-bottom: 8px;">
-  If the form below is not loaded, you can also fill it in at
-  <a href="https://form.gov.sg/64cafc91ffd90d0012d467d8">here</a>.
+  
+  <a href="https://form.gov.sg/64cafc91ffd90d0012d467d8"></a>
 </div>
 
 <!-- Change the width and height values to suit you best -->
