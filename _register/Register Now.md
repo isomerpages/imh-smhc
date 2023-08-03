@@ -5,7 +5,6 @@ description: ""
 ---
 # JOIN US AT SMHC 2023!
 
-Register today!
 
 | Categories of tickets | Early Bird Rates | Regular Rates |
 | -------- | -------- | -------- |
