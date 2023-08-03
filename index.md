@@ -14,7 +14,7 @@ sections:
   - infopic:
       image: /images/track final.png
       url: /
-      title: Track Themes
+      title: Tracks
       button: view here
       alt: Track Theme
   - resources:
