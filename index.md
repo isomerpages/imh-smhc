@@ -22,16 +22,9 @@ sections:
         - title: Hybrid Event
           description: Virtual and Physical Viewing
           url: ""
-  - infopic:
-      title: Bringing Healthcare Proffesionals Together
-      subtitle: collaborate for impact
-      description: SMHC is a platform where professionals gathe to exchange ideas and
-        discuss ways to improve the mental health of our population
-      alt: Image alt text
-      image: /images/art_header.png
   - infobar:
       title: Gan Kim Yong, Minister of Health 2021
-      subtitle: "quote by "
+      subtitle: quote by
       description: '"Mental wellness is important for everyone, regardless of age or
         background. We must work together to create a culture that values and
         supports mental health."'
@@ -50,4 +43,6 @@ sections:
       image: /images/co-organiser no words.png
       alt: Organisers
       subtitle: Organised By
+  - infopic:
+      image: /images/track .png
 ---
