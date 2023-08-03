@@ -8,6 +8,7 @@ third_nav_title: Plenary Speakers
   <div style="flex-basis: 100%; max-width: 100%;">
     <img alt="track speakers 1" src="/images/SpeakersPhoto/alvintan.png">
   </div>
+</div>
 
 **Title of Plenary Topic**: Fostering Mental Resilience in Communities through the SG Mental Well-Being Network 
 	
@@ -25,4 +26,3 @@ Mr Tan has degrees in Economics from Sydney University and Harvard University, a
 MOS Tan will share his insights as Chairperson of the SG Mental Well-Being Network, and how government, partners, and people are coming together to build a caring and inclusive society where no one struggles alone. 
 Launched in July 2022, the SG Mental Well-Being Network was established as a national partnership platform to strengthen mental health and well-being outcomes for our society. One of the Network’s key efforts is to set up Well-Being Circles within the community, where citizens are trained with skills to look after their own mental well-being and that of others. Thus far, over 400 citizens have been trained as peer supporters in their respective neighbourhoods, with plans to set up more Well-Being Circles in the coming year.
 Join in to hear more about the work of the SG Mental Well-Being Network and Well-Being Circles, and how you can be part of this exciting movement. There will also be discussions on how you can partner the Network to foster awareness of mental health and well-being within your communities, and how you can lead your own ground-up mental well-being initiatives. 
-</div>
