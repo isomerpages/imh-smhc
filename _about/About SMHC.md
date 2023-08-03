@@ -3,7 +3,7 @@ title: About SMHC
 permalink: /about/about-smhc/
 description: ""
 ---
-# About SMHC
+# About Singapore Mental Health Conference (SMHC)
 
 We are excited to bring you the 5th edition of the Singapore Mental Health Conference (SMHC). This is a platform where professionals in the healthcare, social service, and intermediate- and long-term care sectors, as well as service users, gather to exchange ideas and discuss ways to improve the mental health of our population. More than 500 delegates had a fruitful time at the last edition of SMHC in 2017 and we look forward to your support again in 2023!  
 
