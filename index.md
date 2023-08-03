@@ -27,7 +27,7 @@ sections:
       alt: Image alt text
   - infopic:
       url: /
-      image: /images/co-organiser no words.png
+      image: /images/orglogocombined.png
       alt: Organisers
       subtitle: Organised By
 ---
