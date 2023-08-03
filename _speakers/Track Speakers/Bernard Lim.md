@@ -8,6 +8,7 @@ third_nav_title: Track Speakers
   <div style="flex-basis: 100%; max-width: 100%;">
     <img alt="track speakers 1" src="/images/SpeakersPhoto/bernardlim.png">
   </div>
+	</div>
 	
 Mr Bernard Lim joined Dementia Singapore in Dec 2022 and oversees all aspects of media for the agency.
 	
@@ -23,4 +24,3 @@ He has more than 20 years in the media and entertainment industry. The reason he
 left the commercial media industry to join Dementia Singapore was to take on more
 purposeful work and reach out to help people living with dementia and their
 caregivers. 
-</div>
