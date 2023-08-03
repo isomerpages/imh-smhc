@@ -31,5 +31,5 @@ sections:
       url: /
       image: /images/orglogocombined.png
       alt: Organisers
-      subtitle: Organised By
+      title: Organised By
 ---
