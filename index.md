@@ -24,9 +24,10 @@ sections:
           url: ""
   - infopic:
       image: /images/track  (1).png
-      url: https://youtu.be/NQcYZplTXnQ
+      url: /
       title: Track Themes
       button: view here
+      alt: Track Theme
   - infobar:
       title: Gan Kim Yong, Minister of Health 2021
       subtitle: quote by
