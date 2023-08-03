@@ -3,16 +3,15 @@ title: Sponsorship
 permalink: /sponsorship/
 description: ""
 ---
+### Exhibition Sponsor
+
 
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: 33.33%; max-width: 33.33%;">
-    <a href="https://hpb.gov.sg/"><img alt="HPB Logo 1" src="/images/HPB_R_V_CMYK_Logo%201.png"></a>
+	<div style="flex-basis: 100%; max-width: 60%;">
+    <a href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img alt="Sumitomo Logo" src="/images/sumitomologo.png"></a>
   </div>
-  <div style="flex-basis: 33.33%; max-width: 33.33%;">
-    <a href="https://www.aic.sg/"><img alt="AIC Logo" src="/images/SMHClogoAIC_page-0001.png"></a>
-  </div>
-  <div style="flex-basis: 33.33%; max-width: 33.33%;">
-    <a href="https://www.ncss.gov.sg/"><img alt="NCSS Logo" src="/images/SMHCNCSSlogo2014hires.png"></a>
+    <div style="flex-basis: 100%; max-width: 60%;">
+    <a href=""><img alt="LF Logo" src="/images/leefoundationlogo.png"></a>
   </div>
 </div>
 
