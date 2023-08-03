@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/hero image for website 1920 x 720 px-01.jpg
-      button: Save the date
       url: /
   - infopic:
       image: /images/track  (1).png
