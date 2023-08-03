@@ -12,16 +12,6 @@ sections:
       background: /images/emma-simpson-mNGaaLeWEp0-unsplash.jpg
       button: Save the date
       url: /
-      key_highlights:
-        - title: Over 30 speakers
-          description: From Esteemed Institutes
-          url: ""
-        - title: Learning about support
-          description: Throughout Your Lifetime
-          url: ""
-        - title: Hybrid Event
-          description: Virtual and Physical Viewing
-          url: ""
   - infopic:
       image: /images/track  (1).png
       url: /
