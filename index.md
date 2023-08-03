@@ -28,12 +28,6 @@ sections:
       title: Track Themes
       button: view here
       alt: Track Theme
-  - infobar:
-      title: Gan Kim Yong, Minister of Health 2021
-      subtitle: quote by
-      description: '"Mental wellness is important for everyone, regardless of age or
-        background. We must work together to create a culture that values and
-        supports mental health."'
   - resources:
       title: Our Programme
       subtitle: explore
@@ -41,7 +35,7 @@ sections:
   - infopic:
       title: SMHC 2022
       subtitle: Remembering our past event
-      description: Inspiring, Educational, and Unforgettable
+      description: Inspiring, Educational and Unforgettable
       image: /images/istockphoto-1290277712-612x612.jpg
       alt: Image alt text
   - infopic:
