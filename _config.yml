@@ -3,10 +3,10 @@ url: https://www.smhc.sg
 favicon: /images/smhc2023logo.png
 colors:
   primary-color: "#213964"
-  secondary-color: "#4a90e2"
+  secondary-color: "#213964"
   media-colors:
     - title: media-color-one
-      color: "#213964"
+      color: "#4a90e2"
     - title: media-color-two
       color: "#4a90e2"
     - title: media-color-three
