@@ -8,10 +8,10 @@ third_nav_title: Plenary Speakers
 
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/plenary-speakers/alvin-tan"><img alt="plenary speakers 2" src="/images/SpeakersPhoto/alvintantn.png"></a>
+    <a href="/speakers/plenary-speakers/alvin-tan"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnalvintan.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/plenary-speakers/swapna-verma"><img alt="plenary speakers 2" src="/images/SpeakersPhoto/swapnavermatn.png"></a>
+    <a href="/speakers/plenary-speakers/swapna-verma"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnswapnaverma.png"></a>
   </div>
 	  
 </div>
