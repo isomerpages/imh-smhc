@@ -20,13 +20,13 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/amaranta-lim"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnamarantalim.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/bernard-lim"><img alt="track speakers" src="/images/SpeakersPhoto/bernardlimtn.png"></a>
+    <a href="/speakers/track-speakers/bernard-lim"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnbernardlim.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/chia-siok-hoon"><img alt="track speakers" src="/images/SpeakersPhoto/chiasiokhoontn.png"></a>
+    <a href="/speakers/track-speakers/chia-siok-hoon"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnchiasiokhoon.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/christopher-cheok"><img alt="track speakers" src="/images/SpeakersPhoto/christophercheoktn.png"></a>
+    <a href="/speakers/track-speakers/christopher-cheok"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnchristophercheok.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/creighton-heaukulani"><img alt="track speakers" src="/images/SpeakersPhoto/creightonheaukulanitn.png"></a>
