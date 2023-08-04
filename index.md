@@ -21,12 +21,6 @@ sections:
       subtitle: explore
       button: See all
   - infopic:
-      title: SMHC 2022
-      subtitle: Remembering our past event
-      description: Inspiring, Educational and Unforgettable
-      image: /images/istockphoto-1290277712-612x612.jpg
-      alt: Image alt text
-  - infopic:
       url: /
       image: /images/orglogocombined.png
       alt: Organisers
