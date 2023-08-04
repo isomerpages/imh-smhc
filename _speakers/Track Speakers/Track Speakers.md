@@ -56,7 +56,7 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/koh-hwan-jing"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnkohhwanjing.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/SpeakersPhoto/lidongdongtn.png"></a>
+    <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlidongdong.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/loo-wei-leng"><img alt="track speakers" src="/images/SpeakersPhoto/looweilengtn.png"></a>
