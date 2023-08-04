@@ -38,10 +38,10 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/dennis-kom"><img alt="track speaker" src="/images/TNSpeakersPhoto/tndenniskom.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker" src="/images/SpeakersPhoto/ellaishasamaritn.png"></a>
+    <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnellaishasamari.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers" src="/images/SpeakersPhoto/janhavivaingankartn.png"></a>
+    <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjanhavivaingankar.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/jean-liu/"><img alt="track speakers" src="/images/SpeakersPhoto/jeanliutn.png"></a>
