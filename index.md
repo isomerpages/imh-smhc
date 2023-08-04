@@ -12,7 +12,7 @@ sections:
       title: Co-Creating Our Mental Health Ecosystem
       subtitle: 4-5 October 2023 | MAX Atria Singapore Expo
   - infopic:
-      image: /images/track 2_synopsis.png
+      image: /images/track (2)_v2.png
       url: /
       title: "Wellbeing @Work: Building a Healthy and Positive Workforce"
       alt: Track Theme
