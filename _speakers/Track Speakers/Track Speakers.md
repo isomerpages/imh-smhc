@@ -44,16 +44,16 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjanhavivaingankar.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/jean-liu/"><img alt="track speakers" src="/images/SpeakersPhoto/jeanliutn.png"></a>
+    <a href="/speakers/track-speakers/jean-liu/"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjeanliu.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers" src="/images/SpeakersPhoto/jenniferkohtn.png"></a>
+    <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjenniferkoh.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/kelly-ng"><img alt="track speakers" src="/images/SpeakersPhoto/kellyngtn.png"></a>
+    <a href="/speakers/track-speakers/kelly-ng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnkellyng.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/koh-hwan-jing"><img alt="track speakers" src="/images/SpeakersPhoto/kohhwanjingtn.png"></a>
+    <a href="/speakers/track-speakers/koh-hwan-jing"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnkohhwanjing.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/SpeakersPhoto/lidongdongtn.png"></a>
