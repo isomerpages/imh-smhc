@@ -95,19 +95,19 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/simon-leow"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnsimonleow.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/stella-teo"><img alt="track speakers 15" src="/images/SpeakersPhoto/stellateotn.png"></a>
+    <a href="/speakers/track-speakers/stella-teo"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnstellateo.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/steve-loh"><img alt="track speakers 15" src="/images/SpeakersPhoto/stevelohtn.png"></a>
+    <a href="/speakers/track-speakers/steve-loh"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnsteveloh.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/thisum-kankanamge"><img alt="track speakers 15" src="/images/SpeakersPhoto/thisumkankanamgetn.png"></a>
+    <a href="/speakers/track-speakers/thisum-kankanamge"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnthisumkankanamge.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/tricia-lee"><img alt="track speakers 15" src="/images/SpeakersPhoto/tricialeetn.png"></a>
+    <a href="/speakers/track-speakers/tricia-lee"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tntricialee.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/will-fong"><img alt="track speakers 15" src="/images/SpeakersPhoto/willfongtn.png"></a>
+    <a href="/speakers/track-speakers/will-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnwillfong.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/yao-feng-yuan"><img alt="track speakers 15" src="/images/SpeakersPhoto/yaofengyuantn.png"></a>
