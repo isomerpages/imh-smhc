@@ -4,7 +4,6 @@ permalink: /programme/day-1-programme/
 description: ""
 ---
 ## Overview
-![](/images/Programme/day1-1.png)
-![](/images/Programme/day1-2.png)
+![day 1 (pm)](/images/day%201%20(pm).png)
 ## Tracks
 ![](/images/Tracks.png)
