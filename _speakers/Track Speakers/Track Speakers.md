@@ -74,10 +74,10 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/ong-shi-hui"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnongshihui.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/ong-xin-ling"><img alt="track speakers 12" src="/images/SpeakersPhoto/ongxinlingtn.png"></a>
+    <a href="/speakers/track-speakers/ong-xin-ling"><img alt="track speakers 12" src="/images/TNSpeakersPhoto/tnongxinling.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/pearline-lee"><img alt="track speakers 13" src="/images/SpeakersPhoto/pearlineleetn.png"></a>
+    <a href="/speakers/track-speakers/pearline-lee"><img alt="track speakers 13" src="/images/TNSpeakersPhoto/tnpearlinelee.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/rahul-malhotra"><img alt="track speakers 14" src="/images/SpeakersPhoto/rahulmalhotratn.png"></a>
