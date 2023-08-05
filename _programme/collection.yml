@@ -2,10 +2,10 @@ collections:
   programme:
     output: true
     order:
-      - Programme (Part 2)/Day 2 (AM).md
-      - Programme (Part 2)/Day 2 (PM).md
-      - Programme (Part 2)/.keep
       - Programme (Part 1)/.keep
       - Programme (Part 1)/Day 1 (AM).md
       - Programme (Part 1)/Day 1 (PM).md
+      - Programme (Part 2)/.keep
+      - Programme (Part 2)/Day 2 (AM).md
+      - Programme (Part 2)/Day 2 (PM).md
       - Download eProgramme Booklet.md
