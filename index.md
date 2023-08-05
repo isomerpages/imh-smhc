@@ -14,15 +14,16 @@ sections:
   - infopic:
       image: /images/track (2)_v2.png
       url: /
-      title: "Wellbeing @Work: Building a Healthy and Positive Workforce"
+      title: Mental Health and Resilience for Children and Youth
       alt: Track Theme
+      subtitle: Track 1
+  - infopic:
+      title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
+      subtitle: Track 2
+      alt: Image alt text
   - infopic:
       url: /
       image: /images/orglogocombined.png
       alt: Organisers
       title: Organised By
-  - infopic:
-      title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
-      subtitle: Track 2
-      alt: Image alt text
 ---
