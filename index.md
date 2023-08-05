@@ -21,4 +21,8 @@ sections:
       image: /images/orglogocombined.png
       alt: Organisers
       title: Organised By
+  - infopic:
+      title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
+      subtitle: Track 2
+      alt: Image alt text
 ---
