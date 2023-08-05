@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programme (Part I)/.keep
-      - Programme (Part I)/Day 1 (PM).md
       - Programme (Part II)/Day 2 (AM).md
       - Programme (Part II)/.keep
       - Programme (Part II)/Day 2 (PM).md
