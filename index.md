@@ -26,4 +26,8 @@ sections:
       image: /images/orglogocombined.png
       alt: Organisers
       title: Organised By
+  - infopic:
+      title: Mental Wellness in the Silver Years
+      subtitle: Track 3
+      alt: Image alt text
 ---
