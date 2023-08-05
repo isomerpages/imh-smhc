@@ -14,5 +14,3 @@ links:
     collection: register
   - title: Log In
     url: /log-in
-  - title: Resource
-    resource_room: true
