@@ -31,6 +31,7 @@ sections:
       title: Enhancing Mental Health with Technology
       subtitle: Track 4
       alt: Image alt text
+      image: /images/tm373-s88-15-min.jpg
   - infopic:
       url: /
       image: /images/orglogocombined.png
