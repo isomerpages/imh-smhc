@@ -2,6 +2,7 @@ collections:
   programme:
     output: true
     order:
+      - Day 1 Programme/.keep
       - Day 1 (AM).md
       - Day 1 (PM).md
       - Day 2 (AM).md
