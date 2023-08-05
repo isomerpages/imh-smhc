@@ -26,6 +26,7 @@ sections:
       title: Mental Wellness in the Silver Years
       subtitle: Track 3
       alt: Image alt text
+      image: /images/young-woman-holding-elderly-woman-s-hand-min.jpg
   - infopic:
       title: Enhancing Mental Health with Technology
       subtitle: Track 4
