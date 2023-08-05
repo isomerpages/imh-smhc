@@ -16,10 +16,6 @@ sections:
       url: /
       title: "Wellbeing @Work: Building a Healthy and Positive Workforce"
       alt: Track Theme
-  - resources:
-      title: Our Programme
-      subtitle: explore
-      button: See all
   - infopic:
       url: /
       image: /images/orglogocombined.png
