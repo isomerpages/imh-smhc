@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Programme (Part II)
 ---
 ## Overview
-![day 2/AM](/images/day%202%20(am).png)
+![day 2_am](/images/day%202_am.png)
