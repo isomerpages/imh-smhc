@@ -3,7 +3,7 @@ title: Terms and Conditions
 permalink: /register/terms-of-use/
 description: ""
 ---
-# TERMS AND CONDITIONS  
+# T&C 
 A. GENERAL INFORMATION  
 * The Singapore Mental Heath Conference (SMHC) 2023 will be held at MAX Atria @ Singapore EXPO from Wednesday, 30 Jan 2023 to Thursday, 31 Jan 2023. All delegates and faculties will be notified via e-mail and sms if there is any change to the venue.  
 * The programme schedule for SMHC 2023 is final, although updates/refinements may be made occasionally. The line-up of speakers may be adjusted accordingly if any speaker (due to illness or other urgent matters) is suddenly unable to participate. A replacement speaker of similar qualifications/ experience/seniority will be sourced in the light of such an event.  
