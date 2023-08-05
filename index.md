@@ -22,12 +22,16 @@ sections:
       subtitle: Track 2
       alt: Image alt text
   - infopic:
+      title: Mental Wellness in the Silver Years
+      subtitle: Track 3
+      alt: Image alt text
+  - infopic:
       url: /
       image: /images/orglogocombined.png
       alt: Organisers
       title: Organised By
   - infopic:
-      title: Mental Wellness in the Silver Years
-      subtitle: Track 3
+      title: Enhancing Mental Health with Technology
+      subtitle: Track 4
       alt: Image alt text
 ---
