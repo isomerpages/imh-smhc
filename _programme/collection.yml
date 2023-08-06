@@ -2,5 +2,6 @@ collections:
   programme:
     output: true
     order:
+      - Conference Day 1/.keep
       - Day 2 (AM).md
       - Download eProgramme Booklet.md
