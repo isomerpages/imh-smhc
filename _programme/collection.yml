@@ -2,9 +2,9 @@ collections:
   programme:
     output: true
     order:
-      - Conference Day 1/Programme Day 1 (PM).md
-      - Conference Day 1/Programme Day 1 (AM).md
       - Conference Day 1/.keep
+      - Conference Day 1/Programme Day 1 (AM).md
+      - Conference Day 1/Programme Day 1 (PM).md
       - Conference Day 2/.keep
       - Day 2 (AM).md
       - Download eProgramme Booklet.md
