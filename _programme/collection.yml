@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Conference (Part I)/.keep
-      - Conference Day 2/.keep
+      - Conference (Part II)/.keep
       - Day 2 (AM).md
       - Download eProgramme Booklet.md
