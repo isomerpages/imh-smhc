@@ -13,7 +13,7 @@ description: ""
    <img alt="logo" src="/images/SponsorsLogo/johnsonv2.png">
   </div>
 	<div style="flex-basis: 30%; max-width: 30%;">
-		 <a href="https://www..html"> <img alt="logo" src="/images/SponsorsLogo/leefoundationv2.png"></a>
+		<img alt="logo" src="/images/SponsorsLogo/leefoundationv2.png">
   </div>
 	</div>
 
