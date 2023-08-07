@@ -34,7 +34,7 @@ sections:
       image: /images/tm373-s88-15-min.jpg
   - infopic:
       url: /
-      image: /images/organisedby.png
+      image: /images/combinedlogos.png
       alt: Organisers
       title: Organised By
 ---
