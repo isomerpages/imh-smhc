@@ -24,7 +24,7 @@ B. Registration Information
 * All prices quoted and payments are in Singapore Dollars (SGD) and are subjected to prevailing 8% Goods and Services Tax (GST) and 4.5% credit card charges (for online registrations).
 * Full time tertiary students who wish to register for the conference must upload their student identification card or proof of qualifying student status online during registration in order to be eligible for student rates online.
 * The online registration portal accepts individual registrations only, and payment by credit / debit card for each online registration must be made in full upon registration.
-* For group and company-sponsored registrations, please email \[smhc@imh.com.sg\](mailto:smhc@imh.com.sg).
+* For group and company-sponsored registrations, please email smhc@imh.com.sg
 
 ·        Delegates will receive their confirmation emails with registration details upon successful registration.
 
