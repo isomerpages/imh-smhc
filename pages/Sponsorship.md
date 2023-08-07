@@ -9,8 +9,8 @@ description: ""
     <div style="flex-basis: 30%; max-width: 30%;">
      <a href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img alt="Sumitomo Logo" src="/images/SponsorsLogo/sumitomov2.png"></a>
   </div>
-	<div style="flex-basis: 30%; max-width: 30%;">
-   <img alt="logo" src="/images/SponsorsLogo/johnsonv2.png">
+	 <div style="flex-basis: 30%; max-width: 30%;">
+     <a href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img alt="Sumitomo Logo" src="/images/SponsorsLogo/johnsonv2.png"></a>
   </div>
 	<div style="flex-basis: 30%; max-width: 30%;">
 		<img alt="logo" src="/images/SponsorsLogo/leefoundationv2.png">
