@@ -3,7 +3,7 @@ title: Register Now
 permalink: /register/register-now/
 description: ""
 ---
-# JOIN US AT SMHC 2023!
+## JOIN US AT SMHC 2023
 
 
 | Categories of tickets | Early Bird Rates | Regular Rates |
