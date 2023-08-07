@@ -10,6 +10,6 @@ description: ""
 | -------- | -------- | -------- |
 | Physical     | $290     | $350     |
 | Virtual     | $190     | $250     |
-| Student     | $50     | $50     |
+| Student (In-person/Virtual)     | $50     | $50     |
 
 <button class="my-button"><a href="https://www.google.com">Register now</a></button>
