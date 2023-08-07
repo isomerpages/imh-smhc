@@ -3,7 +3,7 @@ title: Terms and Conditions
 permalink: /register/terms-of-use/
 description: ""
 ---
-## Terms and Conditions of Ticket Sales
+# Terms and Conditions of Ticket Sales
 
 **2023 Singapore Mental Health Conference**
 
