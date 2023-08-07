@@ -109,7 +109,7 @@ i. The Organiser shall protect and take all reasonable precautions and adequate 
 
 ii. The Organiser will protect the confidentiality of the delegates’ personal information in its dealing with third party Vendors.
 
-3.  The Organiser will not request for the delegates’ username and password via email or telephone. If the delegates receive such requests, please inform the Conference Secretariat immediately at \[smhc@imh.com.sg\](mailto:smhc@imh.com.sg).
+iii. The Organiser will not request for the delegates’ username and password via email or telephone. If the delegates receive such requests, please inform the Conference Secretariat immediately at smhc@imh.com.sg.
 
 7.  \*\*Accuracy of Personal Information\*\*
 
