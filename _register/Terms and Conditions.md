@@ -121,9 +121,9 @@ iii. A ‘Registration Confirmation’ Email will be sent to all successful regi
 
 iv. The delegates may email to smhc@imh.com.sg and request for changes to be made to their registration details.
 
-9.  \*\*Retention and Destruction of Personal Information\*\*
+**5. Retention and Destruction of Personal Information**
 
-1.  The Organiser will maintain appropriate practices for retention and destruction where delegates’ personal information will be erased and destroyed if it is no longer of use or relevant. Upon the destruction of delegates’ personal information, the Organiser will then no longer have access to such personal information.
+i. The Organiser will maintain appropriate practices for retention and destruction where delegates’ personal information will be erased and destroyed if it is no longer of use or relevant. Upon the destruction of delegates’ personal information, the Organiser will then no longer have access to such personal information.
 
 11.  \*\*Transfer of Personal Information\*\*
 
