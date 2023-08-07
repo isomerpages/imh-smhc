@@ -111,15 +111,15 @@ ii. The Organiser will protect the confidentiality of the delegates’ personal 
 
 iii. The Organiser will not request for the delegates’ username and password via email or telephone. If the delegates receive such requests, please inform the Conference Secretariat immediately at smhc@imh.com.sg.
 
-7.  \*\*Accuracy of Personal Information\*\*
+**4. Accuracy of Personal Information**
 
-1.  The delegates’ personal information will be deemed as accurate and complete upon registration, necessary for the purpose for which it is intended to be used.
+i. The delegates’ personal information will be deemed as accurate and complete upon registration, necessary for the purpose for which it is intended to be used.
 
-2.  Accurate, complete and up to date personal information will minimise any inappropriate decisions made about a delegate when the need arises.
+ii. Accurate, complete and up to date personal information will minimise any inappropriate decisions made about a delegate when the need arises.
 
-3.  A ‘Registration Confirmation’ Email will be sent to all successful registrants confirming their successful registration for SMHC 2023.
+iii. A ‘Registration Confirmation’ Email will be sent to all successful registrants confirming their successful registration for SMHC 2023.
 
-4.  The delegates may email to \[smhc@imh.com.sg\](mailto:smhc@imh.com.sg) and request for changes to be made to their registration details.
+iv. The delegates may email to smhc@imh.com.sg and request for changes to be made to their registration details.
 
 9.  \*\*Retention and Destruction of Personal Information\*\*
 
