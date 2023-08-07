@@ -68,35 +68,28 @@ description: ""
 * This Web Site contains hyperlinks to web sites which are not maintained by the SMHC Organiser. The SMHC Organiser is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
 * Hyperlinks to other web sites are provided as a convenience. In no circumstances shall the SMHC Organiser be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
-\### \*\*Links to this Web Site from other web sites\*\*
+**Links to this Web Site from other web sites**
 
-·        Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.
+* Except as set forth below, caching and links to, and the framing of this Web Site or any of the Contents are prohibited.
+* You must secure permission from the SMHC Organiser prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. The SMHC Organiser reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
+* Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.
+* In no circumstances shall the SMHC Organiser be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.
+* The SMHC Organiser reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+* The SMHC Organiser reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
 
-·        You must secure permission from the SMHC Organiser prior to hyperlinking to, or framing, this Web Site or any of the Contents, or engaging in similar activities. The SMHC Organiser reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Web Site or any of the Contents.
+**Governing Law**
 
-·        Your linking to, or framing any part of this Web Site or its Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Web Site or any of the Contents.
+* These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
 
-·        In no circumstances shall the SMHC Organiser be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Web Site or any of the Contents.
-
-·        The SMHC Organiser reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
-
-·        The SMHC Organiser reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents.
-
-\### \*\*Governing Law\*\*
-
-T​​hese Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
-
-\*\*PRIVACY STATEMENT\*\*
+#### PRIVACY STATEMENT
 
 The Singapore Mental Health Conference 2023 is organised by the Institute of Mental Health (IMH), Health Promotion Board (HPB), Agency for Integrated Care (AIC) and National Council of Social Service (NCSS), collectively referred to as “Organiser”, “we”, “us” or “our” in this privacy statement.  
 
-1.  \*\*Type of Personal Information Collected and Purpose for Collection\*\*
+**1. Type of Personal Information Collected and Purpose for Collection**
 
-1.  A variety of information may be collected, including the delegate’s given name, family name, profession, job title, MCR/SNB/PRN number, organisation and business email address.
-
-2.  The personal information collected will allow the provision of access to the conference in-person and the conference virtual platform, reporting and analytical purpose; and marketing purpose.
-
-3.  The Organiser will use the business contact information collected during registration for necessary business communication and customer support. The Conference Secretariat may have limited ability to assist the requests of delegates if no information was provided.
+* A variety of information may be collected, including the delegate’s given name, family name, profession, job title, MCR/SNB/PRN number, organisation and business email address.
+* The personal information collected will allow the provision of access to the conference in-person and the conference virtual platform, reporting and analytical purpose; and marketing purpose.
+* The Organiser will use the business contact information collected during registration for necessary business communication and customer support. The Conference Secretariat may have limited ability to assist the requests of delegates if no information was provided.
 
 3.  \*\*Disclosure of Personal Information\*\*
 
