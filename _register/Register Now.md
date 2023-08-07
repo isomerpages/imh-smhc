@@ -8,7 +8,7 @@ description: ""
 
 | Categories of tickets | Early Bird Rates | Regular Rates |
 | -------- | -------- | -------- |
-| Physical     | $290     | $350     |
+| In-Person     | $290     | $350     |
 | Virtual     | $190     | $250     |
 | Student (In-person/Virtual)     | $50     | $50     |
 
