@@ -3,7 +3,7 @@ title: Sponsorship
 permalink: /sponsorship/
 description: ""
 ---
-# Sponsors
+## Sponsors
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex-basis: 30%; max-width: 30%;">
