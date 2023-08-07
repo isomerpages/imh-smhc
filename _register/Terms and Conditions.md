@@ -37,35 +37,29 @@ description: ""
 * Upon receipt of the delegate’s notice of substitution, the Conference Secretariat will proceed to delete all registration details submitted by the substituted delegate within the next 10 working days.
 * SMHC 2023 registrations are non-transferable and must be used by the registered delegate only.
 
-\*\*D. Liability\*\*
+**D. Liability**
 
-·        The Organiser shall not be liable for any loss, damage or penalty resulting from delays or failures in the performance of their obligations under these Terms and Conditions if the delay or failure results from events beyond the reasonable control of the Organiser.
+* The Organiser shall not be liable for any loss, damage or penalty resulting from delays or failures in the performance of their obligations under these Terms and Conditions if the delay or failure results from events beyond the reasonable control of the Organiser.
+* For the purposes of these Terms and Conditions, such events shall include but are not limited to, acts of God, wars, hostility, invasions, acts of foreign enemies, rebellions, revolutions, riots, civil wars, disturbances, requisitioning or other acts of civil or military authority, laws, regulations, acts or orders of any governmental authority, body, agency or official, fires, inclement weather, rain or floods (however caused), industrial actions, strikes, lock-outs or other labour disputes, outbreaks, epidemics, pandemics, embargoes or other catastrophes affecting the availability of materials or labour necessary for the performance of these Terms and Conditions.
+* The Organiser hereto agree to notify the delegates promptly of any such circumstances delaying its performance and to resume performance as soon thereafter as is reasonably practicable.
+* If any force majeure event shall continue for a period exceeding one hundred and twenty (120) days, then either Party may at any time thereafter, upon giving notice to the other, elect to cancel the Conference.
+* The registered delegate acknowledges that he/she has no right to lodge any claims against the Organiser should the Conference be hindered or prevented from taking place by any force majeure event, or by the non-appearance of scheduled programme changes. With a completed registration, the delegate confirms his/her acceptance of these provisions.
+* The Organiser does not accept responsibility for loss or damage to delegates’ own property and/or personal effects whilst at the Conference. The Organiser does not accept any liability for loss or damage to personal effects caused by any force majeure event.
 
-·        For the purposes of these Terms and Conditions, such events shall include but are not limited to, acts of God, wars, hostility, invasions, acts of foreign enemies, rebellions, revolutions, riots, civil wars, disturbances, requisitioning or other acts of civil or military authority, laws, regulations, acts or orders of any governmental authority, body, agency or official, fires, inclement weather, rain or floods (however caused), industrial actions, strikes, lock-outs or other labour disputes, outbreaks, epidemics, pandemics, embargoes or other catastrophes affecting the availability of materials or labour necessary for the performance of these Terms and Conditions.
+#### Terms of Use for Conference Website
 
-·        The Organiser hereto agree to notify the delegates promptly of any such circumstances delaying its performance and to resume performance as soon thereafter as is reasonably practicable.
+* Thank you for visiting the Singapore Mental Health Conference website (henceforth known as "Web Site"). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
-·        If any force majeure event shall continue for a period exceeding one hundred and twenty (120) days, then either Party may at any time thereafter, upon giving notice to the other, elect to cancel the Conference.
+**General**
 
-·        The registered delegate acknowledges that he/she has no right to lodge any claims against the Organiser should the Conference be hindered or prevented from taking place by any force majeure event, or by the non-appearance of scheduled programme changes. With a completed registration, the delegate confirms his/her acceptance of these provisions.
+* These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-·        The Organiser does not accept responsibility for loss or damage to delegates’ own property and/or personal effects whilst at the Conference. The Organiser does not accept any liability for loss or damage to personal effects caused by any force majeure event.
+**Disclaimer of Warranties and Liability**
 
-\### \*\*Terms of Use for Conference Website\*\*
+* The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, the SMHC Organiser does not warrant and hereby disclaims any warranty:
 
-·        Thank you for visiting the Singapore Mental Health Conference website (henceforth known as "Web Site"). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
-
-\### \*\*General\*\*
-
-·        These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
-
-\### \*\*Disclaimer of Warranties and Liability\*\*
-
-·        The Contents of this Web Site are provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, the SMHC Organiser does not warrant and hereby disclaims any warranty:
-
-\*   as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;
-
-\*   that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
+	- as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site;
+	- that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
 
 ·        The SMHC Organiser shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
