@@ -63,11 +63,10 @@ description: ""
 
 * The SMHC Organiser shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Web Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Web Site.
 
-\### \*\*Links from this Web Site to other web sites\*\*
+**Links from this Web Site to other web sites**
 
-·        This Web Site contains hyperlinks to web sites which are not maintained by the SMHC Organiser. The SMHC Organiser is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
-
-·        Hyperlinks to other web sites are provided as a convenience. In no circumstances shall the SMHC Organiser be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
+* This Web Site contains hyperlinks to web sites which are not maintained by the SMHC Organiser. The SMHC Organiser is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
+* Hyperlinks to other web sites are provided as a convenience. In no circumstances shall the SMHC Organiser be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
 \### \*\*Links to this Web Site from other web sites\*\*
 
