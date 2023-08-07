@@ -2,4 +2,5 @@ collections:
   programme:
     output: true
     order:
+      - Conference (Part I)/.keep
       - Download eProgramme Booklet.md
