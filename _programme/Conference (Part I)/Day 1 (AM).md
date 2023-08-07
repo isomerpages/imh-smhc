@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Conference (Part I)
 ---
 ## Overview
-![](/images/day%201%20(am).png)
+![](/images/day1am.png)
