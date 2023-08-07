@@ -7,13 +7,13 @@ description: ""
 
 **2023 Singapore Mental Health Conference**
 
-A. General Information
+**A. General Information**
 
 * The Singapore Mental Health Conference (SMHC) 2023 will be held at MAX Atria @ Singapore EXPO from Wednesday, 4 Oct 2023 to Thursday, 5 Oct 2023.
 * The programme schedule for SMHC 2023 is final, although updates/refinements may be made occasionally.
 * All presentations will be made in English.
 
-B. Registration Information
+**B. Registration Information**
 
 * Delegates may choose the following options to attend SMHC 2023:
 
@@ -25,24 +25,17 @@ B. Registration Information
 * Full time tertiary students who wish to register for the conference must upload their student identification card or proof of qualifying student status online during registration in order to be eligible for student rates online.
 * The online registration portal accepts individual registrations only, and payment by credit / debit card for each online registration must be made in full upon registration.
 * For group and company-sponsored registrations, please email smhc@imh.com.sg
+* Delegates will receive their confirmation emails with registration details upon successful registration.
+* The merchant’s name reflected on delegate’s credit card statement will be: “PAYMENT VIA Mice Neurol Pte Ltd”.
 
-·        Delegates will receive their confirmation emails with registration details upon successful registration.
+**C. Cancellation and Refund / Substitution Policy**
 
-·        The merchant’s name reflected on delegate’s credit card statement will be: “PAYMENT VIA Mice Neurol Pte Ltd”.
-
-\*\*C. Cancellation and Refund / Substitution Policy\*\*
-
-·        Cancellations and ‘No-Show’ will not qualify for refund once payment is received
-
-·        For group and company-sponsored registrations, delegate remains liable for the full registration fee in the event of cancellation and ‘No-Show’. 
-
-·        Delegates who are unable to attend the conference may send an alternate from the same institution for a one-for-one substitution of the same registration category and fees.
-
-·        All substitution requests must be emailed to the Conference Secretariat at \[smhc@imh.com.sg\](mailto:smhc@imh.com.sg), together with the full name and contact details of the replacement delegate.
-
-·        Upon receipt of the delegate’s notice of substitution, the Conference Secretariat will proceed to delete all registration details submitted by the substituted delegate within the next 10 working days.
-
-·        SMHC 2023 registrations are non-transferable and must be used by the registered delegate only.
+* Cancellations and ‘No-Show’ will not qualify for refund once payment is received
+* For group and company-sponsored registrations, delegate remains liable for the full registration fee in the event of cancellation and ‘No-Show’. 
+* Delegates who are unable to attend the conference may send an alternate from the same institution for a one-for-one substitution of the same registration category and fees.
+* All substitution requests must be emailed to the Conference Secretariat at smhc@imh.com.sg, together with the full name and contact details of the replacement delegate.
+* Upon receipt of the delegate’s notice of substitution, the Conference Secretariat will proceed to delete all registration details submitted by the substituted delegate within the next 10 working days.
+* SMHC 2023 registrations are non-transferable and must be used by the registered delegate only.
 
 \*\*D. Liability\*\*
 
