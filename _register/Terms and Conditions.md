@@ -87,8 +87,8 @@ The Singapore Mental Health Conference 2023 is organised by the Institute of Men
 
 **1. Type of Personal Information Collected and Purpose for Collection**
 
-* A variety of information may be collected, including the delegate’s given name, family name, profession, job title, MCR/SNB/PRN number, organisation and business email address.
-* The personal information collected will allow the provision of access to the conference in-person and the conference virtual platform, reporting and analytical purpose; and marketing purpose.
+i. A variety of information may be collected, including the delegate’s given name, family name, profession, job title, MCR/SNB/PRN number, organisation and business email address.
+ii. The personal information collected will allow the provision of access to the conference in-person and the conference virtual platform, reporting and analytical purpose; and marketing purpose.
 * The Organiser will use the business contact information collected during registration for necessary business communication and customer support. The Conference Secretariat may have limited ability to assist the requests of delegates if no information was provided.
 
 **2. Disclosure of Personal Information**
