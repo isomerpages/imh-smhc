@@ -2,6 +2,4 @@ collections:
   programme:
     output: true
     order:
-      - Conference (Part II)/.keep
-      - Conference (Part II)/Day 2 (PM).md
       - Download eProgramme Booklet.md
