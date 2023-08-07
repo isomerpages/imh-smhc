@@ -3,7 +3,4 @@ title: Advisory Committee
 permalink: /about/advisory-committee/
 description: ""
 ---
-
-![](/images/advcomm.png)
-<br>
-<br>
+![](/images/advcommv2.png)
