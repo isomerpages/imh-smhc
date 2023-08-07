@@ -125,16 +125,16 @@ iv. The delegates may email to smhc@imh.com.sg and request for changes to be mad
 
 i. The Organiser will maintain appropriate practices for retention and destruction where delegates’ personal information will be erased and destroyed if it is no longer of use or relevant. Upon the destruction of delegates’ personal information, the Organiser will then no longer have access to such personal information.
 
-11.  \*\*Transfer of Personal Information\*\*
+**6. Transfer of Personal Information**
 
-1.  The delegates’ personal information provided is not transferrable to other countries and will be accessed only by the Organiser and its duly authorised partner/s. The Organiser shall not use any data provided by the delegates, or any substance that is replicated or derived therefrom for any commercial or profit-generating purpose, or in the conduct of research that is subject to consulting, licensing or other similar legal or commercial obligations to another institution, corporation or business entity, unless the provider provides its prior written consent.
+i. The delegates’ personal information provided is not transferrable to other countries and will be accessed only by the Organiser and its duly authorised partner/s. The Organiser shall not use any data provided by the delegates, or any substance that is replicated or derived therefrom for any commercial or profit-generating purpose, or in the conduct of research that is subject to consulting, licensing or other similar legal or commercial obligations to another institution, corporation or business entity, unless the provider provides its prior written consent.
 
-\*\*7.\*\*      \*\*Photography and Video Recordings\*\*
+**7. Photography and Video Recordings**
 
-                           i.          The Organiser has the right to use images/videos taken by the Organiser appointed vendor at the conference for future marketing purposes and/or materials.
+i. The Organiser has the right to use images/videos taken by the Organiser appointed vendor at the conference for future marketing purposes and/or materials.
 
-                          ii.          By participating in SMHC 2023, you grant SMHC, or anyone authorised by SMHC, the right to use or publish in print or electronic medium any photograph or video containing your image for educational, news, or promotional purposes without compensation.
+ii. By participating in SMHC 2023, you grant SMHC, or anyone authorised by SMHC, the right to use or publish in print or electronic medium any photograph or video containing your image for educational, news, or promotional purposes without compensation.
 
-                         iii.          For any enquiries regarding the Privacy Policy or any requests regarding personal information, please contact the Conference Secretariat at smhc@imh.com.sg.
+iii. For any enquiries regarding the Privacy Policy or any requests regarding personal information, please contact the Conference Secretariat at smhc@imh.com.sg.
 
 ​
