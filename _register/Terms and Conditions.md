@@ -91,29 +91,23 @@ The Singapore Mental Health Conference 2023 is organised by the Institute of Men
 * The personal information collected will allow the provision of access to the conference in-person and the conference virtual platform, reporting and analytical purpose; and marketing purpose.
 * The Organiser will use the business contact information collected during registration for necessary business communication and customer support. The Conference Secretariat may have limited ability to assist the requests of delegates if no information was provided.
 
-3.  \*\*Disclosure of Personal Information\*\*
+**2. Disclosure of Personal Information**
 
-1.  The Organiser will not disclose any delegate’s personal information except under these limited circumstances:
+* The Organiser will not disclose any delegate’s personal information except under these limited circumstances:
+	- The Conference Secretariat will access the delegate’s personal information to provide the services that delegates request for.
+	- Provide marketing services and any related or ancillary purposes deemed necessary by the Conference Secretariat.
 
-1.  The Conference Secretariat will access the delegate’s personal information to provide the services that delegates request for.
+* “Mice Neurol Pte Ltd” is authorised to collect all payment on behalf of SMHC 2023. Delegates acknowledge and agree that certain personally identifiable information, including name, contact details, payment card information, needs to be disclosed to Mice Neurol Pte Ltd to process payment. All payment is processed via secured servers.
+* Any disclosure of the delegates’ personal information by the Organiser to any third party will be used specifically for the purpose for which it had been disclosed. The Organiser will not share the delegates’ personal information to any party that is not involved in the organisation of SMHC 2023.
+* The Organiser does not retain or control or share any information entered by delegates into the payment gateway to complete the payment.
+* By registering for SMHC 2023, you have given absolute consent and agree for all submitted information and data to be used for the submission of any grants related to the costs of organising and running of SMHC 2023. This includes relevant parties related to the submission of grants used to defray the costs of organising SMHC 2023. Any disclosure of the delegates’ personal information by the Organiser to any third party will be used specifically for the purpose for which it had been disclosed.
+* The Organiser shall protect and take all reasonable precautions and adequate measures to safeguard the delegates’ personal information against such risks as loss, theft, unauthorised access, unauthorised disclosure, modification, copying, use and destruction. The Organiser will not be held responsible for all submitted information and data that may be shared with any other third parties apart from those that The Organiser directly liaised with for any grant application.
 
-2.  Provide marketing services and any related or ancillary purposes deemed necessary by the Conference Secretariat.
+**3. Personal Information Security**
 
-3.  “Mice Neurol Pte Ltd” is authorised to collect all payment on behalf of SMHC 2023. Delegates acknowledge and agree that certain personally identifiable information, including name, contact details, payment card information, needs to be disclosed to Mice Neurol Pte Ltd to process payment. All payment is processed via secured servers.
+i. The Organiser shall protect and take all reasonable precautions and adequate measures to safeguard the delegates’ personal information against such risks as loss, theft, unauthorised access, unauthorised disclosure, modification, copying, use and destruction.
 
-4.  Any disclosure of the delegates’ personal information by the Organiser to any third party will be used specifically for the purpose for which it had been disclosed. The Organiser will not share the delegates’ personal information to any party that is not involved in the organisation of SMHC 2023.
-
-5.  The Organiser does not retain or control or share any information entered by delegates into the payment gateway to complete the payment.
-
-6.  By registering for SMHC 2023, you have given absolute consent and agree for all submitted information and data to be used for the submission of any grants related to the costs of organising and running of SMHC 2023. This includes relevant parties related to the submission of grants used to defray the costs of organising SMHC 2023. Any disclosure of the delegates’ personal information by the Organiser to any third party will be used specifically for the purpose for which it had been disclosed.
-
-7.  The Organiser shall protect and take all reasonable precautions and adequate measures to safeguard the delegates’ personal information against such risks as loss, theft, unauthorised access, unauthorised disclosure, modification, copying, use and destruction. The Organiser will not be held responsible for all submitted information and data that may be shared with any other third parties apart from those that The Organiser directly liaised with for any grant application.
-
-5.  \*\*Personal Information Security\*\*
-
-1.  The Organiser shall protect and take all reasonable precautions and adequate measures to safeguard the delegates’ personal information against such risks as loss, theft, unauthorised access, unauthorised disclosure, modification, copying, use and destruction.
-
-2.  The Organiser will protect the confidentiality of the delegates’ personal information in its dealing with third party Vendors.
+ii. The Organiser will protect the confidentiality of the delegates’ personal information in its dealing with third party Vendors.
 
 3.  The Organiser will not request for the delegates’ username and password via email or telephone. If the delegates receive such requests, please inform the Conference Secretariat immediately at \[smhc@imh.com.sg\](mailto:smhc@imh.com.sg).
 
