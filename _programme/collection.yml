@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Day 1 (AM Session).md
-      - PM Session.md
+      - Day 1 (PM Session).md
       - Conference Day 1/.keep
       - Conference (Part II)/.keep
       - Conference (Part II)/Day 2 (AM).md
