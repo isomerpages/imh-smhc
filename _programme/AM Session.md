@@ -4,4 +4,4 @@ permalink: /programme/permalink/
 description: ""
 ---
 ## Overview
-![](/images/day1_am.png)
+![day1am](/images/day1_am.png)
