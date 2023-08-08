@@ -17,4 +17,6 @@ It is apt then that our theme for SMHC 2023 is "Co-Creating Our Mental Health Ec
 
 To this end, we have lined up notable professionals and experts to share their expertise on a diverse range of topics. There will be sessions on fostering resilience and supportive networks in communities, promoting well-being at the workplace, the growing role of digital tolls and services in mental healthcare, improving quality od life for the elderly, and many more.
 
-We hope you will find these topics relevant and thought-provoking and we look forward to seeing you at the conference. 
+We hope you will find these topics relevant and thought-provoking and we look forward to seeing you at the conference.
+
+![](/images/for%20welcome%20message.png)
