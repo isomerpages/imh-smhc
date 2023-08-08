@@ -13,7 +13,7 @@ sections:
       subtitle: 4-5 October 2023 | MAX Atria Singapore Expo
   - infopic:
       title: 4 Tracks
-      image: /images/track titles.png
+      image: /images/tracks v2.png
       alt: Image alt text
   - infopic:
       image: /images/children & youth.png
