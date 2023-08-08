@@ -16,27 +16,6 @@ sections:
       image: /images/tracks v2.png
       alt: Image alt text
   - infopic:
-      image: /images/children & youth.png
-      url: /
-      title: Mental Health and Resilience for Children and Youth
-      alt: Track Theme
-      subtitle: Track 1
-  - infopic:
-      title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
-      subtitle: Track 2
-      alt: Image alt text
-      image: /images/building a healthy & positive workforce (2).png
-  - infopic:
-      title: Mental Wellness in the Silver Years
-      subtitle: Track 3
-      alt: Image alt text
-      image: /images/mental wellness in the silver years v2.png
-  - infopic:
-      title: Enhancing Mental Health with Technology
-      subtitle: Track 4
-      alt: Image alt text
-      image: /images/mental health & tech v3.png
-  - infopic:
       url: /
       image: /images/homepage logo v5.png
       alt: Organisers
