@@ -43,6 +43,9 @@ third_nav_title: Track Speakers
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnellaishasamari.png"></a>
   </div>
+		<div style="flex-basis: 25%; max-width: 25%;">
+    <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnjasperlim.png">
+  </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjanhavivaingankarv2.png"></a>
   </div>
