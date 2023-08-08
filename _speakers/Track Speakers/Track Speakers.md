@@ -119,9 +119,6 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/steve-loh"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnsteveloh.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/thisum-kankanamge"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnthisumkankanamge.png"></a>
-  </div>
-		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/tricia-lee"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tntricialeev2.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
