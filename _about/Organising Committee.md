@@ -3,4 +3,4 @@ title: Organising Committee
 permalink: /about/organising-committee/
 description: ""
 ---
-![](/images/orgcomm.png)
+![](/images/oc%20updated_v2_.png)
