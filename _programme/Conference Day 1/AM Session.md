@@ -5,4 +5,8 @@ description: ""
 third_nav_title: Conference Day 1
 ---
 ## Overview
-![day1am](/images/day1am.png)
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex-basis: 100%; max-width: 100%;">
+    <img alt="day1am" src="/images/day1am.png">
+  </div>
+</div>
