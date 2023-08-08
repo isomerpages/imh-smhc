@@ -2,6 +2,5 @@ collections:
   programme:
     output: true
     order:
-      - AM Session.md
       - PM Session.md
       - eProgramme Booklet.md
