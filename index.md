@@ -38,7 +38,7 @@ sections:
       image: /images/mental health & tech v3.png
   - infopic:
       url: /
-      image: /images/homepage logo v4.png
+      image: /images/homepage logo v5.png
       alt: Organisers
       title: Organised By
 ---
