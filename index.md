@@ -12,6 +12,10 @@ sections:
       title: Co-Creating Our Mental Health Ecosystem
       subtitle: 4-5 October 2023 | MAX Atria Singapore Expo
   - infopic:
+      title: 4 Tracks
+      image: /images/track titles.png
+      alt: Image alt text
+  - infopic:
       image: /images/children & youth.png
       url: /
       title: Mental Health and Resilience for Children and Youth
