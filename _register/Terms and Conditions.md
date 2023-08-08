@@ -46,6 +46,9 @@ description: ""
 * The registered delegate acknowledges that he/she has no right to lodge any claims against the Organiser should the Conference be hindered or prevented from taking place by any force majeure event, or by the non-appearance of scheduled programme changes. With a completed registration, the delegate confirms his/her acceptance of these provisions.
 * The Organiser does not accept responsibility for loss or damage to delegates’ own property and/or personal effects whilst at the Conference. The Organiser does not accept any liability for loss or damage to personal effects caused by any force majeure event.
 
+**E. Liability**
+* Please refer to our Privacy Statement, which also governs your visit to the Web Site.
+
 #### Terms of Use for Conference Website
 
 * Thank you for visiting the Singapore Mental Health Conference website (henceforth known as "Web Site"). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
