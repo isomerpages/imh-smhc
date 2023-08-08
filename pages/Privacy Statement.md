@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 description: ""
 ---
-### PRIVACY STATEMENT
+## PRIVACY STATEMENT
 
 The Singapore Mental Health Conference 2023 is organised by the Institute of Mental Health (IMH), Health Promotion Board (HPB), Agency for Integrated Care (AIC) and National Council of Social Service (NCSS), collectively referred to as “Organiser”, “we”, “us” or “our” in this privacy statement.  
 
