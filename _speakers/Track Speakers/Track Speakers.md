@@ -71,6 +71,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/ng-min-hua"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnngminhua.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/ong-say-how"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnongsayhow.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ong-shi-hui"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnongshihui.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
