@@ -2,8 +2,8 @@ collections:
   programme:
     output: true
     order:
-      - PM Session.md
       - AM Session.md
+      - PM Session.md
       - Conference Day 1/.keep
       - Conference (Part II)/.keep
       - Conference (Part II)/Day 2 (AM).md
