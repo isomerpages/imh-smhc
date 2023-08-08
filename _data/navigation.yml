@@ -4,6 +4,8 @@ links:
     collection: about
   - title: Speakers
     collection: speakers
+  - title: Programme
+    collection: programme
   - title: Sponsorship
     url: /sponsorship
   - title: Contact Us
