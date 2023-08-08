@@ -98,7 +98,7 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/rahul-malhotra"><img alt="track speakers 14" src="/images/TNSpeakersPhoto/tnrahulmalhotra.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/aymond-khoo"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnraymondkhoo.png"></a>
+    <a href="/speakers/track-speakers/raymond-khoo"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnraymondkhoo.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/rinkoo-ghosh"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnrinkooghosh.png"></a>
