@@ -3,20 +3,18 @@ title: Welcome Message
 permalink: /about/welcome-message/
 description: ""
 ---
-# Welcome to the Singapore Mental Health Conference SMHC 2023 website!  
+# Welcome to SMHC 2023 
 
-We are excited to present the 2023 edition of SMHC, which will be held on 30 & 31 November 2023, at Max Atria, Singapore Expo.  
+It is with great pleasure that we welcome you to the 7th edition of the Singapore Mental Health Conference (SMHC). 
 
-The SMH debuted in 2013 and its subsequent editions had seenstrong support and sustained interest among mental health professionals and community partners. We are confident that the 2023 edition will be another conference that all will look forward to.  
+Since it was first held in 2013, SMHC has become a recognised national platform where professionals in the healthcare, social service, and intermediate and long-term care sectors, as well as service users come together to share insights and exchange ideas to improve the mental health of our population. 
 
-SMHC 2023 is organised by the Institute of Mental Health (IMH). National Council of Social Service (NCSS), Agency for integrated Care (AIC), and Health Promotion Board (HPB), with IMH and NCSS acting as the Co-Chairs for this upcoming event. Joining us this year on the organising committee are Clarity. ClubHeal, Mindset Care Limited, Singapore Anglican Community Services, and TOUCH Community Services in our continued efforts to include the voices of Voluntary Welfare Organisations in delivering a comprehensiveand engaging programme.  
+When we started, SMHC was organised by four main agencies - the Institute of Mental Health, Agency for Integrated Care, Health Promotion Board, and National Council of Social Service. This year, we have the MOH Office for Healthcare Transformation, Jardines MINDSET, Singapore Anglican Community Services and Filos Community Services joining the organising committee to design the conference programme. Over the years and editions of SMHC, we are heartened to see various agencies and community partners coming onboard to partner with us to develop a conference that brings together the many players and perspectives that make up our mental health ecosystem. 
 
-The theme for SMHC 2023 is 'Psychosocial network of support across the lifespan.' 
+This reflects our belief that mental healthcare requires a holistic and multi-agency approach to prevention, recovery, and rehabilitation. We are now in a new era of co-created mental healthcare - one that requires greater integration and collaboration between the health, social and community sectors, workplaces, educational institutions, service users and caregivers, to enable persons with mental health issues to receive care and support in the community and live purposeful lives.
 
-We have specially curated a 2-day programme with sessions that look at support from various perspectives. We also have a line-up of notable professionals and experts - both local and international - from mental health, community support services and related fields to share on a diverse range of topics.  
+It is apt then that our theme for SMHC 2023 is "Co-Creating Our Mental Health Ecosystem". Through this two-day hybrid conference, we hope to create ongoing conversations around the importance of shared understanding and collaboration in addressing our population's mental health needs and building good mental health for all. We aim to foster partnerships and networks among various sectors to promote mental well-being and resilience, as well as to create an ecosystem that supports and encourages recovery.
 
-Delegates can also look forward to a new feature in SMHC 2023 - a poster exhibition of projects on building support. Also new is an 'Amazing Race styled mental health activity in one of our breakout track sessions, which should be interesting!  
+To this end, we have lined up notable professionals and experts to share their expertise on a diverse range of topics. There will be sessions on fostering resilience and supportive networks in communities, promoting well-being at the workplace, the growing role of digital tolls and services in mental healthcare, improving quality od life for the elderly, and many more.
 
-Do explore this website for more details on SMHC 2023 or email the SMHC Secretariat ([smhc@imh.com.sg](mailto:smhc@imh.com.sg)) if you require further information. 
-
-We wish you a pleasant browsing experience, and look forward to seeing you at SMHC 2023!
+We hope you will find these topics relevant and thought-provoking and we look forward to seeing you at the conference. 
