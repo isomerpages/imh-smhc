@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Plenary Speakers/Ms Daphne Koek.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Plenary Speakers.md
       - Plenary Speakers/Mr Alvin Tan.md
