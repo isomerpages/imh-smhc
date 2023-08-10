@@ -9,8 +9,6 @@ third_nav_title: Track Speakers
     <img alt="track speakers 1" src="/images/SpeakersPhoto/raymondkhoo.png">
   </div>
 	</div>
-	
-**Topic Title:**  S17 Community Kitchen Initiative by The Saturday Movement
 
 In 2010, Mr Raymond Khoo established The Saturday Movement, a grassroots initiative, which has now evolved into a registered charity, aimed at addressing food insecurity and social isolation among the elderly in Lengkok Bahru. Recognising that Saturdays are often lonely for seniors, Mr Khoo and his team organised weekly events that brought together volunteers to distribute bread, fruits and free meals to the elderly residents. 
 	
