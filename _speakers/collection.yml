@@ -2,7 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Track Speakers/Ms Daphne Koek.md
       - Track Speakers/.keep
       - Track Speakers/Track Speakers.md
       - Track Speakers/Mr Aaron Tan.md
@@ -13,6 +12,7 @@ collections:
       - Track Speakers/Ms Chia Siok Hoon.md
       - Track Speakers/Adjunct Associate Professor Dr Christopher Cheok.md
       - Track Speakers/Dr Creighton Heaukulani.md
+      - Track Speakers/Ms Daphne Koek.md
       - Track Speakers/Dr Dennis Kom.md
       - Track Speakers/Ms Ellaisha Samari.md
       - Track Speakers/Ms Janhavi Vaingankar.md
