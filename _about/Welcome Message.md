@@ -15,7 +15,7 @@ This reflects our belief that mental healthcare requires a holistic and multi-ag
 
 It is apt then that our theme for SMHC 2023 is "Co-Creating Our Mental Health Ecosystem". Through this two-day hybrid conference, we hope to create ongoing conversations around the importance of shared understanding and collaboration in addressing our population's mental health needs and building good mental health for all. We aim to foster partnerships and networks among various sectors to promote mental well-being and resilience, as well as to create an ecosystem that supports and encourages recovery.
 
-To this end, we have lined up notable professionals and experts to share their expertise on a diverse range of topics. There will be sessions on fostering resilience and supportive networks in communities, promoting well-being at the workplace, the growing role of digital tolls and services in mental healthcare, improving quality of life for the elderly, and many more.
+To this end, we have lined up notable professionals and experts to share their expertise on a diverse range of topics. There will be sessions on fostering resilience and supportive networks in communities, promoting well-being at the workplace, the growing role of digital tools and services in mental healthcare, improving quality of life for the elderly, and many more.
 
 We hope you will find these topics relevant and thought-provoking and we look forward to seeing you at the conference.
 
