@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers/Dr Alvin Neo.md
       - Track Speakers/Ms Amaranta Lim.md
       - Track Speakers/Mr Bernard Lim.md
       - Track Speakers/Ms Chia Siok Hoon.md
