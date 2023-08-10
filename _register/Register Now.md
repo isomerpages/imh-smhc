@@ -9,9 +9,10 @@ description: ""
 | Categories of Tickets | Early Bird Rates (Until 8 September 2023) | Regular Rates |
 | -------- | -------- | -------- |
 | In-Person     | $290     | $350     |
-| Virtual     | $190     | $250     |
+| Virtual*     | $190     | $250     |
 | Student (In-person/Virtual)     | $50     | $50     |
 
+**Access only to plenary and panel discussion sessions*
 
 <button class="my-button"><a href="https://events.miceneurol.com/singapore-mental-health-conference-2023/register/Site/Register">Register now</a></button>
 
