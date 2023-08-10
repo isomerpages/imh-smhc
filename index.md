@@ -7,14 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore Mental Health Conference 2023
-      subtitle: 4 - 5 OCTOBER 2023, SINGAPORE EXPO
-      background: /images/rectangle 23.png
-      button: Save the date
+      background: /images/hero image for website 1920 x 720 px_v3-01.jpg
       url: /
+      title: Co-Creating Our Mental Health Ecosystem
+      subtitle: 4-5 October 2023 | MAX Atria Singapore Expo
+  - infopic:
+      title: 4 tracks to promote mental wellbeing for all
+      image: /images/tracks v2.png
+      alt: Image alt text
   - infopic:
       url: /
-      image: /images/co-organiser no words.png
+      image: /images/homepage logo v5.png
       alt: Organisers
-      subtitle: Organised By
+      title: Organised By
 ---

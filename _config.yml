@@ -1,20 +1,20 @@
 title: Singapore Mental Health Conference 2023
 url: https://www.smhc.sg
-favicon: /images/SMHC2023_logo.png
+favicon: /images/smhc2023logo.png
 colors:
-  primary-color: "#588b8b"
-  secondary-color: "#588b8b"
+  primary-color: "#213964"
+  secondary-color: "#213964"
   media-colors:
     - title: media-color-one
-      color: "#588b8b"
+      color: "#873260"
     - title: media-color-two
-      color: "#588b8b"
+      color: "#873260"
     - title: media-color-three
-      color: "#588b8b"
+      color: "#873260"
     - title: media-color-four
-      color: "#588B8B"
+      color: "#873260"
     - title: media-color-five
-      color: "#588B8B"
+      color: "#873260"
 description: Singapore Mental Health Conference 2023
 permalink: none
 baseurl: ""
