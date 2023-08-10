@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers/Ms Ong Xin Ling.md
       - Track Speakers/Ms Pearline Lee.md
       - Track Speakers/Dr Rahul Malhotra.md
       - Track Speakers/Mr Raymond Khoo.md
