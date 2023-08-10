@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers/Dr Dennis Kom.md
       - Track Speakers/Ms Ellaisha Samari.md
       - Track Speakers/Ms Janhavi Vaingankar.md
       - Track Speakers/Dr Jean Liu.md
