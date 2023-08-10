@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers/Dr Zhou Quan.md
       - Track Speakers/Mr Aaron Tan.md
       - Track Speakers/Track Speakers.md
       - Track Speakers/.keep
