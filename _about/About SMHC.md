@@ -11,6 +11,6 @@ The theme for SMHC 2023 is "Co-Creating Our Mental Health Ecosystem". Through th
 
 The SMHC is co-organised by the Institute of Mental Health (IMH), Health Promotion Board (HPB), Agency for Integrated Care (AIC) and National Council of Social Service (NCSS), with IMH and HPB co-chairing the 2023 edition.
 
-To find out more, please feel free to browse our webpages and if you have any queries, please contact the Conference Secretariat at [smh@imh.com.sg](mailto:smh@imh.com.sg).
+To find out more, please feel free to browse our webpages and if you have any queries, please contact the Conference Secretariat at [smhc@imh.com.sg](mailto:smh@imh.com.sg).
 
 ![](/images/Footer.png)
