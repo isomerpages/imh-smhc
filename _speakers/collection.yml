@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers/Ms Shazana Shahwan.md
       - Track Speakers/Mr Simon Leow.md
       - Track Speakers/Ms Stella Teo.md
       - Track Speakers/Mr Steve Loh.md
