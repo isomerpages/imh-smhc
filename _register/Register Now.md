@@ -16,7 +16,7 @@ description: ""
 
 <button class="my-button"><a href="https://events.miceneurol.com/singapore-mental-health-conference-2023/register/Site/Register">Register now</a></button>
 
-* For group registration, please email smhc@imh.com.sg instead of filling up the form under 'Register now'.
+* For group registration, please email smhc@imh.com.sg instead.
 
 * Kindly note the above ticket rates have yet to include Goods &amp; Services Tax (GST) and credit card charges. 
 
