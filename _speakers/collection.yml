@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers/Ms Koh Hwan Jing.md
       - Track Speakers/Dr Li Dongdong.md
       - Track Speakers/Ms Loo Wei Leng.md
       - Track Speakers/Mr Matt Oon.md
