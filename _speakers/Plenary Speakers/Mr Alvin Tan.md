@@ -10,8 +10,6 @@ third_nav_title: Plenary Speakers
   </div>
 </div>
 
-**Title of Plenary Topic**: Fostering Mental Resilience in Communities through the SG Mental Well-Being Network 
-	
 Mr Alvin Tan was elected as a Member of Parliament in 2020, and appointed Minister of State for both the Ministry of Trade &amp; Industry (MTI), and the Ministry of Culture, Community &amp; Youth (MCCY). He is also a Board Member at the Monetary Authority of Singapore (MAS).
 
 At MTI, he is involved in growing Singapore’s economy, focusing on the tourism, tech start-up, agri-food tech and advanced manufacturing sectors, and securing free trade agreements with Latin America. At MCCY, he is working on empowering youths, promoting mental well-being and mentoring, strengthening racial and religious harmony and supporting Singapore’s sports, arts and culture sectors. At MAS, he is helping develop Singapore’s financial sector, including as a fintech, green finance and digital assets hub.
