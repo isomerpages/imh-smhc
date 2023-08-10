@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers v2/Track Speakers.md
       - Track Speakers v2/.keep
       - Plenary Speakers/.keep
       - Plenary Speakers/Plenary Speakers.md
