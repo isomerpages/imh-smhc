@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Track Speakers/Ms Ng Min Hua.md
       - Track Speakers/Mr Ong Say How.md
       - Track Speakers/Ms Ong Shi Hui.md
       - Track Speakers/Ms Ong Xin Ling.md
