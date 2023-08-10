@@ -4,11 +4,11 @@ permalink: /speakers/track-speakers/daphne-koek-1/
 description: ""
 third_nav_title: Track Speakers
 ---
-  <div style="display: flex; flex-wrap: wrap;">
-&nbsp; <div style="flex-basis: 100%; max-width: 100%;">
-&nbsp;&nbsp;&nbsp; <img alt="track speakers 1" src="/images/SpeakersPhoto/daphnekoek.png">
-&nbsp; </div>
-&nbsp;</div>
+<div style="display: flex; flex-wrap: wrap;">
+<div style="flex-basis: 100%; max-width: 100%;">
+ <img alt="track speakers 1" src="/images/SpeakersPhoto/daphnekoek.png">
+</div>
+</div>
  
 Ms Daphne Koek and her team conducts applied research through technology-enabled cohorts such as Health Insights Singapore (hiSG) to uncover novel insights on lifestyle and health behaviours for more personalised health promotion programmes.
 
