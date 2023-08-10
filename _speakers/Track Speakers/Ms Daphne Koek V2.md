@@ -10,8 +10,6 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
-**Topic title**: Supporting those in need through early detection: What can lifestyle data tell us about mental health?
-	
 Ms Daphne Koek and her team conducts applied research through technology-enabled cohorts such as Health Insights Singapore (hiSG) to uncover novel insights on lifestyle and health behaviours for more personalised health promotion programmes.
 	
 Prior to research, she  was involved in developing workplace health policies and programmes as well as public education campaigns and programmes on mental health.
