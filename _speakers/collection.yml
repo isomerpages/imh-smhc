@@ -2,6 +2,10 @@ collections:
   speakers:
     output: true
     order:
+      - Plenary Speakers/.keep
+      - Plenary Speakers/Plenary Speakers.md
+      - Plenary Speakers/Mr Alvin Tan.md
+      - Plenary Speakers/Associate Professor Swapna Verma.md
       - Track Speakers/.keep
       - Track Speakers/Track Speakers.md
       - Track Speakers/Mr Aaron Tan.md
@@ -40,7 +44,3 @@ collections:
       - Track Speakers/Ms Will Fong.md
       - Track Speakers/Dr Yao Fengyuan.md
       - Track Speakers/Dr Zhou Quan.md
-      - Plenary Speakers/.keep
-      - Plenary Speakers/Plenary Speakers.md
-      - Plenary Speakers/Mr Alvin Tan.md
-      - Plenary Speakers/Associate Professor Swapna Verma.md
