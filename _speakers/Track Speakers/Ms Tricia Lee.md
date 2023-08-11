@@ -6,7 +6,7 @@ third_nav_title: Track Speakers
 ---
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 100%; max-width: 100%;">
-    <img alt="track speakers 1" src="/images/SpeakersPhoto/tricialee.png">
+    <img alt="track speakers 1" src="/images/SpeakersPhoto/tricialeev2.png">
   </div>
 	</div>
 	
