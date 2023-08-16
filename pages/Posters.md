@@ -18,5 +18,8 @@ You will be notified if your abstract is shortlisted for presentation at the Con
 
 #### Submit Now!
 **Submission deadline: 25 August 2023.**
-
-![](/images/abstractqrcode.png)
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex-basis: 40%; max-width: 40%;">
+		 <a href="/speakers/track-speakers/aaron-tan">
+    <img alt="track speaker" src="/images/abstractqrcode.png"></a>
+  </div></div>
