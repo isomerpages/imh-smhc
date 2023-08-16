@@ -19,7 +19,7 @@ You will be notified if your abstract is shortlisted for presentation at the Con
 #### Submit Now!
 **Submission deadline: 25 August 2023.**
 <div style="display: flex; flex-wrap: wrap;">
-	<div style="flex-basis: 40%; max-width: 40%;">
+	<div style="flex-basis: 30%; max-width: 30%;">
 		 <a href="https://form.gov.sg/64be415d9f1622001213d60b">
     <img alt="track speaker" src="/images/abstractqrcode.png"></a>
   </div></div>
