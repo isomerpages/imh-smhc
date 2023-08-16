@@ -13,6 +13,9 @@ third_nav_title: Plenary Speakers
 		<div style="flex-basis: 25%; max-width: 25%;">
     <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnhengzechuan.png">
   </div>
+	  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/jean-liu/"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjeanliu.png"></a>
+  </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnpatrickmcgorry.png">
   </div>
