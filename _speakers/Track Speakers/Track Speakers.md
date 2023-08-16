@@ -50,9 +50,6 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjanhavivaingankarv2.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/jean-liu/"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjeanliu.png"></a>
-  </div>
-  <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjenniferkoh.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
