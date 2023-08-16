@@ -16,3 +16,7 @@ We invite you to submit your abstracts for the Singapore Mental Health Conferenc
 
 You will be notified if your abstract is shortlisted for presentation at the Conference.
 
+#### Submit Now!
+**Submission deadline: 25 August 2023.**
+
+![](/images/abstractqrcode.png)
