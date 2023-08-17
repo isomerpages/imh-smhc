@@ -2,7 +2,7 @@
 title: Dr Jean Liu
 permalink: /speakers/track-speakers/jean-liu/
 description: ""
-third_nav_title: Track Speakers
+third_nav_title: Plenary Speakers
 ---
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 100%; max-width: 100%;">
