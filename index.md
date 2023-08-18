@@ -16,11 +16,6 @@ sections:
       image: /images/tracks v2.png
       alt: Image alt text
   - infopic:
-      title: Mental Health and Resilience for Children and Youth
-      subtitle: Track 1
-      image: /images/children & youth (1).png
-      alt: Image alt text
-  - infopic:
       url: /
       image: /images/homepage logo v5.png
       alt: Organisers
