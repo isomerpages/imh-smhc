@@ -24,6 +24,7 @@ sections:
       title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
       subtitle: Track 2
       alt: Image alt text
+      image: /images/positive workforce.png
   - infopic:
       title: Mental Wellness in the Silver Years
       subtitle: Track 3
