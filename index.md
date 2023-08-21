@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: Mental Health and Resilience for Children and Youth
       subtitle: Track 1
-      image: /images/children & youth track v3.png
+      image: /images/children & youth track v2.png
       alt: Image alt text
   - infopic:
       title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
