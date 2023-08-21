@@ -20,4 +20,9 @@ sections:
       image: /images/homepage logo v5.png
       alt: Organisers
       title: Organised By
+  - infopic:
+      title: Mental Health and Resilience for Children and Youth
+      subtitle: Track 1
+      image: /images/children & youth track.png
+      alt: Image alt text
 ---
