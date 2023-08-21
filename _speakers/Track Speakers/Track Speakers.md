@@ -44,6 +44,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/daphne-koek-1"><img alt="track speaker" src="/images/TNSpeakersPhoto/tndaphnekoek.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/david-ng-1"><img alt="track speaker" src="/images/TNSpeakersPhoto/tndavidng.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/dennis-kom"><img alt="track speaker" src="/images/TNSpeakersPhoto/tndenniskom.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
