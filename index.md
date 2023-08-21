@@ -25,12 +25,12 @@ sections:
       title: Mental Wellness in the Silver Years
       subtitle: Track 3
       alt: Image alt text
-      image: /images/silver years.png
+      image: /images/silver years track v2.png
   - infopic:
       title: Enhancing Mental Health with Technology
       subtitle: Track 4
       alt: Image alt text
-      image: /images/technology.png
+      image: /images/technology track v2.png
   - infopic:
       url: /
       image: /images/homepage logo v5.png
