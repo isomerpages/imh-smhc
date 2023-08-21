@@ -21,12 +21,16 @@ sections:
       image: /images/children & youth track.png
       alt: Image alt text
   - infopic:
+      title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
+      subtitle: Track 2
+      alt: Image alt text
+  - infopic:
       url: /
       image: /images/homepage logo v5.png
       alt: Organisers
       title: Organised By
   - infopic:
-      title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
-      subtitle: Track 2
+      title: Mental Wellness in the Silver Years
+      subtitle: Track 3
       alt: Image alt text
 ---
