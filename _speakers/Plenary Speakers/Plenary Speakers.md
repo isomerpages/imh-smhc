@@ -11,7 +11,8 @@ third_nav_title: Plenary Speakers
     <a href="/speakers/plenary-speakers/alvin-tan"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnalvintan.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnhengzechuan.png">
+			 <a href="/speakers/plenary-speakers/heng-zechuan/">
+    <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnhengzechuan.png"></a>
   </div>
 	  <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/plenary-speakers/jean-liu/"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjeanliu.png"></a>
