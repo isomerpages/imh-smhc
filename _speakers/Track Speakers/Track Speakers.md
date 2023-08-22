@@ -51,6 +51,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/dennis-kom"><img alt="track speaker" src="/images/TNSpeakersPhoto/tndenniskom.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/dwayne-loo"><img alt="track speakers" src="/images/TNSpeakersPhoto/tndwayneloo.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnellaishasamari.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
@@ -78,7 +81,7 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlidongdong.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/loo-wei-leng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlooweilengv2.png"></a>
+    <a href="/speakers/track-speakers/loo-wei-leng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlooweileng.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/matt-oon"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmattoon.png"></a>
