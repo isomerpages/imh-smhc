@@ -8,7 +8,7 @@ third_nav_title: Plenary Speakers
 
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/plenary-speakers/alvin-tan"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnalvintan.png"></a>
+    <a href="/speakers/plenary-speakers/alvin-tan"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnalvintanv2.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
 			 <a href="/speakers/plenary-speakers/heng-zechuan/">
@@ -22,7 +22,7 @@ third_nav_title: Plenary Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
 		  <a href="/speakers/plenary-speakers/robyn-shearer">
-				<img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnrobynshearer.png"></a>
+				<img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnrobynshearerv2.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/plenary-speakers/sun-xueling"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnsunxueling.png"></a>
