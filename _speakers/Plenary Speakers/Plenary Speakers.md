@@ -31,7 +31,7 @@ third_nav_title: Plenary Speakers
     <a href="/speakers/plenary-speakers/sun-xueling"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnsunxueling.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/plenary-speakers/swapna-verma"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnswapnaverma.png"></a>
+    <a href="/speakers/plenary-speakers/swapna-verma"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnswapnavermav2.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
 			 <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tntaychoonhong.png">
