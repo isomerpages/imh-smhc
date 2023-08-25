@@ -25,7 +25,7 @@ third_nav_title: Plenary Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
 		  <a href="/speakers/plenary-speakers/robyn-shearer">
-				<img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnrobynshearerv2.png"></a>
+				<img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnrobynshearerv3.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/plenary-speakers/sun-xueling"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnsunxueling.png"></a>
