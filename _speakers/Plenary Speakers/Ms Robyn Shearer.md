@@ -6,7 +6,7 @@ third_nav_title: Plenary Speakers
 ---
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 100%; max-width: 100%;">
-    <img alt="track speakers 1" src="/images/SpeakersPhoto/robynshearer.png">
+    <img alt="track speakers 1" src="/images/SpeakersPhoto/robynshearerv2.png">
   </div>
 </div>
 
@@ -16,4 +16,4 @@ She came to Manatū Hauora in 2019, with a vast range of sector experience havin
 
 Within Manatū Hauora, Ms Shearer established the Mental Health and Addiction Directorate programme and team and then stepped in to lead the DHB  Performance Programme which established an intensive support programme to support DHBs with performance challenges. From mid-2020, Robyn was Acting Deputy Chief Executive and supported the Director General with areas such as workforce development, COVID-19 response and cross agency relationships.
 
-In the last year, she has taken on the role of system performance and monitoring. Overseeing performance of health entities and undertaking focused areas of monitoring including workforce, health infrastructure, clinical and mental health. 
+In the last year, she has taken on the role of system performance and monitoring. Overseeing performance of health entities and undertaking focused areas of monitoring including workforce, health infrastructure, clinical and mental health.
