@@ -13,7 +13,7 @@ description: ""
      <a href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img alt="Sumitomo Logo" src="/images/SponsorsLogo/sumitomov1.png"></a>
   </div>
 	<div style="flex-basis: 33%; max-width: 33%;">
-     <a href="www.sanofi.com"><img alt="Sumitomo Logo" src="/images/SponsorsLogo/sanofi.png"></a>
+     <a href="www.sanofi.com"><img alt="Sanofi Logo" src="/images/SponsorsLogo/sanofi.png"></a>
   </div>
 		<div style="flex-basis: 33%; max-width: 33%;">
 		<img alt="lee foundation logo" src="/images/SponsorsLogo/leefoundationv2.png">
