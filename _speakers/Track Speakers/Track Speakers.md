@@ -57,10 +57,11 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnellaishasamari.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/janhavi-vaingankar">
     <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnjanhavivaingankarv2.png">
-  </div>
-  <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/jasper-lim"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjasperlim.png"></a>
+  </a></div><a href="/speakers/track-speakers/janhavi-vaingankar">
+  </a><div style="flex-basis: 25%; max-width: 25%;"><a href="/speakers/track-speakers/janhavi-vaingankar">
+    </a><a href="/speakers/track-speakers/jasper-lim"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjasperlim.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjenniferkoh.png"></a>
