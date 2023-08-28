@@ -10,6 +10,6 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
-Mr Dwayne Loo participated in Dementia Singapore’s Voices for Hope programme, Cohort 10, in 2022.
+Mr Dwayne Loo is a self-advocate and alumni of Voices for Hope programme. He participated in Dementia Singapore’s Voices for Hope programme, Cohort 10, in 2022.
 
 He is a former German-speaking Leading Steward with our National Airline for close to 30 years.
