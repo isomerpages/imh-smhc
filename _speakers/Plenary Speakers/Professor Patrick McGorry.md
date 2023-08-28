@@ -20,6 +20,6 @@ Professor Patrick McGorry is an Irish-born, Australian psychiatrist known world-
 * 2019: He received the Humanitarian Award of the Society of Biological Psychiatry and the NHMRC Research Excellence Award. 
 * 2019-2020: He was Chair of the Expert Advisory Committee to the Royal Commission into Victoria’s Mental Health System.
 
-Professor McGorry has published over 980 publications, with 47,266 citations and a “h” index of 112 (Scopus)and has played key advocacy and advisory roles to government on health system reform in Australia and many parts of the world.
+Professor McGorry has published over 980 publications, with 47,266 citations and a “h” index of 112 (Scopus) and has played key advocacy and advisory roles to government on health system reform in Australia and many parts of the world.
 
 He is President of the International Association for Youth Mental Health, Past-President of the Schizophrenia International Research Society, Past-president of the Society for Mental Health Research, and was Founding President and is now Treasurer of the IEPA: Early Intervention in Mental Health. He is also a Founding Board Member of Australians for Mental Health.
