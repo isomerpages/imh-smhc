@@ -16,7 +16,7 @@ He also leads CARA, a lifestyle and community digital platform that provides
 access for persons living with dementia and caregivers to connect to an ecosystem
 of solutions via a mobile application.
 
-In the World Alzheimer’s month of September , he kicked off a series of “Back to the
+In the World Alzheimer’s month of September, he kicked off a series of “Back to the
 Heartlands” outreach projects by taking Dementia Singapore to the communities,
 engaging the heartlanders and spreading dementia awareness on the ground.
 
