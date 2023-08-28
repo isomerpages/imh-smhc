@@ -18,6 +18,6 @@ Dr Neo leads a dedicated team in developing and implementing innovative healthca
 	
 As the project lead of Mindside, Dr Neo is at the forefront of efforts to bring mental healthcare into primary care by ensuring accessible resources within the community.
 
-Beyond his organisation, Dr. Neo also contributes to national healthcare policies and protocols. He serves as a member and advisor on several Ministry of Health workgroups and drug advisory boards for pharmaceutical companies.
+Beyond his organisation, Dr Neo also contributes to national healthcare policies and protocols. He serves as a member and advisor on several Ministry of Health workgroups and drug advisory boards for pharmaceutical companies.
 	
-Dr. Neo's blend of medical expertise and business acumen bridges the gap between clinical practice and the evolving healthcare landscape. His dedication to innovation and navigating industry complexities positions him as a catalyst for positive change.
+Dr Neo's blend of medical expertise and business acumen bridges the gap between clinical practice and the evolving healthcare landscape. His dedication to innovation and navigating industry complexities positions him as a catalyst for positive change.
