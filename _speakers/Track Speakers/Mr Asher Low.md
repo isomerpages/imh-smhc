@@ -14,4 +14,4 @@ Mr Asher Low founded Limitless, a Social Service Agency which provides  interven
 
 Mr Low has a special passion to help youths who struggle with mental health conditions, and has spearheaded research, advocacy, and public education efforts to help promote help-seeking behavior, reduce stigma in youths, and improve public knowledge and skills in trauma informed care.  
 
-Currently, a part of the steering committee for the Singapore Mental Well-Being Network, he works closely with other leaders in government, statutory boards, and other social service agencies to explore how we can build a better ecosystem of support for people with mental health conditionsand  facilitate prevention of mental health conditions.
+Currently, a part of the steering committee for the Singapore Mental Well-Being Network, he works closely with other leaders in government, statutory boards, and other social service agencies to explore how we can build a better ecosystem of support for people with mental health conditions and facilitate prevention of mental health conditions.
