@@ -12,4 +12,4 @@ third_nav_title: Track Speakers
 	
 Ms Loo Wei Leng participated in Dementia Singapore’s Voices for Hope programme, Cohort 10, in 2022.
 	
-She is Dwayne’s elder sister and care partner. Wei Leng has worked with various MNCs in the area of end-to-end supply chain management within the retail and wholesale distribution of consumer products.
+She is Mr Dwayne Loo’s elder sister and care partner. Ms Loo has worked with various MNCs in the area of end-to-end supply chain management within the retail and wholesale distribution of consumer products.
