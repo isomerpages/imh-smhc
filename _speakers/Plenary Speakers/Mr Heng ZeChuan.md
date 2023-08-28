@@ -6,7 +6,7 @@ third_nav_title: Plenary Speakers
 ---
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 100%; max-width: 100%;">
-    <img alt="track speakers 1" src="/images/SpeakersPhoto/hengzechuan.png">
+    <img alt="track speakers 1" src="/images/SpeakersPhoto/hengzechuanv0.png">
   </div>
 </div>
 
