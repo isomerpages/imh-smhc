@@ -36,7 +36,7 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/christopher-cheok"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnchristophercheok.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/creighton-heaukulani"><img alt="track speakers" src="/images/TNSpeakersPhoto/tncreightonheaukulani.png"></a>
+    <a href="/speakers/track-speakers/creighton-heaukulani"><img alt="track speakers" src="/images/TNSpeakersPhoto/tncreightonheaukulaniv2.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/danny-loke"><img alt="track speakers" src="/images/TNSpeakersPhoto/tndannyloke.png"></a>
