@@ -132,7 +132,7 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/will-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnwillfong.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnwinstontan.png">
+    <a href="/speakers/track-speakers/winston-tan"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnwinstontan.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/yao-fengyuan"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnyaofengyuan.png"></a>
