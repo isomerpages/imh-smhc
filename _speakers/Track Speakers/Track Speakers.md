@@ -114,7 +114,7 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/shazana-shahwan"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnshazanashahwan.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnsheenadiong.png">
+    <a href="/speakers/track-speakers/sheena-diong"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnsheenadiong.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/simon-leow"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnsimonleow.png"></a>
