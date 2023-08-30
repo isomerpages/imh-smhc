@@ -19,4 +19,4 @@ To this end, we have lined up notable professionals and experts to share their e
 
 We hope you will find these topics relevant and thought-provoking and we look forward to seeing you at the conference.
 
-![](/images/for%20welcome%20message.png)
+![](/images/cochair-welcmsg.png)
