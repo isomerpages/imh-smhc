@@ -3,7 +3,7 @@ title: Posters
 permalink: /posters/
 description: ""
 ---
-## Abstract submission is now closed. Please refer to the below guidelines for your poster:
+### Abstract submission is now closed. Please refer to the below guidelines for your poster:
 
 **Poster Guidelines for Presenters**
 
