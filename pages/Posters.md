@@ -13,7 +13,7 @@ description: ""
 
 _Affiliation(s) of author(s)_3
 
-Brief instructions:
+**Brief instructions:**
 
 1.    The title should be in uppercase, bold and font size 88.
 
@@ -23,13 +23,11 @@ Brief instructions:
 
 All texts should be in Calibri, font size 35. Font size may be adjusted to allow for sufficient space. Please ensure that the words and pictures on the poster can be easily viewed and read.
 
-**Poster Specifications**
+**Poster Specifications:**
 
 * A0 size (841mm x 1189mm)
 * Portrait Orientation
 * Full Colour Hardcopy Poster
 * Matte lamination
 * Kindly proofread before printing
-* PDF version of the poster to be sent to SMHC Secretariat at [smhc@imh.com.sg](mailto:smhc@imh.com.sg) by 29 Sept
-
-
+* PDF version of the poster to be sent to SMHC Secretariat at [smhc@imh.com.sg](mailto:smhc@imh.com.sg) by **29 Sept 2023**
