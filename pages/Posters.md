@@ -5,15 +5,16 @@ description: ""
 ---
 ### Abstract submission is now closed. Please refer to the below guidelines for your poster:
 
-**Poster Guidelines for Presenters**
+###### Poster Guidelines for Presenters
 
-**TITLE**1
+**TITLE** 1
 
-**Presenting author’s name, and name(s) of co-author(s)2**
+**Presenting author’s name, and name(s) of co-author(s)** 2
 
-*Affiliation(s) of author(s)3*
+*Affiliation(s) of author(s)* 3
 
 **Brief instructions:**
+
 1. The title should be in uppercase, bold and font size 88.
 2. Author’s/authors’ name(s) should be in bold. The name of the presenting author should be underlined. The presenting author need not be the first author.
 3. Affiliation(s) of author(s) should be in italic.
