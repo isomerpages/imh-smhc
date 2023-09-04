@@ -7,7 +7,7 @@ description: ""
 
 #### Please refer to the below guidelines for your poster:
 
-###### Poster Guidelines for Presenters
+**Poster Guidelines for Presenters**
 
 **TITLE** 1
 
