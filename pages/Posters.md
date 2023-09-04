@@ -3,22 +3,29 @@ title: Posters
 permalink: /posters/
 description: ""
 ---
-## Abstract submission starts now!
+## Abstract submission is now closed! Please refer to the below guidelines for your poster:
 
-We invite you to submit your abstracts for the Singapore Mental Health Conference (SMHC) 2023  Poster Presentation.
+**<u>Poster Guidelines for Presenters</u>**
 
-##### Abstract Categories
+**TITLE** <sup>1</sup>
 
-* Mental Health and Resilience for Children and Youth
-* Wellbeing@Work: Building a Healthy and Positive Workforce
-* Mental Wellness in the Silver Years
-* Enhancing Mental Health with Technology
+**<u>Presenting author’s name</u>, and name(s) of co-author(s)** <sup>2</sup>
 
-You will be notified if your abstract is shortlisted for presentation at the Conference.
+*Affiliation(s) of author(s)* <sup>3</sup>
 
-### Submission deadline: 25 August 2023
-<div style="display: flex; flex-wrap: wrap;">
-	<div style="flex-basis: 30%; max-width: 30%;">
-		 <a href="https://form.gov.sg/64be415d9f1622001213d60b">
-    <img alt="track speaker" src="/images/abstractqrcode.png"></a>
-  </div></div>
+**Brief instructions:**
+
+1. The title should be in uppercase, bold and font size 88.
+2. Author’s/authors’ name(s) should be in bold. The name of the presenting author should be underlined. The presenting author need not be the first author.
+3. Affiliation(s) of author(s) should be in italic.
+
+All texts should be in Calibri, font size 35.&nbsp;Font size may be adjusted to allow for sufficient space. Please ensure that the&nbsp;words and pictures&nbsp;on the poster can be easily viewed and read.
+
+**<u>Poster Specifications:</u>**
+
+* A0 size (841mm x 1189mm)
+* Portrait Orientation
+* Full Colour Hardcopy Poster
+* Matte lamination
+* Kindly proofread before printing
+* PDF version of the poster to be sent to SMHC Secretariat at&nbsp;[smhc@imh.com.sg](mailto:smhc@imh.com.sg)&nbsp;by **29 Sept 2023**
