@@ -5,7 +5,7 @@ description: ""
 ---
 ## Abstract submission is now closed. Please refer to the below guidelines for your poster:
 
-**Poster Guidelines for Presenters**
+**<u>Poster Guidelines for Presenters</u>**
 
 **TITLE** <sup>1</sup>
 
@@ -21,7 +21,7 @@ description: ""
 
 All texts should be in Calibri, font size 35.&nbsp;Font size may be adjusted to allow for sufficient space. Please ensure that the&nbsp;words and pictures&nbsp;on the poster can be easily viewed and read.
 
-**Poster Specifications:**
+**<u>Poster Specifications:</u>**
 
 * A0 size (841mm x 1189mm)
 * Portrait Orientation
