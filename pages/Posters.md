@@ -7,11 +7,11 @@ description: ""
 
 **Poster Guidelines for Presenters**
 
-**TITLE** 1
+**TITLE** <sup>1</sup>
 
-**Presenting author’s name, and name(s) of co-author(s)** 2
+**Presenting author’s name, and name(s) of co-author(s)** <sup>2</sup>
 
-*Affiliation(s) of author(s)* 3
+*Affiliation(s) of author(s)* <sup>3</sup>
 
 **Brief instructions:**
 
@@ -19,7 +19,7 @@ description: ""
 2. Author’s/authors’ name(s) should be in bold. The name of the presenting author should be underlined. The presenting author need not be the first author.
 3. Affiliation(s) of author(s) should be in italic.
 
-All texts should be in Calibri, font size 35. Font size may be adjusted to allow for sufficient space. Please ensure that the words and pictures on the poster can be easily viewed and read.
+All texts should be in Calibri, font size 35.&nbsp;Font size may be adjusted to allow for sufficient space. Please ensure that the&nbsp;words and pictures&nbsp;on the poster can be easily viewed and read.
 
 **Poster Specifications:**
 
@@ -28,4 +28,4 @@ All texts should be in Calibri, font size 35. Font size may be adjusted to allo
 * Full Colour Hardcopy Poster
 * Matte lamination
 * Kindly proofread before printing
-* PDF version of the poster to be sent to SMHC Secretariat at [smhc@imh.com.sg](mailto:smhc@imh.com.sg) by **29 Sept 2023**
+* PDF version of the poster to be sent to SMHC Secretariat at&nbsp;[smhc@imh.com.sg](mailto:smhc@imh.com.sg)&nbsp;by **29 Sept 2023**
