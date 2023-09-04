@@ -9,7 +9,7 @@ description: ""
 
 **TITLE** <sup>1</sup>
 
-**Presenting author’s name, and name(s) of co-author(s)** <sup>2</sup>
+**<u>Presenting author’s name</u>, and name(s) of co-author(s)** <sup>2</sup>
 
 *Affiliation(s) of author(s)* <sup>3</sup>
 
