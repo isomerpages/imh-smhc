@@ -8,10 +8,7 @@ third_nav_title: Plenary Speakers
 
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/plenary-speakers/alvin-tan"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnalvintanv2.png"></a>
-  </div>
-	<div style="flex-basis: 25%; max-width: 25%;">
-			 <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tndanielfung.png">
+       <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tndanielfung.png">
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
 			 <a href="/speakers/plenary-speakers/heng-zechuan/">
@@ -21,7 +18,7 @@ third_nav_title: Plenary Speakers
 			<a href="/speakers/plenary-speakers/jean-liu/"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjeanliuv0.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/plenary-speakers/patrick-mcgorry/"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnpatrickmcgorryv0.png"></a>
+    <a href="/speakers/plenary-speakers/patrick-mcgorry/"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnpatrickmcgorryv01.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
 		  <a href="/speakers/plenary-speakers/robyn-shearer">

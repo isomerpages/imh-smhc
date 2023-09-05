@@ -21,7 +21,7 @@ description: ""
 
 All texts should be in Calibri, font size 35.&nbsp;Font size may be adjusted to allow for sufficient space. Please ensure that the&nbsp;words and pictures&nbsp;on the poster can be easily viewed and read.
 
-**<u>Poster Specifications:</u>**
+**<u>Poster Specifications</u>**
 
 * A0 size (841mm x 1189mm)
 * Portrait Orientation
