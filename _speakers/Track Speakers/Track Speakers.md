@@ -27,9 +27,6 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/asher-low"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnasherlow.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/bernard-lim"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnbernardlim.png"></a>
-  </div>
-  <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/chia-siok-hoon"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnchiasiokhoon.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
@@ -46,6 +43,9 @@ third_nav_title: Track Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/david-ng"><img alt="track speaker" src="/images/TNSpeakersPhoto/tndavidng.png"></a>
+  </div>
+	  <div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/dawn-choo"><img alt="track speakers" src="/images/TNSpeakersPhoto/tndawnchoo.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/dennis-kom"><img alt="track speaker" src="/images/TNSpeakersPhoto/tndenniskom.png"></a>
