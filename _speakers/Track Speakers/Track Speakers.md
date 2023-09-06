@@ -25,7 +25,8 @@ third_nav_title: Track Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/asher-low"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnasherlow.png"></a>
-  </div>	<div style="flex-basis: 25%; max-width: 25%;">
+  </div>	
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/caleb-ng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tncalebngv2.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
@@ -57,6 +58,9 @@ third_nav_title: Track Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ellaisha-samari"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnellaishasamari.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/emily-ong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnemilyong.png"></a>
   </div>
 <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjanhavivaingankarv2.png"></a>
