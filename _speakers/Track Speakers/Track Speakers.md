@@ -24,6 +24,10 @@ third_nav_title: Track Speakers
     <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnandrewtay.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+			<a href="/speakers/track-speakers/ang-suying">
+    <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnangsuying.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/asher-low"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnasherlow.png"></a>
   </div>	
 	<div style="flex-basis: 25%; max-width: 25%;">
