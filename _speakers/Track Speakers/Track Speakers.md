@@ -134,6 +134,9 @@ third_nav_title: Track Speakers
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/rinkoo-ghosh"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnrinkooghosh.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/ruth-wong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnruthwong.png"></a>
+  </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/shazana-shahwan"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnshazanashahwan.png"></a>
   </div>
