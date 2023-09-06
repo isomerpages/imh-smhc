@@ -8,7 +8,8 @@ third_nav_title: Plenary Speakers
 
 <div style="display: flex; flex-wrap: wrap;">
 	<div style="flex-basis: 25%; max-width: 25%;">
-       <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnaprofdanielfungv2.png">
+		<a href="/speakers/plenary-speakers/daniel-fung/">
+			<img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnaprofdanielfungv2.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
 			 <a href="/speakers/plenary-speakers/heng-zechuan/">
