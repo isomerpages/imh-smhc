@@ -2,16 +2,16 @@ collections:
   speakers:
     output: true
     order:
-      - Plenary Speakers/Mr Tay Choon Hong.md
-      - Plenary Speakers/Associate Professor Daniel Fung.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Plenary Speakers.md
+      - Plenary Speakers/Associate Professor Daniel Fung.md
       - Plenary Speakers/Mr Heng ZeChuan.md
       - Plenary Speakers/Dr Jean Liu.md
       - Plenary Speakers/Professor Patrick McGorry.md
       - Plenary Speakers/Ms Robyn Shearer.md
       - Plenary Speakers/Ms Sun Xueling.md
       - Plenary Speakers/Associate Professor Swapna Verma.md
+      - Plenary Speakers/Mr Tay Choon Hong.md
       - Track Speakers/.keep
       - Track Speakers/Track Speakers.md
       - Track Speakers/Mr Aaron Tan.md
