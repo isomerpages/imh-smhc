@@ -155,6 +155,9 @@ third_nav_title: Track Speakers
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/steve-loh"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnsteveloh.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/tan-yi-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tntanyifong.png"></a>
+  </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/will-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnwillfong.png"></a>
   </div>
