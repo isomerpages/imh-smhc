@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Plenary Speakers/Associate Professor Daniel Fung.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Plenary Speakers.md
       - Plenary Speakers/Mr Heng ZeChuan.md
