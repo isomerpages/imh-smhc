@@ -66,7 +66,7 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjenniferkoh.png"></a>
   </div>
 	  <div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/joel-wong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjoelwong.png"></a>
+    <a href="/speakers/track-speakers/joel-wong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjoelwongv2.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/john-wong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjohnwong.png"></a>
