@@ -86,6 +86,9 @@ third_nav_title: Track Speakers
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/karen-leow"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnkarenleow.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/karine-scelles"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnkarinescelles.png"></a>
+  </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/katherine-koh"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnkatherinekoh.png"></a>
   </div>
