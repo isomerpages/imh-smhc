@@ -111,6 +111,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/moses-hng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmoseshng.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/nadia-daeng-ree"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnnadiadaengree.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/ong-say-how"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnongsayhow.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
