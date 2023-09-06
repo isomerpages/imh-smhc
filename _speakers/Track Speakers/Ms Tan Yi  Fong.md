@@ -6,10 +6,8 @@ third_nav_title: Track Speakers
 ---
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 100%; max-width: 100%;">
-    <img alt="track speakers 1" src="/images/SpeakersPhoto/karenleow.png">
+    <img alt="track speakers 1" src="/images/SpeakersPhoto/tanyifong.png">
   </div>
 	</div>
 	
-Ms Karen Leow volunteers with the Broken Crayons Still Colour workshop series at Early Psychosis Intervention Programme (EPIP) where she shares her knowledge of co-production with the team. She had collaborated with the Co-Production Collective at University College London (UK) and had conducted co-production training sessions locally and abroad (UK). As an ally, she incorporates the values of being human, transparent, inclusive and challenging into everything she does. 
-	
-Co-production aside, she is passionate about the mental health and cognitive development of children and is currently a Research Associate at the National Institute of Education (NIE). She holds a Master’s degree in Cognitive Neuroscience and a Bachelor’s degree in Psychology.
+As a Co-production Executive with the Early Psychosis Intervention Programme (EPIP) at IMH, Ms Tan Yi Fong is involved in the advocacy, training, research, and implementation of the department’s co-production efforts. She works closely with her clinician colleagues and volunteers consisting of persons-in-recovery, caregivers, and members of the public to plan, design, develop and deliver psycho-education workshops such as the Broken Crayons Still Colour series. This work is close to her heart as she was a beneficiary of EPIP’s services. Prior to this, she received mentorship as a peer support apprentice and helped to co-plan and co-facilitate psycho-social interventions she used to benefit from.
