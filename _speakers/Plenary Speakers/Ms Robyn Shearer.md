@@ -10,7 +10,9 @@ third_nav_title: Plenary Speakers
   </div>
 </div>
 
-#### Topic title: Kia Manawanui and Digital Mental Health
+<b>Topic Title</b>
+
+<p id="left">Day 2, 9.00AM | Kia Manawanui and Digital Mental Health</p>
 
 **Profile**
 
