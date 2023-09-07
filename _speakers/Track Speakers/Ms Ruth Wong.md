@@ -11,7 +11,7 @@ third_nav_title: Track Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 1, 4.10PM | Voices for Hope - Together We Found Our Strength  </p>
+<p id="left">Day 1, 4.10PM | Voices for Hope - Together We Found Our Strength</p>
 
 <b>Profile</b>	
 	
