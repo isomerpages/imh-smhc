@@ -12,7 +12,7 @@ third_nav_title: Plenary Speakers
 
 #### Topic title: Peer Support and How It Compliments Multi-disciplinary Healthcare Services
 
-**Profile:**
+**Profile**
 
 Mr Heng ZeChuan is currently a Peer Support Specialist and Recovery Support Manager at PSALT Care, a charity organisation set up to support and sustain persons with diagnosed mental health and addiction challenges in their recovery journey.
 
@@ -22,7 +22,7 @@ Prior to this, he worked in a private psychiatric clinic as a clinical assistant
 
 His lived experience with bipolar and anxiety for the past 24 years has instilled in him empathy and a calling to serve those who are vulnerable and disadvantaged. Finding meaning and purpose in the helping profession, he strives to empower and enable fellow peers and seeks to progress with them on a mutually supportive journey of recovery and resilience.
 
-**Abstract:**
+**Abstract**
 
 ZeChuan shares the experience of his recovery journey, and how being on the receiving end of a multi-disciplinary healthcare service has been vital to his recovery. Encouraged by the hope he found through the recovery stories shared with him by peer support specialists, he now seeks to pay it forward by sharing his own recovery story to inspire others.
 
