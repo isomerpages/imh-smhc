@@ -10,7 +10,9 @@ third_nav_title: Plenary Speakers
   </div>
 </div>
 
-#### Topic title: Peer Support and How It Compliments Multi-disciplinary Healthcare Services
+#### Topic title
+
+#### Day 2, 5.00PM | Peer Support and How It Compliments Multi-disciplinary Healthcare Services
 
 **Profile**
 
