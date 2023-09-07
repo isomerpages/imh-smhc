@@ -10,6 +10,12 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
+<b>Topic Title</b>
+
+<p id="left">Day 2, 1.30PM | Empowering Hidden Heroes – Walking the Journey with Caregivers</p>
+
+<b>Profile</b>	
+
 Dr Rinkoo Ghosh was sole caregiver to both her parents in their final years, including her late mother who suffered from dementia. She is a facilitator and coach on building resilience, emotional agility and empathy. She is passionate about supporting individuals and leaders in organisations to optimise stress and achieve performance.
 	
 Dr Rinkoo has lived in Singapore for over 35 years. She believes in social work and helping others to live a graceful life. She serves in voluntary organisations such Caregivers Alliance Limited and the Sree Narayana Mission (SNM).
