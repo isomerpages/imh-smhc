@@ -9,6 +9,12 @@ third_nav_title: Track Speakers
     <img alt="track speakers 1" src="/images/SpeakersPhoto/winstontanv0.png">
   </div>
 </div>
+	
+<b>Topic Title</b>
+
+<p id="left">Day 2, 1.30PM | Supporting Our Peers: Insights into Peer Supporters’ Journeys</p>
+
+<b>Profile</b>	
 
 Mr Winston Tan is a volunteer and a community peer supporter with Youth Corps Singapore’s (YCS) Project Re:ground, a programme that advocates for the importance of youth mental well-being and peer support as a life skill. His passion in advocating for mental well-being has led him to volunteer with the Institute of Mental Health and become an EXCO member of the Youth Corps Mental Health Cluster since his days as a university student, and now, a working adult.
 
