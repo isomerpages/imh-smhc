@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 1, 11.30AM | Importance of Support from Leaders and Corporates</p>
+<p id="left">Day 1, 11.30AM | Panel Discussion : Importance of Support from Leaders and Corporates</p>
 
 <b>Profile</b>
 
