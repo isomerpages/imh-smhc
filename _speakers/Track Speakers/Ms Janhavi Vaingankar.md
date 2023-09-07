@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 
 <b>Topic Title</b>
 
-<p id="left">Day 1, 2.00PM | Track 1 | Designing Mental Health Services for Youths</p>
+<p id="left">Day 1, 2.00PM | Designing Mental Health Services for Youths</p>
 
 <b>Profile</b>
 
