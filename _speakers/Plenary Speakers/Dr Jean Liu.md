@@ -14,9 +14,9 @@ third_nav_title: Plenary Speakers
 
 Day 2, 5 October 2023
 
-0900 hrs - Dialogue on Digital Mental Health 
+0900 hrs | Dialogue on Digital Mental Health 
 
-1045 hrs - Navigating the Global Digital Mental Health Landscape: How Governments and Users Behave
+1045 hrs | Navigating the Global Digital Mental Health Landscape: How Governments and Users Behave
 
 **Profile**
 
