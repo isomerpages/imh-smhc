@@ -12,9 +12,9 @@ third_nav_title: Plenary Speakers
 
 #### Topic Title
 
-#### Day 1, 4.10PM | Findings from the Singapore Youth Epidemiology and Resilience (YEAR) Study
+<p id="left">Day 1, 4.10PM | Findings from the Singapore Youth Epidemiology and Resilience (YEAR) Study</p>
 
-#### Day 2, 9.00AM | Dialogue on Digital Mental Health 
+<p id="left">Day 2, 9.00AM | Dialogue on Digital Mental Health</p>
 
 **Profile**
 
