@@ -10,6 +10,12 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
+<b>Topic Title</b>
+
+<p id="left">Day 1, 4.10PM | Diagnosis and Management of Clients with Dementia at Polyclinics – NHGP’s Experience </p>
+
+<b>Profile</b>	
+
 Dr David Ng is passionate about improving in primary care delivery and is currently involved in several projects to advance primary care including identification and management of falls and frailty, technology deployment in primary care, care planning and professional standards. He currently oversees medical student training in National Healthcare Group Polyclinics (NHGP) and is an Adjunct Senior Lecturer for Lee Kong Chian and Yong Loo Lin School of Medicine. He currently oversees the running and development of memory clinics in NHGP, where diagnosis and management services are provided for patients with dementia.
 
 
