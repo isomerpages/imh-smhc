@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 2, 3.00PM | Sharing on Happiness initiative</p>
+<p id="left">Day 2, 3.00PM | Sharing on Happiness Initiative</p>
 
 <b>Profile</b>	
 
