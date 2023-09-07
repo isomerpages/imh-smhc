@@ -10,4 +10,11 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
+<b>Topic Title</b>
+
+<p id="left">Day 1, 2.00PM | Effects of COVID-19 Restrictions on Emotional and Behavioural Problems in Youth Offenders and School Students in Singapore </p>
+
+<b>Profile</b>	
+
+
 Dr Li Dongdong's research involves the study of child protection issues and young offender rehabilitation, such as the predictors and outcomes of involvement in child protection services, effects of childhood maltreatment and the cycle of violence. She has extensive experience in research activities in both academic and government settings in Singapore. She played an instrumental role in several longitudinal studies and has contributed extensively to many international journals, books and government publications.
