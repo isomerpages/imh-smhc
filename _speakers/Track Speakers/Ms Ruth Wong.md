@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 1, 4.10PM | Voices for Hope - Together We Found Our Strength | Panel Discussion: One Crayon, One Voice: The Power of Co-Creation</p>
+<p id="left">Day 1, 4.10PM | Voices for Hope - Together We Found Our Strength</p>
 
 <b>Profile</b>	
 
