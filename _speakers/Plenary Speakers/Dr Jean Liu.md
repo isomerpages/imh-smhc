@@ -10,7 +10,7 @@ third_nav_title: Plenary Speakers
   </div>
 	</div>
 	
-#### Topic Title
+#### Programme Details
 
 Day 2, 5 October 2023
 
