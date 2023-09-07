@@ -11,7 +11,7 @@ third_nav_title: Track Speakers
 
 <b>Topic Title</b>
 
-<p id="left">Day 1, 2.00PM | Track 1 | Youth Mental Wellbeing: Insights From Local Studies | Social Media and Youth Mental Health: Unveiling Insights Through Qualitative Research </p>
+<p id="left">Day 1, 2.00PM | Social Media and Youth Mental Health: Unveiling Insights Through Qualitative Research </p>
 
 <b>Profile</b>
 
