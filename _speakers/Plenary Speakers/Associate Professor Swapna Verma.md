@@ -12,11 +12,11 @@ third_nav_title: Plenary Speakers
 	
 ##### Topic Title: Youth Mental Health Reform: International and National Progress
 
-**Profile:**
+**Profile**
 
 After completing her residency training in Psychiatry at Baylor College of Medicine in Houston, Texas, USA, A/Prof Swapna Verma started her academic career with the Singapore Early Psychosis Intervention Programme (EPIP) at IMH in 2001 when EPIP was first established and thus was closely involved in the development and establishment of its clinical, research and training initiatives. EPIP has won prestigious awards including the WHO award for research in health promotion in 2004 as well as the inaugural National Medical Excellence Team award in 2008. Later, she became the Chief of Department of Psychosis looking at developing innovative care models for schizophrenia and driving research in the field of psychotic disorders. She is the Programme Director of CHAT, a national youth mental health programme, which recently won the National Medical Excellence Team award in 2023. Since December 2020, A/Prof Swapna has been appointed as the Chairman Medical Board of IMH. She&nbsp;is also the Co-Chair of the Implementation Committee looking at Social and Health Integration under the Inter-agency Taskforce on Mental Health and Well-being.
 
-**Abstract:**
+**Abstract**
 
 Many studies have shown that the onset of mental health conditions are the highest among young people in their mid-teens to mid-20s (Kessler et al., 2007; Befler, 2008). In the Singapore Mental Health Study conducted in 2016, young people in the 18 to 34 year old age group were found to be more vulnerable to developing mood and anxiety disorders (Subramaniam et al., 2019). 
 
