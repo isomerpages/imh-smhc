@@ -10,11 +10,11 @@ third_nav_title: Plenary Speakers
   </div>
 	</div>
 	
-#### Topic Title
+**Topic Title**
 
-###### Day 2, 9.00AM | Dialogue on Digital Mental Health 
+<p id="left">Day 2, 9.00AM | Dialogue on Digital Mental Health</p> 
 
-###### Day 2, 10.45AM | Navigating the Global Digital Mental Health Landscape: How Governments and Users Behave
+Day 2, 10.45AM | Navigating the Global Digital Mental Health Landscape: How Governments and Users Behave
 
 **Profile**
 
