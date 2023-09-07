@@ -10,9 +10,9 @@ third_nav_title: Plenary Speakers
   </div>
 </div>
 
-#### Topic title
+**Topic title**
 
-#### Day 2, 5.00PM | Peer Support and How It Compliments Multi-disciplinary Healthcare Services
+<p id="left">Day 2, 5.00PM | Peer Support and How It Compliments Multi-disciplinary Healthcare Services</p>
 
 **Profile**
 
