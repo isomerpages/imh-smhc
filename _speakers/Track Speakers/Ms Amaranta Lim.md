@@ -10,6 +10,12 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 
+<b>Topic Title</b>
+
+<p id="left">Day 1, 2.00PM | Well-being Circles</p>
+
+<b>Profile</b>	
+
 Ms Amaranta Lim is part of the Partnership and Engagement team of the Youth Division. She works with her teammates on the Singapore Mental Well Being Network with a focus on strengthening community and peer support, and rolling out awareness and engagement initiatives. Ms Lim also works hand in hand with the National Youth Council on issues that are of interest to youths, for instance mental well-being, through youth engagement, policy planning, and participatory platforms such as the Youth Action Challenge.
 
 Before joining the Ministry, she had taken on different roles in arts and heritage, publishing, hospitality, and healthcare in companies such as the National Museum of Singapore and the National University Hospital. The diversity in work environments and roles has helped in developing an empathetic and deeper understanding of the different needs in various communities. 

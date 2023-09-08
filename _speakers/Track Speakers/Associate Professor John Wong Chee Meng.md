@@ -10,6 +10,12 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
+<b>Topic Title</b>
+
+<p id="left">Day 1, 4.10PM | Findings from the Singapore Youth Epidemiology and Resilience (YEAR) Study  </p>
+
+<b>Profile</b>	
+
 A/Prof John is the Lin Jo Yan and Yeo Boon Khim Professor in Mental Health and Neuroscience at the Yong Loo Lin School of Medicine, National University of Singapore, and Senior Consultant Psychiatrist at the National University Hospital. 
 
 He was the Head Military Psychiatrist and held the Office of SAF Chief Medical Corps; was involved in the SARS and H1N1 epidemic planning and response plan, and trauma psychiatry.

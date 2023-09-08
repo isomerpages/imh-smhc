@@ -9,7 +9,13 @@ third_nav_title: Track Speakers
     <img alt="track speakers 1" src="/images/SpeakersPhoto/stevelohv0.png">
   </div>
 		</div>
-		
+	
+<b>Topic Title</b>
+
+<p id="left">Day 2, 3.00PM | Sharing on Myloh</p>
+
+<b>Profile</b>	
+	
 Mr Steve Loh is the founder of Myloh, a mental health app platform. Developed as an initiative to meet accelerating mental health needs in Singapore, Myloh partnered A*Star Startup Central, and collaborated closely with Social Service Agencies and healthcare professionals in building solutions for the community.
 	
 An engineer by training, Mr Loh is a technology professional with more than 20 years of experience in MNCs, with leadership roles in regional and global capacities. His responsibilities include compute, data storage, cloud, document flows, surveillance, security, AI products &amp; solutions. He firmly believes in leveraging AI and Technology for good.

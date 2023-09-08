@@ -10,4 +10,10 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 
+<b>Topic Title</b>
+
+<p id="left">Day 1, 4.10PM | Trajectories of Emotional &amp; Behavioural Resilience in Out-of-Home Care Children</p>
+
+<b>Profile</b>	
+
 Dr Zhou Quan’s  research looks at the well-being of different population segments in Singapore, including quality of life of caregivers, the impact of COVID-19 on quality of life of vulnerable populations, public attitudes towards persons with mental health conditions, and longitudinal development of children in out-of-home care. These studies have informed social service planning and public education campaigns across government agencies, public and community stakeholders.

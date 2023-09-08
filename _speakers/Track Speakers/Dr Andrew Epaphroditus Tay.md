@@ -10,6 +10,12 @@ third_nav_title: Track Speakers
   </div>
 </div>
 
+<b>Topic Title</b>
+
+<p id="left">Day 1, 2.00PM | A Systematic Approach to Enhance Employee Mental Wellbeing: A NUS Case Study</p>
+
+<b>Profile</b>	
+
 Dr Andrew Tay is the Head and Director of the Health and Wellbeing team. In his current role, he leads and drives the University’s health and wellbeing strategies to enhance the resilience of the employees.
 
 As a graduate of the NUS Yong Loo Lin School of Medicine, Dr Tay’s career in medicine took an interesting turn when he took up various roles in prominent global companies in the private sector such as Facebook as Asia Paciﬁc Regional Beneﬁts Consultant and GlaxoSmithKline (GSK) as Director for Health and Wellbeing, before returning to his alma mater to serve in his current role. In his free time, he enjoys playing bass guitar in a live band and mixing cocktails at home.

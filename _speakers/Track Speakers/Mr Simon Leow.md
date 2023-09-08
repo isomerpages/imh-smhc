@@ -10,6 +10,12 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
+<b>Topic Title</b>
+
+<p id="left">Day 2, 3.00PM | Sharing on Happiness Initiative</p>
+
+<b>Profile</b>	
+
 Mr Simon Leow is the co-founder of Happiness Initiative. It is a social enterprise dedicated to promoting happiness and well-being in Singapore and the region.
 	
 He is fascinated with the science of well-being. He believes that well-being skills can be made accessible to everyone.

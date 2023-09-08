@@ -10,6 +10,12 @@ third_nav_title: Plenary Speakers
   </div>
 	</div>
 	
+<b>Topic Title</b>
+
+<p id="left">Day 1, 9.25AM | Youth Mental Health Reform: International and National Progress</p>
+
+<b>Profile</b>
+
 Professor Patrick McGorry is an Irish-born, Australian psychiatrist known world-wide for his development and scaling up of early intervention, youth mental health services, mental health innovation, advocacy and reform. He is also the founding editor of the journal “Early Intervention in Psychiatry” and  is known for his notable works include leading the advocacy resulting in the establishment of the National Youth Mental Health Foundation, which later became Headspace, of which he is a founding board member. He has won many awards such as the Annual Research Award from the National Alliance for the Mentally Ill in Washington DC in 2013, and the Schizophrenia International Research Society Lifetime Achievement Award in 2018. 
 * 2005: He led the advocacy resulting in the establishment of the National Youth Mental Health Foundation, which later became Headspace, of which he is a founding board member. 
 * 2010: He was selected as Australian of the Year and became an Officer of the Order of Australia (AO). 

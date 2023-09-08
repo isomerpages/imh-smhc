@@ -10,6 +10,12 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
+<b>Topic Title</b>
+
+<p id="left">Day 2, 3.00PM | Empowering Persons Living with Dementia</p>
+
+<b>Profile</b>	
+
 Ms Kelly Ng is drawn to stories from those living on the fringes. Over the past decade, she has covered power and poverty, politics and policies, in Singapore and the broader Asia region. She has lived most of her journalism life in text, but is exploring new ways of telling stories. She finds documentary film a particularly powerful medium for understanding a subject.
  
 In 2019, she co-directed Curtain Up!, a film on Asian-American children doing theatre in New York. Lady! is her second venture into documentary filmmaking. This craft, which she considers herself still an amateur in, has also taught her empathy, given her company, and challenged her to break some journalism conventions.
