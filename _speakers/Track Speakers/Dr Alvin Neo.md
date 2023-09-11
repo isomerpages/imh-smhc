@@ -10,6 +10,12 @@ third_nav_title: Track Speakers
   </div>
 	</div>
 	
+<b>Topic Title</b>
+
+<p id="left">Day 2, 10.45AM | Mindline - Brining Mental Health to the Community</p>
+
+<b>Profile</b>	
+	
 Dr Alvin Neo is an innovative Family Physician with over 10 years of experience in leadership roles and clinical settings. 
 
 Dr Neo was awarded an MBBS with honours in 2011 and  subsequently obtained a Masters in Medicine (Internal Medicine) in 2016. He  was accredited as a Family Physician in 2019 and is currently pursuing an Executive MBA. 
