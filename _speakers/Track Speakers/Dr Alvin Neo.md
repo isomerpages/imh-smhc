@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 2, 10.45AM | Mindline - Brining Mental Health to the Community</p>
+<p id="left">Day 2, 10.45AM | Mindline - Bringing Mental Health to the Community</p>
 
 <b>Profile</b>	
 	

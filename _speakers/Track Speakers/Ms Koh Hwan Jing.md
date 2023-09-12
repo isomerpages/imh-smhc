@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 		
 <b>Topic Title</b>
 
-<p id="left">Day 2, 10.45AM | Design Guide Digital Tools for Dementia Education and Support</p>
+<p id="left">Day 2, 10.45AM | Digital Tools for Dementia Education and Support</p>
 
 <b>Profile</b>	
 
