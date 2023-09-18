@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 1, 2.00PM | Effects of COVID-19 Pandemic on Emotional and Behavioural Problems in Youth Offenders and School Students in Singapore </p>
+<p id="left">Day 1, 2.00PM | Effects of the COVID-19 Pandemic on Emotional and Behavioural Problems in Youth Offenders and School Students in Singapore </p>
 
 <b>Profile</b>	
 
