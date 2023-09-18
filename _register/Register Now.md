@@ -6,11 +6,11 @@ description: ""
 ## JOIN US AT SMHC 2023
 
 
-| Categories of Tickets | Early Bird Rates <i>(Extended till 15 September 2023!)</i> | Regular Rates |
-| -------- | -------- | -------- |
-| In-Person     | $290     | $350     |
-| Virtual*     | $190     | $250     |
-| Student (In-person/Virtual)     | $50     | $50     |
+| Categories of Tickets | Regular Rates |
+| -------- | -------- |
+| In-Person  | $350     |
+| Virtual*   | $250     |
+| Student (In-person/Virtual) | $50     |
 
 **Access only to plenary and panel discussion sessions*
 
