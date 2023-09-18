@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 
 <b>Topic Title</b>
 
-<p id="left">Day 1, 4.10PM | Trajectories of Emotional &amp; Behavioural Resilience in Out-of-Home Care Children</p>
+<p id="left">Day 1, 4.10PM | Trajectories of Internalising Problems of Children in Out-of-Home Care</p>
 
 <b>Profile</b>	
 
