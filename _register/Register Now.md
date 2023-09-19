@@ -8,7 +8,7 @@ description: ""
 
 | Categories of Tickets | Regular Rates |
 | -------- | -------- |
-| In-Person  | $350     |
+| In-Person ***(Due to overwhelming responses, registration for in-person attendance will close on 19 September 2023, 2359 hrs.)*** | $350     |
 | Virtual*   | $250     |
 | Student (In-person/Virtual) | $50     |
 
