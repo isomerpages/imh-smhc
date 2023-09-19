@@ -8,7 +8,7 @@ description: ""
 
 | Categories of Tickets | Regular Rates |
 | -------- | -------- |
-| In-Person  | $350     |
+| In-Person ***(Registration for In-Person will close on 19 Sep, 2359hrs)*** | $350     |
 | Virtual*   | $250     |
 | Student (In-person/Virtual) | $50     |
 
