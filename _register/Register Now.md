@@ -8,7 +8,7 @@ description: ""
 
 | Categories of Tickets | Regular Rates |
 | -------- | -------- |
-| In-Person *(Due to full capacity, registration for in-person has closed. Please register as a virtual attendee.)*    |
+| In-Person *(Due to full capacity, registration for in-person has closed. Please register as a virtual attendee.)* | $350     |
 | Virtual* ***(Early Bird rate of $190 has been extended)***  | $190     |
 | Student (In-person/Virtual) | $50     |
 
