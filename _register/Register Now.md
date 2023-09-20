@@ -8,11 +8,11 @@ description: ""
 
 | Categories of Tickets | Regular Rates |
 | -------- | -------- |
-| In-Person ***(Due to overwhelming responses, registration for in-person attendance will close on 19 September 2023, 2359 hrs.)*** | $350     |
-| Virtual*   | $250     |
+| In-Person *(Due to full capacity, registration for in-person has closed. Please register as a virtual attendee.)* | $350     |
+| Virtual* ***(Early Bird rate of $190 has been extended)***  | $190     |
 | Student (In-person/Virtual) | $50     |
 
-**Access only to plenary and panel discussion sessions*
+***Access only to Day 1 morning panel discussion and all plenary sessions**
 
 <button class="my-button"><a href="https://events.miceneurol.com/singapore-mental-health-conference-2023/register/Site/Register">Register now</a></button>
 
