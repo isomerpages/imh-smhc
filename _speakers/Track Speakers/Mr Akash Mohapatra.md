@@ -14,4 +14,6 @@ third_nav_title: Track Speakers
 
 <p id="left">Day 1, 11.30AM | Panel Discussion - Importance of Support from Leaders and Corporates </p>
 
-<b>Profile</b>	
+<b>Profile</b>
+
+Mr Akash Mohapatra heads the Investment Bank legal team at Deutsche Bank, APAC, and leads the employee mental health peer-support interest group, dbMinds.  He is a passionate advocate for Mental Health, wellbeing and community engagement.  He is closely involved with various mental health initiatives and is a Community Carer with Caring for Life and an active volunteer with the WorkWell Leaders. He chairs the Mental Health Film Festival (Singapore) Limited, a registered charity that tries to destigmatise mental health and encourage early help-seeking using films as a medium.
