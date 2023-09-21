@@ -14,6 +14,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/adeline-ng"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnadelineng.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/akash-mohapatra"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnakashmohapatra.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/alvin-neo"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnalvinneo.png"></a>
   </div>
 	 <div style="flex-basis: 25%; max-width: 25%;">
@@ -38,6 +41,9 @@ third_nav_title: Track Speakers
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/christopher-cheok"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnchristophercheok.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/christopher-koh"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnchristopherkoh.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/creighton-heaukulani"><img alt="track speakers" src="/images/TNSpeakersPhoto/tncreightonheaukulaniv2.png"></a>
@@ -113,6 +119,9 @@ third_nav_title: Track Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/moses-hng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmoseshng.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/shafiq-mahadi"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnshafiqmahadi.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/nadia-daeng-ree"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnnadiadaengree.png"></a>
