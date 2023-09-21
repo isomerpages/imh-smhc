@@ -14,6 +14,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/adeline-ng"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnadelineng.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/akash-mohapatra"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnakashmohapatra.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/alvin-neo"><img alt="track speaker" src="/images/TNSpeakersPhoto/tnalvinneo.png"></a>
   </div>
 	 <div style="flex-basis: 25%; max-width: 25%;">
