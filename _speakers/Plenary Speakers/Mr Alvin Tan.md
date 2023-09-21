@@ -12,7 +12,7 @@ third_nav_title: Plenary Speakers
 
 <b>Topic Title</b>
 
-<p id="left">Day 1, 9.25AM | Plenary - Fostering Mental Resilience in Communities Through the SG Mental Well-Being Network</p>
+<p id="left">Day 1, 9.25AM | Plenary: Fostering Mental Resilience in Communities Through the SG Mental Well-Being Network</p>
 
 **Profile**
 
@@ -30,4 +30,4 @@ MOS Tan will share his insights as Chairperson of the SG Mental Well-Being Netwo
 
 Launched in July 2022, the SG Mental Well-Being Network was established as a national partnership platform to strengthen mental health and well-being outcomes for our society. One of the Network’s key efforts is to set up Well-Being Circles within the community, where citizens are trained with skills to look after their own mental well-being and that of others. Thus far, over 400 citizens have been trained as peer supporters in their respective neighbourhoods, with plans to set up more Well-Being Circles in the coming year.
 
-Join in to hear more about the work of the SG Mental Well-Being Network and Well-Being Circles, and how you can be part of this exciting movement. There will also be discussions on how you can partner the Network to foster awareness of mental health and well-being within your communities, and how you can lead your own ground-up mental well-being initiatives. 
+Join in to hear more about the work of the SG Mental Well-Being Network and Well-Being Circles, and how you can be part of this exciting movement. There will also be discussions on how you can partner the Network to foster awareness of mental health and well-being within your communities, and how you can lead your own ground-up mental well-being initiatives.
