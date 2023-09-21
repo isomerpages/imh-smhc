@@ -10,7 +10,7 @@ description: ""
 | -------- | -------- |
 | In-Person *(Due to full capacity, registration for in-person has closed. Please register as a virtual attendee.)* | $350     |
 | Virtual* ***(Early Bird rate of $190 has been extended.)***  | $190     |
-| Student (In-person/Virtual) | $50     |
+| Student (Virtual*) | $50     |
 
 ***Access only to Day 1 morning panel discussion and all plenary sessions**
 
