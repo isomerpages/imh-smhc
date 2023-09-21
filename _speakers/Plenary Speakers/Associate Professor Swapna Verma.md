@@ -12,7 +12,7 @@ third_nav_title: Plenary Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 1, 9.25AM | Youth Mental Health Reform: International and National Progress</p>
+<p id="left">Day 1, 10.40AM | Youth Mental Health Reform: International and National Progress</p>
 
 **Profile**
 
