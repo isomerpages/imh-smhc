@@ -34,6 +34,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/asher-low"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnasherlow.png"></a>
   </div>	
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/ashley-poo"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnashleypoo.png"></a>
+  </div>	
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/caleb-ng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tncalebngv2.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
@@ -47,6 +50,9 @@ third_nav_title: Track Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/creighton-heaukulani"><img alt="track speakers" src="/images/TNSpeakersPhoto/tncreightonheaukulaniv2.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/daniel-wong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tndanielwong.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/danny-loke"><img alt="track speakers" src="/images/TNSpeakersPhoto/tndannyloke.png"></a>
@@ -74,6 +80,9 @@ third_nav_title: Track Speakers
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/haidah-latiff"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnhaidahlatiff.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/hazirah-hoosainsah"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnhazirahhoosainsah.png"></a>
   </div>
 <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjanhavivaingankarv2.png"></a>
@@ -112,16 +121,22 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlidongdong.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/loh-chuan-hui"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlohchuanhui.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/loo-wei-leng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlooweileng.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/matt-oon"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmattoon.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/michelle-koay"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmichellekoay.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/moses-hng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmoseshng.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/shafiq-mahadi"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnshafiqmahadi.png"></a>
+    <a href="/speakers/track-speakers/shafiq-mahadi"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnshafiqmahadiv2.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/nadia-daeng-ree"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnnadiadaengree.png"></a>
@@ -172,13 +187,13 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/tan-yi-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tntanyifong.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/will-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnwillfong.png"></a>
-  </div>
-		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/winston-tan"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnwinstontan.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/yao-fengyuan"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnyaofengyuan.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/ye-yongfeng"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnyeyongfeng.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/zhou-quan"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnzhouquan.png"></a>
