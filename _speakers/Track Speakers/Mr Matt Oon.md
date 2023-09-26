@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 2, 3.00PM | Sharing on Acceset</p>
+<p id="left">Day 2, 3.00PM | Collaborations as Key Drivers of Growth Within the Social Sector</p>
 
 <b>Profile</b>	
 
