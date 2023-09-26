@@ -49,6 +49,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/creighton-heaukulani"><img alt="track speakers" src="/images/TNSpeakersPhoto/tncreightonheaukulaniv2.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/will-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tndanielwong.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/danny-loke"><img alt="track speakers" src="/images/TNSpeakersPhoto/tndannyloke.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
@@ -170,9 +173,6 @@ third_nav_title: Track Speakers
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/tan-yi-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tntanyifong.png"></a>
-  </div>
-		<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/will-fong"><img alt="track speakers 15" src="/images/TNSpeakersPhoto/tnwillfong.png"></a>
   </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/winston-tan"><img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnwinstontan.png"></a>
