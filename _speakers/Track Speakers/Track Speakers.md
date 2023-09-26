@@ -115,6 +115,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlidongdong.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/loh-chuan-hui"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlohchuanhui.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/loo-wei-leng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlooweileng.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
