@@ -124,6 +124,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/matt-oon"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmattoon.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/michelle-koay"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmichellekoay.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/moses-hng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnmoseshng.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
