@@ -7,6 +7,6 @@ third_nav_title: Conference Day 1
 ## Overview
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 100%; max-width: 100%;">
-    <img alt="day2am" src="/images/day2am_v4.png">
+    <img alt="day1am" src="/images/day1am_v2.png">
   </div>
 </div>
