@@ -16,3 +16,4 @@ third_nav_title: Track Speakers
 
 <b>Profile</b>
 
+Ms Michelle Koay heads the Mrs Wong Kwok Leong Student Wellness Centre in Singapore Management University. She has almost two decades of counselling experience with adolescents, adults and families, dealing with relationship issues, academic stress, career concerns and mental health issues. Her post-graduate qualifications include Master of Social Science (Counselling) with Edith Cowan University and Master of Science in Psychology &amp; Neuroscience of Mental Health with King’s College London. She is a registered counsellor and clinical supervisor with SAC (Singapore Association for Counselling).
