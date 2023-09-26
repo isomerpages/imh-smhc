@@ -78,6 +78,9 @@ third_nav_title: Track Speakers
 		<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/haidah-latiff"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnhaidahlatiff.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/hazirah-hoosainsah"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnhazirahhoosainsah.png"></a>
+  </div>
 <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/janhavi-vaingankar"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjanhavivaingankarv2.png"></a>
   </div>
