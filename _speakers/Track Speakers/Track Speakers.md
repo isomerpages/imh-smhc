@@ -34,6 +34,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/asher-low"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnasherlow.png"></a>
   </div>	
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/ashley-poo"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnashleypoo.png"></a>
+  </div>	
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/caleb-ng"><img alt="track speakers" src="/images/TNSpeakersPhoto/tncalebngv2.png"></a>
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
