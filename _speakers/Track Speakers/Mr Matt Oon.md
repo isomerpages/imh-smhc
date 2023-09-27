@@ -12,7 +12,7 @@ third_nav_title: Track Speakers
 	
 <b>Topic Title</b>
 
-<p id="left">Day 2, 3.00PM | Collaborations as Key Drivers of Growth Within the Social Sector</p>
+<p id="left">Day 2, 3.00PM | What Needs to Change for Digital Collaboration to Work? - Digital Transformation is a Team Sport</p>
 
 <b>Profile</b>	
 
