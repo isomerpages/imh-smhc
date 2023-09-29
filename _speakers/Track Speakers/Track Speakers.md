@@ -139,6 +139,9 @@ third_nav_title: Track Speakers
     <a href="/speakers/track-speakers/shafiq-mahadi"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnshafiqmahadiv2.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/nabil-syukri"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnnabilsyukri.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/nadia-daeng-ree"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnnadiadaengree.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
