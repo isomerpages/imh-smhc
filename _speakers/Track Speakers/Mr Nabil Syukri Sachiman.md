@@ -12,6 +12,7 @@ third_nav_title: Track Speakers
 
 <b>Topic Title</b>
 
-<p id="left">Day 1, 4.10PM | Well-being Circles</p>
+<p id="left">Day 1, 4.10PM | Findings from the Singapore Youth Epidemiology and Resilience (YEAR) Study</p>
 
 <b>Profile</b>	
+
