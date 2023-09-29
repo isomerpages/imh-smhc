@@ -15,3 +15,5 @@ third_nav_title: Track Speakers
 <p id="left">Day 1, 4.10PM | Findings from the Singapore Youth Epidemiology and Resilience (YEAR) Study</p>
 
 <b>Profile</b>
+
+Mr. Nabil Syukri is a Psychologist Associate under REACH (West), a community mental health team working closely with families and schools to perform psychological assessments and interventions for school-going adolescents aged between 7 to 18 years old. Prior to this, he worked for several years as a Research Assistant under the NUS Department of Psychological Medicine and NUS Child Development Lab. He previously completed his Bachelors of Social Science (Psychology) and Masters of Science (Research) in NUS.
