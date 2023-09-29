@@ -14,5 +14,4 @@ third_nav_title: Track Speakers
 
 <p id="left">Day 1, 4.10PM | Findings from the Singapore Youth Epidemiology and Resilience (YEAR) Study</p>
 
-<b>Profile</b>	
-
+<b>Profile</b>
