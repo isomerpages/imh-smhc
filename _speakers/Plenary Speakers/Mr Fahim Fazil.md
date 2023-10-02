@@ -24,4 +24,4 @@ His battle with depression for the past 10 years has led him to discover various
 
 <b>Abstract</b>
 
-Fahim shares the perspective of a staff member who runs the peers support group meetings (Circles of Resilience). This sharing hopes to bring across the benefits of peer support, the struggles faced and the potential points of improvement. 
+Fahim shares the perspective of a staff member who runs the peers support group meetings (Circles of Resilience). This sharing hopes to bring across the benefits of peer support, the struggles faced and the potential points of improvement.
