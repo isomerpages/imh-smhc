@@ -90,9 +90,6 @@ third_nav_title: Track Speakers
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/jasper-lim"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjasperlim.png"></a>
   </div>
-	<div style="flex-basis: 25%; max-width: 25%;">
-    <a href="/speakers/track-speakers/jie-ying"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjieying.png"></a>
-  </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/jennifer-koh"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjenniferkoh.png"></a>
   </div>
@@ -116,6 +113,9 @@ third_nav_title: Track Speakers
   </div>
   <div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/koh-hwan-jing"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnkohhwanjing.png"></a>
+  </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/track-speakers/jie-ying"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnjieyingv2.png"></a>
   </div>
 	<div style="flex-basis: 25%; max-width: 25%;">
     <a href="/speakers/track-speakers/li-dongdong"><img alt="track speakers" src="/images/TNSpeakersPhoto/tnlidongdong.png"></a>

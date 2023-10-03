@@ -15,6 +15,9 @@ third_nav_title: Plenary Speakers
 		<a href="/speakers/plenary-speakers/daniel-fung/">
 			<img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnaprofdanielfungv2.png"></a>
   </div>
+	<div style="flex-basis: 25%; max-width: 25%;">
+    <a href="/speakers/plenary-speakers/fahim-fazil"><img alt="plenary speakers" src="/images/TNSpeakersPhoto/tnfahimfazil.png"></a>
+  </div>
 		<div style="flex-basis: 25%; max-width: 25%;">
 			 <a href="/speakers/plenary-speakers/heng-zechuan/">
     <img alt="plenary speakers 2" src="/images/TNSpeakersPhoto/tnhengzechuan.png"></a>
