@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Plenary Speakers/.keep
-      - Plenary Speakers/Dr Jean Liu.md
       - Plenary Speakers/Professor Patrick McGorry.md
       - Plenary Speakers/Ms Robyn Shearer.md
       - Plenary Speakers/Ms Sun Xueling.md
