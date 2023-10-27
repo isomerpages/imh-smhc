@@ -4,7 +4,6 @@ collections:
     order:
       - Plenary Speakers/.keep
       - Track Speakers/.keep
-      - Track Speakers/Mr Daniel Wong.md
       - Track Speakers/Mr Danny Loke.md
       - Track Speakers/Ms Daphne Koek.md
       - Track Speakers/Dr David Ng.md
