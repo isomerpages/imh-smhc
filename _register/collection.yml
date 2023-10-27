@@ -1,5 +1,4 @@
 collections:
   register:
     output: true
-    order:
-      - Terms and Conditions.md
+    order: []
