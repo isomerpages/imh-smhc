@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Plenary Speakers/.keep
-      - Plenary Speakers/Ms Robyn Shearer.md
       - Plenary Speakers/Ms Sun Xueling.md
       - Plenary Speakers/Associate Professor Swapna Verma.md
       - Plenary Speakers/Mr Tay Choon Hong.md
