@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Plenary Speakers/.keep
-      - Plenary Speakers/Mr Alvin Tan.md
       - Plenary Speakers/Associate Professor Daniel Fung.md
       - Plenary Speakers/Mr Fahim Fazil.md
       - Plenary Speakers/Mr Heng ZeChuan.md
