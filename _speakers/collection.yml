@@ -1,0 +1,6 @@
+collections:
+  speakers:
+    output: true
+    order:
+      - Plenary Speakers/.keep
+      - Track Speakers/.keep
