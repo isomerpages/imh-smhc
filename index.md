@@ -11,4 +11,9 @@ sections:
       url: /
       title: Singapore Mental Health Conference 2025
       subtitle: Stay tuned for more updates!
+  - infopic:
+      title: A Big Thank You for Making SMHC 2023 a Success
+      id: infopic
+      description: See you in 2025!
+      alt: Image alt text
 ---
