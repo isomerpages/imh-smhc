@@ -16,4 +16,11 @@ sections:
       id: infopic
       description: See you in 2025!
       alt: Image alt text
+  - infopic:
+      title: Session Recordings
+      id: infopic
+      description: Attendees should have received an email with a link to the session
+        recordings from SMHC 2023. Please email secretariat if you have any
+        issues.
+      alt: Image alt text
 ---
