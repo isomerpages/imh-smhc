@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero image for website 1920 x 720 px_v3-01.jpg
+      background: /images/Hero_Image_for_SMHC_2025___1920_x_720_px__1_.png
       url: /
       title: Singapore Mental Health Conference 2025
       subtitle: Stay tuned for more updates!
