@@ -19,7 +19,8 @@ sections:
   - infopic:
       title: Session Recordings
       id: infopic
-      description: "Attendees would have received an email with a link to the session
-        recordings from SMHC 2023. "
+      description: Attendees would have received an email with a link to the session
+        recordings from SMHC 2023.
       alt: Image alt text
+      image: /images/6I0A9587.jpg
 ---
