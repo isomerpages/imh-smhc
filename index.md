@@ -16,6 +16,7 @@ sections:
       id: infopic
       description: See you in 2025!
       alt: Image alt text
+      image: /images/Untitled_design.png
   - infopic:
       title: Session Recordings
       id: infopic
