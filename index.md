@@ -1,39 +1,27 @@
 ---
 layout: homepage
-title: Singapore Mental Health Conference 2023
-description: Singapore Mental Health Conference 2023
+title: Singapore Mental Health Conference 2025
+description: Singapore Mental Health Conference 2025
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero image for website 1920 x 720 px_v3-01.jpg
+      background: /images/Hero_Image_for_SMHC_2025___1920_x_720_px__1_.png
       url: /
-      title: Co-Creating Our Mental Health Ecosystem
-      subtitle: 4-5 October 2023 | MAX Atria Singapore Expo
+      title: Singapore Mental Health Conference
   - infopic:
-      title: Mental Health and Resilience for Children and Youth
-      subtitle: Track 1
-      image: /images/children & youth track v4.png
+      title: A Big Thank You for Making SMHC 2023 a Success
+      id: infopic
+      description: Stay tuned for more updates and see you in 2025!
       alt: Image alt text
+      image: /images/Untitled_design.png
   - infopic:
-      title: "Wellbeing@Work: Building a Healthy and Positive Workforce"
-      subtitle: Track 2
+      title: Session Recordings
+      id: infopic
+      description: "An email with the link to access SMHC 2023's session recordings
+        has been sent to all registered attendees. Please use the link to view
+        the recordings. "
       alt: Image alt text
-      image: /images/positive workforce track v4.png
-  - infopic:
-      title: Mental Wellness in the Silver Years
-      subtitle: Track 3
-      alt: Image alt text
-      image: /images/silver years track v6.png
-  - infopic:
-      title: Enhancing Mental Health with Technology
-      subtitle: Track 4
-      alt: Image alt text
-      image: /images/technology track v2.png
-  - infopic:
-      url: /
-      image: /images/homepage logo v5.png
-      alt: Organisers
-      title: Organised By
+      image: /images/6I0A9587.jpg
 ---

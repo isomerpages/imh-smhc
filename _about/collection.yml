@@ -1,8 +1,0 @@
-collections:
-  about:
-    output: true
-    order:
-      - Welcome Message.md
-      - About SMHC.md
-      - Advisory Committee.md
-      - Organising Committee.md
