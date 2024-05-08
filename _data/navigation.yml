@@ -1,12 +1,12 @@
 logo: /images/SMHC 2023/smhc general v2.jpg
 links:
   - title: ACSR
-    url: /about-acsr/
+    url: /acsr/
     sublinks:
       - title: About ACSR
         url: /about-acsr/
       - title: Speakers
-        url: /permalink
+        url: /acsr-speakers/
   - title: ISAM
     url: /permalink
     sublinks:
