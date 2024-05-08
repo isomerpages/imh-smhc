@@ -4,4 +4,4 @@ permalink: /about-acsr/
 variant: tiptap
 description: ""
 ---
-<p>Test</p>
+<p>Asian Congress of Schizophrenia Research</p>
