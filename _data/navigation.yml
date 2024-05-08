@@ -1,7 +1,7 @@
 logo: /images/SMHC 2023/smhc general v2.jpg
 links:
   - title: ACSR
-    url: /ACSR/
+    url: /about-acsr/
     sublinks:
       - title: About ACSR
         url: /about-acsr/
