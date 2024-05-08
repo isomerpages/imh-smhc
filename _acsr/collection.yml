@@ -1,4 +1,5 @@
 collections:
   acsr:
     output: true
-    order: []
+    order:
+      - ASCR.md
