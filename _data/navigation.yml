@@ -7,5 +7,12 @@ links:
         url: /permalink
       - title: Speakers
         url: /permalink
+  - title: ISAM
+    url: /permalink
+    sublinks:
+      - title: About ISAM
+        url: /permalink
+      - title: Speakers
+        url: /permalink
   - title: Register Now!
     url: /permalink
