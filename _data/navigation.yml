@@ -2,12 +2,10 @@ logo: /images/smhc general v2.jpg
 links:
   - title: ACSR
     url: /permalink
-  - title: ISAM
-    url: /permalink
-  - title: ACSR
-    url: /permalink
     sublinks:
       - title: About ACSR
+        url: /permalink
+      - title: Speakers
         url: /permalink
   - title: Register Now!
     url: /permalink
