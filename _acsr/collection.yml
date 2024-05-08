@@ -2,8 +2,8 @@ collections:
   acsr:
     output: true
     order:
-      - ACSR Speakers.md
       - ACSR.md
+      - ACSR Speakers.md
       - ACSR/.keep
       - ACSR/About ACSR.md
       - ACSR/ACSR Speakers.md
