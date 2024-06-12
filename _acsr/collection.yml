@@ -1,7 +1,0 @@
-collections:
-  acsr:
-    output: true
-    order:
-      - ACSR.md
-      - About ACSR.md
-      - ACSR Speakers.md
