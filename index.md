@@ -22,6 +22,11 @@ sections:
       button: Learn more
       url: /about-bicomh/
   - infopic:
+      title: Stay tuned for more info!
+      id: infopic
+      image: /images/R6M25948.jpg
+      alt: Image alt text
+  - infopic:
       subtitle: Organised by
       id: infopic
       image: /images/SMHC2025_CoOrg.png
