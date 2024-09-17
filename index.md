@@ -10,7 +10,7 @@ sections:
       background: /images/Hero_Image_for_SMHC_2025___1920_x_720_px__1_.png
       url: /
       title: Singapore Mental Health Conference 2025
-      subtitle: 16 - 17 July 2025 | Singapore Expo
+      subtitle: 16 - 17 July 2025
   - infopic:
       title: A Big Thank You for Making SMHC 2023 a Success
       id: infopic
