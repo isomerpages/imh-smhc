@@ -22,7 +22,7 @@ sections:
       description: The Singapore Mental Health Conference (SMHC) is Singapore's
         leading conference for mental healthcare.
       button: Learn more
-      url: /about-bicomh/
+      url: /about-smhc/
   - infopic:
       subtitle: Organised by
       id: infopic
