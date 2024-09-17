@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Mental Health Conference 2025
 description: Singapore Mental Health Conference 2025
-image: /images/isomer-logo.svg
+image: /images/SMHClogo.png
 permalink: /
 notification: ""
 sections:
