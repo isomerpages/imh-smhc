@@ -11,9 +11,11 @@ sections:
       url: /
       title: Singapore Mental Health Conference 2025
       subtitle: 16 - 17 July 2025 | Singapore
-  - infobar:
+  - infopic:
       title: Stay tuned for more info!
-      id: infobar
+      id: infopic
+      image: /images/R6M25948.jpg
+      alt: Image alt text
   - infobar:
       title: About SMHC
       id: infobar
@@ -21,11 +23,6 @@ sections:
         leading conference for mental healthcare.
       button: Learn more
       url: /about-bicomh/
-  - infopic:
-      title: Stay tuned for more info!
-      id: infopic
-      image: /images/R6M25948.jpg
-      alt: Image alt text
   - infopic:
       subtitle: Organised by
       id: infopic
