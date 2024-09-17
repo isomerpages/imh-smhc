@@ -11,4 +11,9 @@ sections:
       url: /
       title: Singapore Mental Health Conference 2025
       subtitle: 16 - 17 July 2025 | Singapore
+  - infopic:
+      subtitle: Organised by
+      id: infopic
+      image: /images/SMHC2025_CoOrg.png
+      alt: Image alt text
 ---
