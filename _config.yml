@@ -2,19 +2,19 @@ title: Singapore Mental Health Conference 2025
 url: https://www.smhc.sg
 favicon: /images/smhclogo.png
 colors:
-  primary-color: "#034ca0"
-  secondary-color: "#034ca0"
+  primary-color: "#bf1e2e"
+  secondary-color: "#bf1e2e"
   media-colors:
     - title: media-color-one
-      color: "#873260"
+      color: "#131ab8"
     - title: media-color-two
-      color: "#873260"
+      color: "#131ab8"
     - title: media-color-three
-      color: "#873260"
+      color: "#131ab8"
     - title: media-color-four
-      color: "#873260"
+      color: "#131ab8"
     - title: media-color-five
-      color: "#873260"
+      color: "#131ab8"
 description: Singapore Mental Health Conference 2025
 permalink: none
 baseurl: ""
