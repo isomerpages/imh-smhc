@@ -24,8 +24,7 @@ sections:
       button: Learn more
       url: /about-smhc/
   - infopic:
-      subtitle: Organised by
       id: infopic
-      image: /images/SMHC2025_CoOrg.png
+      image: /images/SMHC2025_CoOrg_V2.png
       alt: Image alt text
 ---
