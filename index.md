@@ -2,26 +2,30 @@
 layout: homepage
 title: Singapore Mental Health Conference 2025
 description: Singapore Mental Health Conference 2025
-image: /images/isomer-logo.svg
+image: /images/SMHClogo.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Image_for_SMHC_2025___1920_x_720_px__1_.png
+      background: /images/Hero.png
       url: /
-      title: Singapore Mental Health Conference
+      title: Singapore Mental Health Conference 2025
+      subtitle: 16 - 17 July 2025 | Singapore
   - infopic:
-      title: A Big Thank You for Making SMHC 2023 a Success
+      title: Stay tuned for more info!
       id: infopic
-      description: Stay tuned for more updates and see you in 2025!
+      image: /images/R6M25948.jpg
       alt: Image alt text
-      image: /images/Untitled_design.png
+  - infobar:
+      title: About SMHC
+      id: infobar
+      description: The Singapore Mental Health Conference (SMHC) is Singapore's
+        leading conference for mental healthcare.
+      button: Learn more
+      url: /about-smhc/
   - infopic:
-      title: Session Recordings
+      subtitle: Organised by
       id: infopic
-      description: "An email with the link to access SMHC 2023's session recordings
-        has been sent to all registered attendees. Please use the link to view
-        the recordings. "
+      image: /images/SMHC2025_CoOrg.png
       alt: Image alt text
-      image: /images/6I0A9587.jpg
 ---
