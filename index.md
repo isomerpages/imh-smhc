@@ -11,11 +11,6 @@ sections:
       url: https://www.smhc.sg/
       title: Singapore Mental Health Conference 2025
       button: 16 - 17 July 2025 | Singapore Expo
-  - infopic:
-      title: Stay tuned for more info!
-      id: infopic
-      image: /images/R6M25948.jpg
-      alt: Image alt text
   - infobar:
       title: About SMHC
       id: infobar
@@ -23,6 +18,18 @@ sections:
         leading conference for mental healthcare.
       button: Learn more
       url: /about-smhc/
+  - infopic:
+      title: Tracks
+      subtitle: subjected to change
+      id: infopic
+      description: Digital Mental Health, Community & Workplace, Child & Youth, Elderly
+      image: /images/Untitled_design.png
+      alt: Image alt text
+  - infopic:
+      title: Stay tuned for more info!
+      id: infopic
+      image: /images/R6M25948.jpg
+      alt: Image alt text
   - infopic:
       id: infopic
       image: /images/SMHC2025_CoOrg_V2.png
