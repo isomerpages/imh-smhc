@@ -20,9 +20,9 @@ sections:
       url: /about-smhc/
   - infopic:
       title: Tracks
-      subtitle: subjected to change
       id: infopic
-      description: Digital Mental Health, Community & Workplace, Child & Youth, Elderly
+      description: The conference tracks are Digital Mental Health, Community &
+        Workplace, Child & Youth and Elderly. (Subjected to change)
       image: /images/Untitled_design.png
       alt: Image alt text
   - infopic:
