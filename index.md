@@ -32,6 +32,6 @@ sections:
       alt: Image alt text
   - infopic:
       id: infopic
-      image: /images/SMHC2025_CoOrg_V2.png
+      image: /images/smhc2024_oc_logo.png
       alt: Image alt text
 ---
