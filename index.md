@@ -22,7 +22,7 @@ sections:
       title: Tracks
       id: infopic
       description: The conference tracks are Digital Mental Health, Community &
-        Workplace, Child & Youth and Elderly. (Subjected to change)
+        Workplace, Child & Youth and Elderly
       image: /images/Untitled_design.png
       alt: Image alt text
   - infopic:
