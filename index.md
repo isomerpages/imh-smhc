@@ -43,4 +43,9 @@ sections:
       id: infopic
       description: Description
       alt: Image alt text
+  - infopic:
+      title: Sponsorship
+      id: infopic
+      description: Description
+      alt: Image alt text
 ---
