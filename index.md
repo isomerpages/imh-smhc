@@ -38,4 +38,9 @@ sections:
       id: infopic
       image: /images/smhc2024_oc_logo.png
       alt: Image alt text
+  - infopic:
+      title: Abstracts
+      id: infopic
+      description: Description
+      alt: Image alt text
 ---
