@@ -30,15 +30,6 @@ sections:
       image: /images/Untitled_design.png
       alt: Image alt text
   - infopic:
-      title: Stay tuned for more info!
-      id: infopic
-      image: /images/R6M25948.jpg
-      alt: Image alt text
-  - infopic:
-      id: infopic
-      image: /images/smhc2024_oc_logo.png
-      alt: Image alt text
-  - infopic:
       title: Abstracts
       id: infopic
       description: Description
@@ -47,5 +38,19 @@ sections:
       title: Sponsorship
       id: infopic
       description: Description
+      alt: Image alt text
+  - infopic:
+      title: Programme
+      id: infopic
+      description: Description
+      alt: Image alt text
+  - infopic:
+      title: Stay tuned for more info!
+      id: infopic
+      image: /images/R6M25948.jpg
+      alt: Image alt text
+  - infopic:
+      id: infopic
+      image: /images/smhc2024_oc_logo.png
       alt: Image alt text
 ---
