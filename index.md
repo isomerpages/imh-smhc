@@ -40,6 +40,7 @@ sections:
       id: infopic
       description: Registration will open in January 2025!
       alt: Image alt text
+      image: /images/R6M25948.jpg
   - infopic:
       title: Sponsorship
       id: infopic
@@ -48,11 +49,11 @@ sections:
   - infobar:
       title: Stay tuned for more info!
       id: infobar
+  - resources:
+      title: Past Editions
+      id: resources
   - infopic:
       id: infopic
       image: /images/smhc2024_oc_logo.png
       alt: Image alt text
-  - resources:
-      title: Past Editions
-      id: resources
 ---
