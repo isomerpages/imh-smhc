@@ -23,24 +23,24 @@ sections:
       button: Learn more
       url: /about-smhc/
   - infopic:
-      title: Tracks
+      title: Abstracts
+      id: infopic
+      description: Description
+      alt: Image alt text
+  - infopic:
+      title: Programme
       id: infopic
       description: The conference tracks are Digital Mental Health, Community &
         Workplace, Child & Youth and Elderly
       image: /images/Untitled_design.png
       alt: Image alt text
   - infopic:
-      title: Abstracts
+      title: Registration
       id: infopic
-      description: Description
+      description: Registration will open in January 2025!
       alt: Image alt text
   - infopic:
       title: Sponsorship
-      id: infopic
-      description: Description
-      alt: Image alt text
-  - infopic:
-      title: Programme
       id: infopic
       description: Description
       alt: Image alt text
