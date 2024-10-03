@@ -46,6 +46,7 @@ sections:
       id: infopic
       description: More information available soon!
       alt: Image alt text
+      image: /images/6I0A9587.jpg
   - infobar:
       title: Stay tuned for more info!
       id: infobar
