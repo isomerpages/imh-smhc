@@ -44,11 +44,9 @@ sections:
       id: infopic
       description: More information available soon!
       alt: Image alt text
-  - infopic:
+  - infobar:
       title: Stay tuned for more info!
-      id: infopic
-      image: /images/R6M25948.jpg
-      alt: Image alt text
+      id: infobar
   - infopic:
       id: infopic
       image: /images/smhc2024_oc_logo.png
