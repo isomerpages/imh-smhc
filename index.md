@@ -51,4 +51,7 @@ sections:
       id: infopic
       image: /images/smhc2024_oc_logo.png
       alt: Image alt text
+  - resources:
+      title: Past SMHC Editions
+      id: resources
 ---
