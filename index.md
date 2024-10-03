@@ -25,7 +25,7 @@ sections:
   - infopic:
       title: Abstracts
       id: infopic
-      description: Description
+      description: More information available soon!
       alt: Image alt text
   - infopic:
       title: Programme
