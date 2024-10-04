@@ -1,2 +1,4 @@
 logo: /images/SMHC 2023/smhc general v2.jpg
-links: []
+links:
+  - title: About SMHC
+    collection: about-smhc
