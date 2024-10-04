@@ -1,4 +1,9 @@
 logo: /images/SMHC 2023/smhc general v2.jpg
 links:
   - title: About SMHC
-    collection: about-smhc
+    url: /about-smhc/
+    sublinks:
+      - title: Mission & Vision
+        url: /mission-vision/
+      - title: Past SMHC
+        url: /past-smhc/
