@@ -25,14 +25,16 @@ sections:
   - infopic:
       title: Programme
       id: infopic
-      description: The conference tracks are Digital Mental Health, Community &
-        Workplace, Child & Youth and Elderly
+      description: We are in the process of developing a compelling programme centered
+        around Children & Youth, Community & Workplace, Elderly and Digital
+        Mental Health.
       image: /images/R6M29260.jpg
       alt: Image alt text
   - infopic:
       title: Abstracts
       id: infopic
-      description: More information available soon!
+      description: SMHC invites abstract submission on mental health. More information
+        will be released soon.
       alt: Image alt text
       image: /images/6I0A9316.jpg
   - infopic:
@@ -44,7 +46,7 @@ sections:
   - infopic:
       title: Sponsorship
       id: infopic
-      description: More information available soon!
+      description: For  more sponsorship details, contact us at smhc@imh.com.sg
       alt: Image alt text
       image: /images/6I0A9587.jpg
   - resources:
