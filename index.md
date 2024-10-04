@@ -54,5 +54,5 @@ sections:
       id: infopic
       description: SMHC 2013 - 2023
       alt: Image alt text
-      image: /images/past_smhc_2.png
+      image: /images/past_highlights.png
 ---
