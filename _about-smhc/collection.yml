@@ -1,4 +1,5 @@
 collections:
   about-smhc:
     output: true
-    order: []
+    order:
+      - Mission & Vision.md
