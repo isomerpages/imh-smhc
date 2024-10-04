@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="smhc 2023 highlights" src="/images/smhc_2023_collage.png">
+<img style="width: 100%;" height="auto" width="100%" alt="2023 highlights" src="/images/SMHC_2023_photo_highlights.png">
 </div>
+<hr>
 <hr>
 <h3>At a glance</h3>
 <p></p>
