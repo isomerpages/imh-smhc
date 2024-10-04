@@ -12,6 +12,6 @@ description: ""
 <h3>At a glance</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="chart" src="/images/Screenshot_2024_10_02_at_4_02_40_PM.png">
+<img style="width: 80%;" height="auto" width="100%" alt="smhc chart" src="/images/smhc_2023_chart.png">
 </div>
 <p></p>
