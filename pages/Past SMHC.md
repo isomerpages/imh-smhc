@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="smhc 2023 update" src="/images/Photo_Collage_of_SMHC_2023___Presentation_.png">
+<img style="width: 85%;" height="auto" width="100%" alt="smhc 2023 highlights" src="/images/smhc_2023_collage.png">
 </div>
 <hr>
 <h3>At a glance</h3>
