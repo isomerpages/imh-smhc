@@ -49,11 +49,9 @@ sections:
       description: For  more sponsorship details, contact us at smhc@imh.com.sg
       alt: Image alt text
       image: /images/6I0A9587.jpg
-  - resources:
-      title: Past Editions
-      id: resources
   - infopic:
+      title: Past Conferences
       id: infopic
-      image: /images/smhc2024_oc_logo.png
+      description: SMHC 2013 - 2023
       alt: Image alt text
 ---
