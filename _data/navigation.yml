@@ -1,8 +1,9 @@
 logo: /images/SMHC 2023/smhc general v2.jpg
 links:
   - title: About SMHC
-    url: /about-smhc/
-  - title: Programme
-    url: /programme/
-  - title: Registration
-    url: /registration/
+    url: /permalink
+    sublinks:
+      - title: Mission & Vision
+        url: /permalink
+      - title: Past SMHC
+        url: /permalink
