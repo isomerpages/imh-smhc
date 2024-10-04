@@ -1,0 +1,4 @@
+collections:
+  about-smhc:
+    output: true
+    order: []
