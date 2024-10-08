@@ -1,0 +1,6 @@
+collections:
+  about-smhc:
+    output: true
+    order:
+      - Mission & Vision.md
+      - Past SMHC.md
