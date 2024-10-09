@@ -71,15 +71,4 @@ description: ""
 </div>
 </div>
 
-<div class="flip-card">
-  <div class="flip-card-inner">
-    <div class="flip-card-front">
-      <img style="width:300px;height:300px;" alt="Avatar" src="/images/smhclogov9oct24.png">
-    </div>
-    <div class="flip-card-back">
-      <h1>John Doe</h1>
-      <p>Architect &amp; Engineer</p>
-      <p>We love that guy</p>
-    </div>
-  </div>
-</div>
+
