@@ -99,3 +99,24 @@ description: ""
 ---
 <a href="www.smhc.sg"><img style="width:200px;height:200px;" alt="HTML tutorial" src="/images/smhclogov9oct24.png"></a>
 <a href="www.smhc.sg"><img style="width:200px;height:200px;" alt="HTML tutorial" src="/images/smhclogov9oct24.png"></a>
+---
+
+
+
+<h2>The select Element</h2>
+
+<p>The select element defines a drop-down list:</p>
+
+<form action="/action_page.php">
+  <label for="cars">Choose a car:</label>
+  <select name="cars" id="cars">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="fiat">Fiat</option>
+    <option value="audi">Audi</option>
+  </select>
+  <input type="submit">
+</form>
+
+
+
