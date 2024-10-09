@@ -38,7 +38,7 @@ description: ""
     <div class="content">
       <img style="width:100%" alt="Mountains" src="/images/smhclogov9oct24.png">
       <h3>2023</h3>
-      <p>Description</p>
+      <p><a href="www.smhc.sg">Learn more</a></p>
     </div>
   </div>
   <div class="column">
@@ -71,4 +71,4 @@ description: ""
 </div>
 </div>
 
-
+---
