@@ -36,8 +36,8 @@ description: ""
 <div class="row">
   <div class="column">
     <div class="content">
-      <img style="width:100%" alt="Mountains" src="/images/smhclogov9oct24.png">
-      <h4>Dr abceefg hijlkmnop</h4>
+      <a href="www.smhc.sg"><img style="width:100%" alt="Mountains" src="/images/smhclogov9oct24.png"></a>
+      <h3>Dr abcdefg hijlkmnop</h3>
       <p><a href="www.smhc.sg">Learn more</a></p>
     </div>
   </div>
