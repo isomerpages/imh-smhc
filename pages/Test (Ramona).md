@@ -73,3 +73,5 @@ description: ""
 </div>
 
 ---
+<a href="www.smhc.sg"><img style="width:200px;height:200px;" alt="HTML tutorial" src="/images/smhclogov9oct24.png"></a>
+<a href="www.smhc.sg"><img style="width:200px;height:200px;" alt="HTML tutorial" src="/images/smhclogov9oct24.png"></a>
