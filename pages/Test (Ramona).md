@@ -69,22 +69,17 @@ description: ""
   <h3>2024</h3>
   <p>Lorem ipsum..</p>
 </div>
-
-
 </div>
 
-FLIP Image
-<style>
-img:hover {
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
-}
-</style>
-
-<img alt="Paris" src="/images/smhclogov9oct24.png">
-	
-	
-<div class="main">
-
-<h1>SMHC 2025</h1>
-<hr></div>
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img style="width:300px;height:300px;" alt="Avatar" src="/images/smhclogov9oct24.png">
+    </div>
+    <div class="flip-card-back">
+      <h1>John Doe</h1>
+      <p>Architect &amp; Engineer</p>
+      <p>We love that guy</p>
+    </div>
+  </div>
+</div>
