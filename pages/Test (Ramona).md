@@ -62,9 +62,33 @@ description: ""
       <p>Lorem ipsum..</p>
     </div>
   </div>
-	
 </div>
-
+<div class="row">
+  <div class="column">
+    <div class="content">
+      <a href="www.smhc.sg"><img style="width:100%" alt="Mountains" src="/images/smhclogov9oct24.png"></a>
+      <h3>Dr abcdefg hijlkmnop</h3>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img style="width:100%" alt="Lights" src="/images/smhclogov9oct24.png">
+      <h3>2022</h3>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img style="width:100%" alt="Nature" src="/images/smhclogov9oct24.png">
+      <h3>2021</h3>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img style="width:100%" alt="Mountains" src="/images/smhclogov9oct24.png">
+      <h3>2020</h3>
+    </div>
+  </div>
+</div>
 <div class="content">
   <img style="width:100%" alt="Bear" src="/images/smhclogov9oct24.png">
   <h3>2024</h3>
