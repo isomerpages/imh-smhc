@@ -15,6 +15,10 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+      key_highlights:
+        - title: Register Your Interest
+          description: Click here
+          url: /register-interest/
   - infobar:
       title: About SMHC
       id: infobar
