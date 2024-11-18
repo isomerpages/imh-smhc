@@ -47,6 +47,8 @@ sections:
       description: Registration will open in January 2025!
       alt: Image alt text
       image: /images/R6M25948.jpg
+      button: Click here to reguster your interest
+      url: /register-interest/
   - infopic:
       title: Sponsorship
       id: infopic
