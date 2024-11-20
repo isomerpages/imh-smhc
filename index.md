@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/6I0A9273v2.jpg
-      url: /register-interest/
+      url: https://form.gov.sg/673a9235af16d982df47d348
       title: Singapore Mental Health Conference 2025
       button: 16 - 17 July 2025 | Singapore Expo
       variant: floating
@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: Register Your Interest
           description: Click here
-          url: /register-interest/
+          url: https://form.gov.sg/673a9235af16d982df47d348
   - infobar:
       title: About SMHC
       id: infobar
@@ -47,8 +47,8 @@ sections:
       description: Registration will open in January 2025!
       alt: Image alt text
       image: /images/R6M25948.jpg
-      button: Click here to reguster your interest
-      url: /register-interest/
+      button: register your interest
+      url: https://form.gov.sg/673a9235af16d982df47d348
   - infopic:
       title: Sponsorship
       id: infopic
