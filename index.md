@@ -22,7 +22,7 @@ sections:
       subtitle: Reimagining Mental Health. Empowering Lives.
   - infobar:
       title: Reimagining Mental Health. Empowering Lives.
-      subtitle: Theme
+      subtitle: SMHC 2025 Theme
       id: infobar
   - infobar:
       title: About SMHC
