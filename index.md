@@ -19,6 +19,7 @@ sections:
         - title: Register Your Interest
           description: Click here
           url: https://form.gov.sg/673a9235af16d982df47d348
+      subtitle: Reimagining Mental Health. Empowering Lives.
   - infobar:
       title: About SMHC
       id: infobar
