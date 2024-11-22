@@ -21,6 +21,10 @@ sections:
           url: https://form.gov.sg/673a9235af16d982df47d348
       subtitle: Reimagining Mental Health. Empowering Lives.
   - infobar:
+      title: Reimagining Mental Health. Empowering Lives.
+      subtitle: Theme
+      id: infobar
+  - infobar:
       title: About SMHC
       id: infobar
       description: The Singapore Mental Health Conference (SMHC) is Singapore's
