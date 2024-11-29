@@ -45,7 +45,7 @@ sections:
       description: SMHC invites abstract submission on mental health.
       alt: Image alt text
       image: /images/6I0A9316.jpg
-      button: cick here to submit
+      button: click here to submit
       url: https://form.gov.sg/67490f3d961741ba92f8436d
   - infopic:
       title: Registration
