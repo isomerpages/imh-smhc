@@ -34,11 +34,24 @@ sections:
   - infopic:
       title: Programme
       id: infopic
-      description: We are in the process of developing a compelling programme centered
-        around Children & Youth, Community & Workplace, Elderly and Digital
-        Mental Health.
+      description: We are in the process of developing a compelling programme.
       image: /images/R6M29260.jpg
       alt: Image alt text
+  - infopic:
+      title: Tracks
+      id: infopic
+      image: /images/tracks2.png
+      alt: Image alt text
+  - infocols:
+      title: Tracks
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Reimagining Mental Health
+          description: 1) Digital Mental Health and Artificial Intelligence  2) Emerging
+            Trends and Insights
+        - title: Empowering Lives
+          description: 3) Inclusive Workplace and Community 4) Voices from the Community
   - infopic:
       title: Abstracts
       id: infopic
