@@ -19,6 +19,9 @@ sections:
         - title: Register Your Interest
           description: Click here
           url: https://form.gov.sg/673a9235af16d982df47d348
+        - title: Call for Abstracts
+          description: Submit here
+          url: https://form.gov.sg/67490f3d961741ba92f8436d
       subtitle: Reimagining Mental Health. Empowering Lives.
   - infobar:
       title: Reimagining Mental Health. Empowering Lives.
