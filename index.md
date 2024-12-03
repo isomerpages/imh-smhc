@@ -42,16 +42,6 @@ sections:
       id: infopic
       image: /images/tracks4.png
       alt: Image alt text
-  - infocols:
-      title: Tracks
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Reimagining Mental Health
-          description: 1) Digital Mental Health and Artificial Intelligence  2) Emerging
-            Trends and Insights
-        - title: Empowering Lives
-          description: 3) Inclusive Workplace and Community 4) Voices from the Community
   - infopic:
       title: Abstracts
       id: infopic
