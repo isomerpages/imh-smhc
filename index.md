@@ -19,6 +19,14 @@ sections:
         - title: Register Your Interest
           description: Click here
           url: https://form.gov.sg/673a9235af16d982df47d348
+        - title: Call for Abstracts
+          description: Submit here
+          url: https://form.gov.sg/67490f3d961741ba92f8436d
+      subtitle: Reimagining Mental Health. Empowering Lives.
+  - infobar:
+      title: Reimagining Mental Health. Empowering Lives.
+      subtitle: SMHC 2025 Theme
+      id: infobar
   - infobar:
       title: About SMHC
       id: infobar
@@ -29,18 +37,22 @@ sections:
   - infopic:
       title: Programme
       id: infopic
-      description: We are in the process of developing a compelling programme centered
-        around Children & Youth, Community & Workplace, Elderly and Digital
-        Mental Health.
+      description: We are in the process of developing a compelling programme.
       image: /images/R6M29260.jpg
+      alt: Image alt text
+  - infopic:
+      title: Tracks
+      id: infopic
+      image: /images/tracks4.png
       alt: Image alt text
   - infopic:
       title: Abstracts
       id: infopic
-      description: SMHC invites abstract submission on mental health. More information
-        will be released soon.
+      description: SMHC invites abstract submission on mental health.
       alt: Image alt text
       image: /images/6I0A9316.jpg
+      button: click here to submit
+      url: https://form.gov.sg/67490f3d961741ba92f8436d
   - infopic:
       title: Registration
       id: infopic
