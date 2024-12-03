@@ -32,15 +32,15 @@ sections:
       button: Learn more
       url: /about-smhc/
   - infopic:
-      title: Tracks
-      id: infopic
-      image: /images/tracks4.png
-      alt: Image alt text
-  - infopic:
       title: Programme
       id: infopic
       description: We are in the process of developing a compelling programme.
       image: /images/R6M29260.jpg
+      alt: Image alt text
+  - infopic:
+      title: Tracks
+      id: infopic
+      image: /images/tracks4.png
       alt: Image alt text
   - infocols:
       title: Tracks
