@@ -73,4 +73,8 @@ sections:
       description: SMHC 2013 - 2023
       alt: Image alt text
       image: /images/past_highlights.png
+  - infopic:
+      id: infopic
+      image: /images/smhc2024_oc_logo.png
+      alt: Image alt text
 ---
