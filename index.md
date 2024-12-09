@@ -64,7 +64,7 @@ sections:
   - infopic:
       title: Sponsorship
       id: infopic
-      description: For  more sponsorship details, contact us at smhc@imh.com.sg
+      description: "If you sponsor for SMHC, you may be entitled to:"
       alt: Image alt text
       image: /images/6I0A9587.jpg
   - infopic:
