@@ -43,7 +43,7 @@ sections:
   - infopic:
       title: Tracks
       id: infopic
-      image: /images/tracks4.png
+      image: /images/tracksv9dec.png
       alt: Image alt text
   - infopic:
       title: Abstracts
