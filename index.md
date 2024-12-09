@@ -72,7 +72,7 @@ sections:
       subtitle: Past Feedback
       id: infopic
       alt: Image alt text
-      image: /images/Whiteboard__1_.png
+      image: /images/SMHC23_feedback2.png
   - infopic:
       title: Past Conferences
       id: infopic
