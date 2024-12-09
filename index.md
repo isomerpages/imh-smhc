@@ -68,6 +68,11 @@ sections:
       alt: Image alt text
       image: /images/6I0A9587.jpg
   - infopic:
+      title: SMHC 2023
+      subtitle: Past Feedback
+      id: infopic
+      alt: Image alt text
+  - infopic:
       title: Past Conferences
       id: infopic
       description: SMHC 2013 - 2023
