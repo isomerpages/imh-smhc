@@ -43,7 +43,7 @@ sections:
   - infopic:
       title: Tracks
       id: infopic
-      image: /images/tracksv9dec.png
+      image: /images/tracksv9dec2.png
       alt: Image alt text
   - infopic:
       title: Abstracts
@@ -66,7 +66,7 @@ sections:
       id: infopic
       description: "If you sponsor for SMHC, you may be entitled to:"
       alt: Image alt text
-      image: /images/sponsorship_packages.png
+      image: /images/sponsorship_packages2.png
   - infopic:
       title: SMHC 2023
       subtitle: Past Feedback
