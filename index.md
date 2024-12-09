@@ -64,11 +64,9 @@ sections:
   - infopic:
       title: Sponsorship
       id: infopic
-      description: Sponsorship packages include Platinum, Gold, Silver, Exhibitor,
-        Lunch Symposium and In-Kind Contributions. For more details, contact us
-        at smhc@imh.com.sg.
+      description: "If you sponsor for SMHC, you may be entitled to:"
       alt: Image alt text
-      image: /images/6I0A9587.jpg
+      image: /images/Whiteboard.png
   - infopic:
       title: SMHC 2023
       subtitle: Past Feedback
