@@ -72,6 +72,7 @@ sections:
       subtitle: Past Feedback
       id: infopic
       alt: Image alt text
+      image: /images/Whiteboard__1_.png
   - infopic:
       title: Past Conferences
       id: infopic
