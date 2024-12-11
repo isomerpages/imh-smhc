@@ -64,9 +64,10 @@ sections:
   - infopic:
       title: Sponsorship
       id: infopic
-      description: "If you sponsor for SMHC, you may be entitled to:"
       alt: Image alt text
       image: /images/sponsorship_packages_VDec11.png
+      url: smhc@imh.com.sg
+      button: Click here to learn more
   - infopic:
       title: SMHC 2023
       subtitle: Past Feedback
