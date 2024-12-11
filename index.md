@@ -43,7 +43,7 @@ sections:
   - infopic:
       title: Tracks
       id: infopic
-      image: /images/tracks4.png
+      image: /images/tracksv9dec2.png
       alt: Image alt text
   - infopic:
       title: Abstracts
@@ -64,9 +64,15 @@ sections:
   - infopic:
       title: Sponsorship
       id: infopic
-      description: For  more sponsorship details, contact us at smhc@imh.com.sg
       alt: Image alt text
-      image: /images/6I0A9587.jpg
+      image: /images/sponsorship_packages_VDec11.png
+      description: For more sponsorship details, contact us at smhc@imh.com.sg
+  - infopic:
+      title: SMHC 2023
+      subtitle: Past Feedback
+      id: infopic
+      alt: Image alt text
+      image: /images/SMHC23_feedback2.png
   - infopic:
       title: Past Conferences
       id: infopic
