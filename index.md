@@ -66,8 +66,7 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/sponsorship_packages_VDec11.png
-      url: smhc@imh.com.sg
-      button: Click here to learn more
+      description: For more sponsorship details, contact us at smhc@imh.com.sg
   - infopic:
       title: SMHC 2023
       subtitle: Past Feedback
