@@ -66,7 +66,7 @@ sections:
       id: infopic
       description: "If you sponsor for SMHC, you may be entitled to:"
       alt: Image alt text
-      image: /images/sponsorship_packages2.png
+      image: /images/sponsorship_packages_VDec11.png
   - infopic:
       title: SMHC 2023
       subtitle: Past Feedback
