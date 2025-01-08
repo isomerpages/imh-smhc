@@ -8,6 +8,6 @@ contacts:
       - phone: ""
       - email: smhc@imh.com.sg
       - other: ""
-    title: ""
+    title: Secretariat
 feedback: ""
 ---
