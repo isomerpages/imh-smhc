@@ -56,7 +56,7 @@ sections:
   - infopic:
       title: Registration
       id: infopic
-      description: Registration will open in January 2025!
+      description: Registration will open in February 2025!
       alt: Image alt text
       image: /images/R6M25948.jpg
       button: register your interest
