@@ -81,6 +81,6 @@ sections:
       image: /images/past_highlights.png
   - infopic:
       id: infopic
-      image: /images/smhc2024_oc_logo.png
+      image: /images/logo_20Feb.png
       alt: Image alt text
 ---
