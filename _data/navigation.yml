@@ -13,3 +13,8 @@ links:
     url: https://form.gov.sg/67490f3d961741ba92f8436d
   - title: Registration
     url: /registration/
+    sublinks:
+      - title: Registration
+        url: /registration/
+      - title: Terms and Conditions
+        url: /registration-tc/
