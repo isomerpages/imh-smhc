@@ -4,9 +4,10 @@ permalink: /registration-test/
 variant: markdown
 description: ""
 ---
+
 #  <p style="color: #000000"><b>Registration is open!</b></p>
 
-**Registration is open!**
+
 -------------------------
 
 ![](/images/SMHC_2025_v1.png)
