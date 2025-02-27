@@ -4,16 +4,15 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-#  <p style="color: #000000"><b>Registration is open!</b></p>
-
-
--------------------------
-
-![](/images/SMHC_2025_v1.png)
-
-**\*Price is per pax.**  
-**\*All prices are quoted in Singapore Dollars (SGD). A 9% Goods and Services Tax (GST) will apply.**
-
-**Eligible social service agencies may refer to the following Professional Capability Grant (PCG) [here](https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant) for more information on the eligibility criteria and application process of the PCG training grant. For more information on the PCG training grant, please email [PCG\_Enquiries@ncss.gov.sg.](https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant)**
-
-**For queries on registration, please email to [smhc@imh.com.sg.](mailto:smhc@imh.com.sg)**
+<h1><strong>Registration is open!</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC_2025_v1.png">
+</div>
+<p><strong>*Price is per pax.</strong>
+<br><strong>*All prices are quoted in Singapore Dollars (SGD). A 9% Goods and Services Tax (GST) will apply.</strong>
+</p>
+<p><strong>Eligible social service agencies may refer to the following Professional Capability Grant (PCG) <a href="https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information on the eligibility criteria and application process of the PCG training grant. For more information on the PCG training grant, please email <a href="https://www.ncss.gov.sg/social-service-agencies/funding-schemes-and-common-services/funding/professional-capability-grant" rel="noopener noreferrer nofollow" target="_blank">PCG_Enquiries@ncss.gov.sg.</a></strong>
+</p>
+<p><strong>For queries on registration, please email to <a href="mailto:smhc@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg.</a></strong>
+</p>
