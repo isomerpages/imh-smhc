@@ -2,4 +2,5 @@ collections:
   registration:
     output: true
     order:
+      - Registration.md
       - Terms and Conditions.md
