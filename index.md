@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/6I0A9273v2.jpg
-      url: https://app.swapcard.com/login/event/smhc-2025/registration
+      url: /registration/
       title: Singapore Mental Health Conference 2025
       button: Register now
       variant: floating
@@ -59,7 +59,7 @@ sections:
       alt: Image alt text
       image: /images/R6M25948.jpg
       button: Register Now
-      url: https://app.swapcard.com/login/event/smhc-2025/registration
+      url: /registration/
   - infopic:
       title: Sponsorship
       id: infopic
