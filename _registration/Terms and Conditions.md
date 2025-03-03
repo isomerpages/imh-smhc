@@ -214,50 +214,61 @@ in accordance with this Privacy Policy.</p>
 <p>1.&nbsp;Purpose for Collection and Use of Business Contact Information</p>
 <p>(i)&nbsp;A variety of information may be collected, including your first
 name, surname, Profession, Designation, Department, MCR/SNB/PRN number,
-Organisation, Institution, <s>Institution Address</s>, Business Email Address,
-and Payment Card Information (for payment).</p>
-<p>(ii)&nbsp;&nbsp; For students who are representing your schools, your
-school email address is considered business contact information. Should
-you wish to provide your personal email address and contact number, please
-note that your personal information that is provided for the sole purpose
-of the event and not solely for your personal purposes, shall be treated
-as business contact information.</p>
-<p>(iii)&nbsp; The Organiser will use the business contact information collected
+Organisation, Institution, Business Email Address, and Payment Card Information
+(for payment).</p>
+<p>(ii) For students who are representing your schools, your school email
+address is considered business contact information. Should you wish to
+provide your personal email address and contact number, please note that
+your personal information that is provided for the sole purpose of the
+event and not solely for your personal purposes, shall be treated as business
+contact information.</p>
+<p>(iii) The Organiser will use the business contact information collected
 during registration for the following business purposes (collectively,
 the “Purposes”):</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; processing the Delegates’ registration
-for the Conference and facilitating the Delegates’ participation in the
-Conference</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; necessary business communication</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; providing marketing services such
-as informing you of future events, conferences, seminars or workshops organised
-by IMH and NHG</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; providing reminders and obtaining
-feedback on the Conference</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; accounting and record keeping</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; seeking funding, grants and/or sponsorships
-for the Conference</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any related or ancillary purposes
-deemed necessary by the Conference Secretariat.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Disclosure of Business Contact Information</p>
-<p>(i)&nbsp;&nbsp;&nbsp; The Organiser may disclose the Delegates’ information
-to its appointed third party service providers and/or any other third parties
-including but not limited to any Government agency or regulatory authority
-for the Purposes.</p>
-<p>(ii)&nbsp;&nbsp; Notwithstanding the generality of Clause 2(i) above,
-you are informed that “Stripe” is authorised to collect all payment on
-behalf of the Organiser. You acknowledge and agree that certain information,
-including name, contact details, payment card information, will be disclosed
-to “Stripe” to process payment. All payment is processed via secured servers.</p>
-<p>(iii)&nbsp; Any disclosure of your information by the Organiser to any
-third party will be used specifically for the purpose for which it had
-been disclosed. The Organiser will not share your information with any
-party that is not involved in SMHC 2025.</p>
-<p>(iv)&nbsp; The Organiser does not retain or control or share any information
+<ul data-tight="true" class="tight">
+<li>
+<p>processing the Delegates’ registration for the Conference and facilitating
+the Delegates’ participation in the Conference</p>
+</li>
+<li>
+<p>necessary business communication</p>
+</li>
+<li>
+<p>providing marketing services such as informing you of future events, conferences,
+seminars or workshops organised by IMH and NHG</p>
+</li>
+<li>
+<p>providing reminders and obtaining feedback on the Conference</p>
+</li>
+<li>
+<p>accounting and record keeping</p>
+</li>
+<li>
+<p>seeking funding, grants and/or sponsorships for the Conference</p>
+</li>
+<li>
+<p>any related or ancillary purposes deemed necessary by the Conference Secretariat.</p>
+</li>
+</ul>
+<p>2.&nbsp;Disclosure of Business Contact Information</p>
+<p>(i) The Organiser may disclose the Delegates’ information to its appointed
+third party service providers and/or any other third parties including
+but not limited to any Government agency or regulatory authority for the
+Purposes.</p>
+<p>(ii) Notwithstanding the generality of Clause 2(i) above, you are informed
+that “Stripe” is authorised to collect all payment on behalf of the Organiser.
+You acknowledge and agree that certain information, including name, contact
+details, payment card information, will be disclosed to “Stripe” to process
+payment. All payment is processed via secured servers.</p>
+<p>(iii) Any disclosure of your information by the Organiser to any third
+party will be used specifically for the purpose for which it had been disclosed.
+The Organiser will not share your information with any party that is not
+involved in SMHC 2025.</p>
+<p>(iv) The Organiser does not retain or control or share any information
 entered by you into the payment gateway to complete the payment.</p>
-<p>(v)&nbsp;&nbsp; The Organiser will not be held responsible for any information
-and/or data that is collected by a third party directly from you.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Information Security</p>
+<p>(v) The Organiser will not be held responsible for any information and/or
+data that is collected by a third party directly from you.</p>
+<p>3.&nbsp;Information Security</p>
 <p>(i)&nbsp;&nbsp;&nbsp; The Organiser shall protect and take all reasonable
 precautions and adequate measures to safeguard your information against
 such risks as loss, theft, unauthorised access, unauthorised disclosure,
