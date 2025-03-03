@@ -18,7 +18,7 @@ sections:
       key_highlights:
         - title: Registration
           description: Click here
-          url: https://form.gov.sg/673a9235af16d982df47d348
+          url: https://app.swapcard.com/login/event/smhc-2025/registration
         - title: Call for Abstracts
           description: Submit here
           url: https://form.gov.sg/67490f3d961741ba92f8436d
