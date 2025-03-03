@@ -601,7 +601,6 @@ shall in no way affect the continual performance of the Parties’ obligations
 under these Terms.</p>
 <p>&nbsp;<u>V. GOVERNING LAW</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; This Terms and Conditions shall be deemed to
-be made in Singapore, subject to, governed by and construed in all respects
-in accordance with the laws of the Republic of Singapore for every intent
-and purpose.</p>
+<p>1.&nbsp;This Terms and Conditions shall be deemed to be made in Singapore,
+subject to, governed by and construed in all respects in accordance with
+the laws of the Republic of Singapore for every intent and purpose.</p>
