@@ -54,8 +54,8 @@ for Conference days:</p>
 </ul>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Registration fee does not include:</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Travel arrangements</p>
-<p>&nbsp; II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accommodation</p>
+Travel arrangement</p>
+<p>II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accommodation</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Visa Fees</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; You must pay the registration fees prior to
