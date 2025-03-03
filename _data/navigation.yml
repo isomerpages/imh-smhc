@@ -7,10 +7,6 @@ links:
         url: /about-smhc/
       - title: Past SMHC
         url: /past-smhc/
-  - title: Register your Interest
-    url: https://form.gov.sg/673a9235af16d982df47d348
-  - title: Call for Abstracts
-    url: https://form.gov.sg/67490f3d961741ba92f8436d
   - title: Registration
     url: /registration/
     sublinks:
@@ -18,3 +14,5 @@ links:
         url: /registration/
       - title: Terms and Conditions
         url: /registration-tc/
+  - title: Call for Abstracts
+    url: https://form.gov.sg/67490f3d961741ba92f8436d
