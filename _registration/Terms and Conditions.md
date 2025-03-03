@@ -78,31 +78,24 @@ the right to reject the Delegate’s registration for the Conference.</p>
 SMHC Conference App login details to anyone. SMHC registrations must be
 used by the registered Delegate only. No exception will be made to this
 policy.</p>
-<p>&nbsp;</p>
-<p><u>C. CANCELLATION AND REFUND POLICY</u>
+<p>&nbsp;<u>C. CANCELLATION AND REFUND POLICY</u>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Cancellations and ‘No-Show’ are not eligible
 for a refund.</p>
-<p>&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; For group and company-sponsored registrations,
 the delegate remains liable for the full registration fee in the event
 of cancellation and ‘No-Show’.</p>
-<p>&nbsp;</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Delegates who are unable to attend the event
 may send an alternate from the same institution for a one-for-one substitution
 of the same registration category and fees.</p>
-<p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; All substitution requests must be emailed to
 the event Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">Smhc@imh.com.sg</a>,
 together with the full name and contact details of the replacement delegate.</p>
-<p>&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; Upon receipt of the delegate’s notice of substitution,
 the event Secretariat will proceed to delete all registration details submitted
 by the substituted delegate within the next 10 working days.</p>
-<p>&nbsp;</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp; SMHC 2024 registrations are non-transferable
 and must be used by the registered delegate only.</p>
-<p>&nbsp;</p>
 <p><u>D. SUBSTITUTION POLICY</u>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; If you have registered for the Conference but
@@ -119,8 +112,7 @@ a fee of Singapore Dollars Forty (S$40.00) will be chargeable.</p>
 contact details must be emailed to the SMHC Secretariat by <strong>30 June 2025, Monday, 2359hrs</strong>.
 Request for transfers of registration will not be entertained after 30
 June 2025.</p>
-<p>&nbsp;</p>
-<p><u>E. PROHIBITED CONDUCT</u>
+<p>&nbsp;<u>E. PROHIBITED CONDUCT</u>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; All Delegates are expected to conduct themselves
 professionally when attending the Conference.</p>
@@ -136,8 +128,6 @@ that is protected by copyright without permission of the copyright owner.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp; If you are the subject of unacceptable behaviour
 or have witnessed any such behaviour, please inform the Conference Secretariat
 immediately at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><u>F. ADMITTANCE AND REMOVAL</u>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; The Organiser reserves the right to refuse
@@ -147,8 +137,7 @@ in a manner that could cause disruption to the Conference or other Delegates.</p
 remove Delegates from the Conference due to unacceptable behaviour. No
 refunds will be made, and the Delegate will be liable for the full registration
 fee.</p>
-<p>&nbsp;</p>
-<p><u>G. ABSTRACT SUBMISSION</u>
+<p>&nbsp;<u>G. ABSTRACT SUBMISSION</u>
 </p>
 <ol data-tight="true" class="tight">
 <li>
