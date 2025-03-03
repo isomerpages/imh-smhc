@@ -15,33 +15,32 @@ respective abstracts and/or participate in the Conference. By registering
 for the Conference and/or submitting your abstracts, you acknowledge that
 you have read and understood these Terms and agree to be bound by them.</p>
 <p>&nbsp;In these Terms:</p>
-<p>(a)&nbsp;&nbsp;the words “we”, “our” and “us” refer to the Organiser;</p>
-<p>(b)&nbsp;&nbsp;the words “you” and “your” refer to the delegate or participant
+<p>(a)&nbsp;the words “we”, “our” and “us” refer to the Organiser;</p>
+<p>(b)&nbsp;the words “you” and “your” refer to the delegate or participant
 taking part in the Conference or author of the abstract(s) submitted for
 the Conference, who has accepted these Terms (each a “Delegate”);</p>
-<p>(c)&nbsp;&nbsp;where the Delegate is a representative of an organisation,
-the words “you” and “your” shall be read and construed to include a reference
+<p>(c)&nbsp;where the Delegate is a representative of an organisation, the
+words “you” and “your” shall be read and construed to include a reference
 to the organisation;</p>
-<p>(d)&nbsp;&nbsp;the Organiser and the Delegate may each be referred to
-in these Terms as a “Party”, and collectively the “Parties”.</p>
+<p>(d)&nbsp;the Organiser and the Delegate may each be referred to in these
+Terms as a “Party”, and collectively the “Parties”.</p>
 <p>&nbsp;<u>A. GENERAL INFORMATION</u>
 </p>
 <p>1.&nbsp;All prices quoted and payments are in Singapore Dollars (SGD)
 and are subject to 9% Goods and Services Tax (GST).</p>
-<p>2.&nbsp;&nbsp;Offline registration is available for bulk registration
-and registration for group of at least 3 participants, from the same billing
-organisation.</p>
-<p>3.&nbsp;&nbsp;No onsite registration will be available on the event date(s).</p>
-<p>4.&nbsp;&nbsp;Registration deadline is <strong>30 June 2025, Monday, 2359hrs</strong>.</p>
-<p>5.&nbsp;&nbsp;The merchant’s name reflected on Delegate’s credit card
-statement will be: “Stripe”.</p>
+<p>2.&nbsp;Offline registration is available for bulk registration and registration
+for group of at least 3 participants, from the same billing organisation.</p>
+<p>3.&nbsp;No onsite registration will be available on the event date(s).</p>
+<p>4.&nbsp;Registration deadline is <strong>30 June 2025, Monday, 2359hrs</strong>.</p>
+<p>5.&nbsp;The merchant’s name reflected on Delegate’s credit card statement
+will be: “Stripe”.</p>
 <p>&nbsp;<u>B. REGISTRATION INFORMATION</u>
 </p>
-<p>1.&nbsp;&nbsp;Upon successful payment and registration, you will be given
-access to the physical event. All other costs associated with your attendance
+<p>1.&nbsp;Upon successful payment and registration, you will be given access
+to the physical event. All other costs associated with your attendance
 shall be borne solely by you, and the Organiser shall have no liability
 for such costs.</p>
-<p>2.&nbsp; Entitlement of registration fee include:</p>
+<p>2.&nbsp;Entitlement of registration fee include:</p>
 <p>I. Physical Pass, access to all tracks at Conference venue (onsite) and
 for Conference days:</p>
 <ul data-tight="true" class="tight">
@@ -52,85 +51,83 @@ for Conference days:</p>
 <p>Day 2, 17 July 2025, Thursday</p>
 </li>
 </ul>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Registration fee does not include:</p>
-<p>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Travel arrangement</p>
+<p>3.&nbsp;Registration fee does not include:</p>
+<p>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Travel arrangement</p>
 <p>II.&nbsp;&nbsp;&nbsp;&nbsp;Accommodation</p>
 <p>III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visa Fees</p>
-<p>4.&nbsp;&nbsp;You must pay the registration fees prior to your arrival
-at the event venue. You are also advised to have a copy of your payment
-slip in the event you are requested to show proof of the payment at the
-registration counters.</p>
-<p>5.&nbsp;&nbsp;Travel arrangement and accommodation are not included. Only
-payment via Credit Card and Paynow are accepted.</p>
-<p>6.&nbsp;&nbsp;Payment of the registration fees must be received by the
-Conference Organiser by <strong>07 July 2025, Monday, 2359hrs</strong>.</p>
-<p>7.&nbsp;&nbsp;“Student Matriculation Card” or proof of qualifying full-time
+<p>4.&nbsp;You must pay the registration fees prior to your arrival at the
+event venue. You are also advised to have a copy of your payment slip in
+the event you are requested to show proof of the payment at the registration
+counters.</p>
+<p>5.&nbsp;Travel arrangement and accommodation are not included. Only payment
+via Credit Card and Paynow are accepted.</p>
+<p>6.&nbsp;Payment of the registration fees must be received by the Conference
+Organiser by <strong>07 July 2025, Monday, 2359hrs</strong>.</p>
+<p>7.&nbsp;“Student Matriculation Card” or proof of qualifying full-time
 tertiary student status must be submitted online during registration. Only
 if a technical error had occurred during the registration process would
 a copy of the Student Matriculation Card be required to be emailed to the
 Conference Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.</p>
-<p>8.&nbsp;&nbsp;The Organiser has the absolute discretion to determine the
-eligibility of a Delegate to register for the Conference. In the event
-of any misconduct, abuse or submission of any inaccurate or falsified particulars
-on the part of a Delegate, the Organiser reserves the right to reject the
-Delegate’s registration for the Conference.</p>
-<p>9.&nbsp;&nbsp;You agree not to share, give, or provide the SMHC Conference
-App login details to anyone. SMHC registrations must be used by the registered
+<p>8.&nbsp;The Organiser has the absolute discretion to determine the eligibility
+of a Delegate to register for the Conference. In the event of any misconduct,
+abuse or submission of any inaccurate or falsified particulars on the part
+of a Delegate, the Organiser reserves the right to reject the Delegate’s
+registration for the Conference.</p>
+<p>9.&nbsp;You agree not to share, give, or provide the SMHC Conference App
+login details to anyone. SMHC registrations must be used by the registered
 Delegate only. No exception will be made to this policy.</p>
 <p>&nbsp;<u>C. CANCELLATION AND REFUND POLICY</u>
 </p>
-<p>1.&nbsp;&nbsp;Cancellations and ‘No-Show’ are not eligible for a refund.</p>
-<p>2.&nbsp;&nbsp;For group and company-sponsored registrations, the delegate
-remains liable for the full registration fee in the event of cancellation
-and ‘No-Show’.</p>
-<p>3.&nbsp;&nbsp;Delegates who are unable to attend the event may send an
-alternate from the same institution for a one-for-one substitution of the
-same registration category and fees.</p>
-<p>4.&nbsp;&nbsp;All substitution requests must be emailed to the event Secretariat
+<p>1.&nbsp;Cancellations and ‘No-Show’ are not eligible for a refund.</p>
+<p>2.&nbsp;For group and company-sponsored registrations, the delegate remains
+liable for the full registration fee in the event of cancellation and ‘No-Show’.</p>
+<p>3.&nbsp;Delegates who are unable to attend the event may send an alternate
+from the same institution for a one-for-one substitution of the same registration
+category and fees.</p>
+<p>4.&nbsp;All substitution requests must be emailed to the event Secretariat
 at <a rel="noopener noreferrer nofollow" target="_blank">Smhc@imh.com.sg</a>,
 together with the full name and contact details of the replacement delegate.</p>
-<p>5.&nbsp;&nbsp;Upon receipt of the delegate’s notice of substitution, the
-event Secretariat will proceed to delete all registration details submitted
-by the substituted delegate within the next 10 working days.</p>
-<p>6.&nbsp;&nbsp;SMHC 2024 registrations are non-transferable and must be
-used by the registered delegate only.</p>
+<p>5.&nbsp;Upon receipt of the delegate’s notice of substitution, the event
+Secretariat will proceed to delete all registration details submitted by
+the substituted delegate within the next 10 working days.</p>
+<p>6.&nbsp;SMHC 2024 registrations are non-transferable and must be used
+by the registered delegate only.</p>
 <p><u>D. SUBSTITUTION POLICY</u>
 </p>
-<p>1.&nbsp;&nbsp;If you have registered for the Conference but are unable
-to attend, you may send a replacement participant from your department,
-of the same registration category and fees at no extra cost, if the request
-for substitution is received before 30 June 2025 and in the same pricing
-category.</p>
-<p>2.&nbsp;&nbsp;Clause D1 above applies only to the first request for substitution.</p>
-<p>3.&nbsp;&nbsp;For any subsequent requests for substitution or any other
-changes other than as set out in Clauses D1 and D2 above, a fee of Singapore
-Dollars Forty (S$40.00) will be chargeable.</p>
-<p>4.&nbsp;&nbsp;All substitution requests with full name and contact details
-must be emailed to the SMHC Secretariat by <strong>30 June 2025, Monday, 2359hrs</strong>.
+<p>1.&nbsp;If you have registered for the Conference but are unable to attend,
+you may send a replacement participant from your department, of the same
+registration category and fees at no extra cost, if the request for substitution
+is received before 30 June 2025 and in the same pricing category.</p>
+<p>2.&nbsp;Clause D1 above applies only to the first request for substitution.</p>
+<p>3.&nbsp;For any subsequent requests for substitution or any other changes
+other than as set out in Clauses D1 and D2 above, a fee of Singapore Dollars
+Forty (S$40.00) will be chargeable.</p>
+<p>4.&nbsp;All substitution requests with full name and contact details must
+be emailed to the SMHC Secretariat by <strong>30 June 2025, Monday, 2359hrs</strong>.
 Request for transfers of registration will not be entertained after 30
 June 2025.</p>
 <p>&nbsp;<u>E. PROHIBITED CONDUCT</u>
 </p>
-<p>1.&nbsp;&nbsp;All Delegates are expected to conduct themselves professionally
+<p>1.&nbsp;All Delegates are expected to conduct themselves professionally
 when attending the Conference.</p>
-<p>2.&nbsp;&nbsp;Use of obscene language, abusive behaviour, threatening
-behaviour directed to any other Delegates or staff is not conducive to
-a learning environment and will not be tolerated.</p>
-<p>3.&nbsp;&nbsp;Delegates shall not post any defamatory, abusive, profane,
-threatening, discriminatory, or illegal materials or comments.</p>
-<p>4.&nbsp;&nbsp;Delegates are not permitted to record or broadcast any audio
-or video sessions of SMHC 2025.</p>
-<p>5.&nbsp;&nbsp;Delegates shall not post or publish any material that is
-protected by copyright without permission of the copyright owner.</p>
-<p>6.&nbsp;&nbsp;If you are the subject of unacceptable behaviour or have
-witnessed any such behaviour, please inform the Conference Secretariat
-immediately at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.</p>
+<p>2.&nbsp;Use of obscene language, abusive behaviour, threatening behaviour
+directed to any other Delegates or staff is not conducive to a learning
+environment and will not be tolerated.</p>
+<p>3.&nbsp;Delegates shall not post any defamatory, abusive, profane, threatening,
+discriminatory, or illegal materials or comments.</p>
+<p>4.&nbsp;Delegates are not permitted to record or broadcast any audio or
+video sessions of SMHC 2025.</p>
+<p>5.&nbsp;Delegates shall not post or publish any material that is protected
+by copyright without permission of the copyright owner.</p>
+<p>6.&nbsp;If you are the subject of unacceptable behaviour or have witnessed
+any such behaviour, please inform the Conference Secretariat immediately
+at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.</p>
 <p><u>F. ADMITTANCE AND REMOVAL</u>
 </p>
-<p>1.&nbsp;&nbsp;The Organiser reserves the right to refuse admittance or
-remove any Delegate from the Conference if the Delegate behaves in a manner
-that could cause disruption to the Conference or other Delegates.</p>
-<p>2.&nbsp;&nbsp;The Organiser reserves the right to immediately remove Delegates
+<p>1.&nbsp;The Organiser reserves the right to refuse admittance or remove
+any Delegate from the Conference if the Delegate behaves in a manner that
+could cause disruption to the Conference or other Delegates.</p>
+<p>2.&nbsp;The Organiser reserves the right to immediately remove Delegates
 from the Conference due to unacceptable behaviour. No refunds will be made,
 and the Delegate will be liable for the full registration fee.</p>
 <p>&nbsp;<u>G. ABSTRACT SUBMISSION</u>
