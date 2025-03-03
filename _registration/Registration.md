@@ -14,7 +14,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Price_Registration_table_v3.png">
 </div>
 <p><strong>*Price is per pax.</strong>
-<br><strong>*All prices are quoted in Singapore Dollars (SGD). A 9% Goods and Services Tax (GST) will apply. </strong>
+<br><strong>*All prices are quoted in Singapore Dollars (SGD). A 9% Goods and Services Tax (GST) will apply.</strong>
 </p>
 <p><strong>**For Group Registration (3 or more pax from the same billing organisation, please click <a href="SMHC2025@themicestudio.com.sg" rel="noopener nofollow" target="_blank">here</a>.</strong>
 </p>
