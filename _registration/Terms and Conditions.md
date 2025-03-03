@@ -53,11 +53,9 @@ for Conference days:</p>
 </li>
 </ul>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Registration fee does not include:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Travel arrangement</p>
-<p>II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accommodation</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Visa Fees</p>
+<p>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Travel arrangement</p>
+<p>II.&nbsp;&nbsp;&nbsp;&nbsp;Accommodation</p>
+<p>III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visa Fees</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; You must pay the registration fees prior to
 your arrival at the event venue. You are also advised to have a copy of
 your payment slip in the event you are requested to show proof of the payment
