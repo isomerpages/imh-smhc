@@ -510,41 +510,38 @@ or in any way limit or affect any statutory rights or powers from time
 to time vested in or exercisable by the Organiser.</p>
 <p>&nbsp;<u>Q. ASSIGNMENT</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Subject to the other provisions in these Terms,
-all the provisions of these Terms shall be binding upon and inure to the
-benefit of the Parties and their respective permitted assigns and successors-in-title
-except that:</p>
+<p>1.&nbsp;Subject to the other provisions in these Terms, all the provisions
+of these Terms shall be binding upon and inure to the benefit of the Parties
+and their respective permitted assigns and successors-in-title except that:</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Neither Party shall
-transfer or assign all or any of its rights, obligations or benefits hereunder
-in whole or in part to any third party, without the prior written consent
-of the other Party, which consent shall not be unreasonably withheld;</p>
+I.&nbsp;Neither Party shall transfer or assign all or any of its rights,
+obligations or benefits hereunder in whole or in part to any third party,
+without the prior written consent of the other Party, which consent shall
+not be unreasonably withheld;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Any permitted assignee
-or transferee shall agree in writing to comply with all the provisions
-of these Terms; and</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Any assignment shall not exceed the existing scope of these Terms.</p>
-<p>&nbsp;</p>
-<p><u>R. SEVERABILITY</u>
+II.&nbsp;Any permitted assignee or transferee shall agree in writing to
+comply with all the provisions of these Terms; and</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; III.&nbsp;Any
+assignment shall not exceed the existing scope of these Terms.</p>
+<p>&nbsp;<u>R. SEVERABILITY</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; In the event that any term, condition or provision
-contained in these Terms or the application of any such term, condition
-or provision shall be held by a court of competent jurisdiction to be wholly
-or partly illegal, invalid, unenforceable or a violation of any applicable
-law, statute or regulation of any jurisdiction, the same shall be deemed
-to be deleted from these Terms and shall be of no force and effect; whereas
-the remaining terms, conditions or provisions of these Terms shall remain
-in full force and effect as if such term, condition and provision had not
-originally been contained in these Terms, unless the severed provisions
-render the continuing performance of these Terms impossible, or materially
-change either Party’s rights or obligations under these Terms; in which
-event such Party may give written notice of its intent to terminate these
-Terms to the other Party.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Notwithstanding the aforesaid, in the event
-of such deletion, the Parties hereto shall negotiate in good faith to agree
-to terms of mutually acceptable and satisfactory alternative provision(s)
-in place of the provision(s) so deleted.</p>
+<p>1.&nbsp;In the event that any term, condition or provision contained in
+these Terms or the application of any such term, condition or provision
+shall be held by a court of competent jurisdiction to be wholly or partly
+illegal, invalid, unenforceable or a violation of any applicable law, statute
+or regulation of any jurisdiction, the same shall be deemed to be deleted
+from these Terms and shall be of no force and effect; whereas the remaining
+terms, conditions or provisions of these Terms shall remain in full force
+and effect as if such term, condition and provision had not originally
+been contained in these Terms, unless the severed provisions render the
+continuing performance of these Terms impossible, or materially change
+either Party’s rights or obligations under these Terms; in which event
+such Party may give written notice of its intent to terminate these Terms
+to the other Party.</p>
+<p>2.&nbsp;Notwithstanding the aforesaid, in the event of such deletion,
+the Parties hereto shall negotiate in good faith to agree to terms of mutually
+acceptable and satisfactory alternative provision(s) in place of the provision(s)
+so deleted.</p>
 <p>&nbsp;</p>
 <p><u>S. NO PARTNERSHIP</u>
 </p>
