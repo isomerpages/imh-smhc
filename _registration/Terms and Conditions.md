@@ -542,55 +542,50 @@ to the other Party.</p>
 the Parties hereto shall negotiate in good faith to agree to terms of mutually
 acceptable and satisfactory alternative provision(s) in place of the provision(s)
 so deleted.</p>
-<p>&nbsp;</p>
-<p><u>S. NO PARTNERSHIP</u>
+<p>&nbsp;<u>S. NO PARTNERSHIP</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Nothing contained in or relating to these Terms
-shall be deemed to constitute a partnership or a principal-agent relationship
-between the Parties and no Party shall have any authority to act or assume
-any obligation or responsibility of any kind, express or implied, on behalf
-of the other Party or bind or commit the other Party for any purpose in
-any way whatsoever.</p>
-<p>&nbsp;</p>
-<p><u>T. NO THIRD (3RD) PARTY BENEFICIARIES</u>
+<p>1.&nbsp;Nothing contained in or relating to these Terms shall be deemed
+to constitute a partnership or a principal-agent relationship between the
+Parties and no Party shall have any authority to act or assume any obligation
+or responsibility of any kind, express or implied, on behalf of the other
+Party or bind or commit the other Party for any purpose in any way whatsoever.</p>
+<p>&nbsp;<u>T. NO THIRD (3RD) PARTY BENEFICIARIES</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Nothing contained in these Terms is intended
-to confer upon any person (other than the Parties hereto) any rights, benefits
-or remedies of any kind or character whatsoever or any right to enforce
-the terms of this Terms and Conditions under the Contracts (Rights of Third
-Parties) Act 2001, and no person shall be deemed to be a third-party beneficiary
+<p>1.&nbsp;Nothing contained in these Terms is intended to confer upon any
+person (other than the Parties hereto) any rights, benefits or remedies
+of any kind or character whatsoever or any right to enforce the terms of
+this Terms and Conditions under the Contracts (Rights of Third Parties)
+Act 2001, and no person shall be deemed to be a third-party beneficiary
 under or by reason of these Terms.</p>
-<p>&nbsp;</p>
-<p><u>U. DISPUTE RESOLUTION</u>
+<p>&nbsp;<u>U. DISPUTE RESOLUTION</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; In the event of any dispute or difference arising
-out of or in connection with or in relation to these Terms, including any
-question regarding the existence, validity, termination, application or
-interpretation of these Terms or any of its provisions or any claim, disagreement
-or dispute arising out of or relating to these Terms or the breach of any
-of its provisions, both Parties shall use their best endeavours to settle
-the dispute informally by agreement between the Parties. Both Parties shall
-always act in good faith and co-operate with each other to resolve any
-disputes.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Notwithstanding anything in these Terms, if
-the dispute is not settled informally in accordance with Clause U(1), no
-Party shall proceed to litigation or any other form of dispute resolution
-unless the Parties have made reasonable efforts to resolve the same through
-mediation, in accordance with the mediation rules of the Singapore Mediation
-Centre. A Party who receives a notice for mediation from the other Party
-shall consent and participate in the mediation process in good faith in
-accordance with this clause. The Parties undertake to abide by the terms
-of any settlement reached. Failure to comply with this Clause shall be
-deemed to be a breach of these Terms.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; In the event that mediation is unsuccessful,
-the dispute shall be resolved either by reference to arbitration or by
-court proceedings as elected by either Party, by way of a written notice
-to the other Party, which shall state the specific dispute to be resolved
-and the nature of such dispute. Should the Parties fail to agree to refer
-the dispute to arbitration, either Party may institute an action in court.
-The Parties agree, in such event, to submit irrevocably to the non-exclusive
-jurisdiction of the Courts of the Republic of Singapore to settle any and
-all disputes in connection with these Terms.</p>
+<p>1.&nbsp;In the event of any dispute or difference arising out of or in
+connection with or in relation to these Terms, including any question regarding
+the existence, validity, termination, application or interpretation of
+these Terms or any of its provisions or any claim, disagreement or dispute
+arising out of or relating to these Terms or the breach of any of its provisions,
+both Parties shall use their best endeavours to settle the dispute informally
+by agreement between the Parties. Both Parties shall always act in good
+faith and co-operate with each other to resolve any disputes.</p>
+<p>2.&nbsp;Notwithstanding anything in these Terms, if the dispute is not
+settled informally in accordance with Clause U(1), no Party shall proceed
+to litigation or any other form of dispute resolution unless the Parties
+have made reasonable efforts to resolve the same through mediation, in
+accordance with the mediation rules of the Singapore Mediation Centre.
+A Party who receives a notice for mediation from the other Party shall
+consent and participate in the mediation process in good faith in accordance
+with this clause. The Parties undertake to abide by the terms of any settlement
+reached. Failure to comply with this Clause shall be deemed to be a breach
+of these Terms.</p>
+<p>3.&nbsp;In the event that mediation is unsuccessful, the dispute shall
+be resolved either by reference to arbitration or by court proceedings
+as elected by either Party, by way of a written notice to the other Party,
+which shall state the specific dispute to be resolved and the nature of
+such dispute. Should the Parties fail to agree to refer the dispute to
+arbitration, either Party may institute an action in court. The Parties
+agree, in such event, to submit irrevocably to the non-exclusive jurisdiction
+of the Courts of the Republic of Singapore to settle any and all disputes
+in connection with these Terms.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Any reference to arbitration in Singapore shall
 be a submission to arbitration within the meaning of the Arbitration Act
 2001 for the time being in force in Singapore. Such arbitration shall be
