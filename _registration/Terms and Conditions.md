@@ -137,21 +137,25 @@ and the Delegate will be liable for the full registration fee.</p>
 <p>If you intend to submit abstracts for the Conference, you are required
 to adhere to the submission guidelines and time frame indicated on the
 SMHC 2025 website.</p>
+<p></p>
 </li>
 <li>
 <p>You are responsible for the content of their abstracts submitted, and
 hereby represent and warrant to the Organiser that you have the permission
 of all authors and/or co-authors to submit the abstracts to SMHC 2025.</p>
+<p></p>
 </li>
 <li>
 <p>By submitting an abstract(s), you hereby consent to have your abstract(s)
 (that have been accepted by the Organiser) to be published on the SMHC
 platforms (i.e. SMHC website, mobile and other supporting platforms)</p>
+<p></p>
 </li>
 <li>
 <p>With reference to Clause 3(I) and 3(II) above, you shall have the right
 to opt out of having your abstracts published on the SMHC platforms by
 notifying the Organiser via email.</p>
+<p></p>
 </li>
 <li>
 <p>You and/or your co-authors and/or organisation which you represent (as
@@ -162,12 +166,14 @@ the conference organiser to publish and store your material for viewing,
 downloading, extraction of content in part or whole and/or downloading
 purposes for other users of SMHC platforms; and represent and warrant that
 you have sufficient authority and the rights to do so.</p>
+<p></p>
 </li>
 <li>
 <p>You hereby acknowledge that all above-mentioned content submitted does
 not contain any sensitive or confidential information, such as patient
 details, detailed financial data etc.; and that your institution has deemed
 it suitable for public visibility.</p>
+<p></p>
 </li>
 <li>
 <p>Abstracts will not be proofread by the Organiser before publication on
@@ -177,37 +183,39 @@ and hold harmless the Organiser against any liability, claim, expenses
 (including court costs and fees of solicitors (on a full indemnity basis)
 and that of other professionals) or loss arising from or incurred in connection
 with the publication of your abstract(s).</p>
+<p></p>
 </li>
 <li>
 <p>In the event that your abstract is reviewed and accepted, you will be
 notified and will be required to confirm your participation within ONE
 (1) week upon from such notification.</p>
+<p></p>
 </li>
 <li>
 <p>It is encouraged for abstract authors to be present at their poster panel
 during the lunch hour on 16 and 17 July 2025, to address any queries from
 the delegates, regarding the poster.</p>
+<p></p>
 </li>
 <li>
 <p>The decision of the review panel after reviewing the abstracts is final,
 and appeals will not be entertained.</p>
+<p></p>
 </li>
 <li>
 <p>The Organiser reserves the rights to make changes pertaining to abstracts
 without prior notification.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p><u>H. PRIVACY POLICY</u>
+<p>&nbsp;<u>H. PRIVACY POLICY</u>
 </p>
 <p>The Organiser is committed to protecting the privacy of your information
 in accordance with this Privacy Policy.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Purpose for Collection and Use of Business
-Contact Information</p>
-<p>(i)&nbsp;&nbsp;&nbsp; A variety of information may be collected, including
-your first name, surname, Profession, Designation, Department, MCR/SNB/PRN
-number, Organisation, Institution, <s>Institution Address</s>, Business
-Email Address, and Payment Card Information (for payment).</p>
+<p>1.&nbsp;Purpose for Collection and Use of Business Contact Information</p>
+<p>(i)&nbsp;A variety of information may be collected, including your first
+name, surname, Profession, Designation, Department, MCR/SNB/PRN number,
+Organisation, Institution, <s>Institution Address</s>, Business Email Address,
+and Payment Card Information (for payment).</p>
 <p>(ii)&nbsp;&nbsp; For students who are representing your schools, your
 school email address is considered business contact information. Should
 you wish to provide your personal email address and contact number, please
