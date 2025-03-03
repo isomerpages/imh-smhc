@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Button_v1.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fapp.swapcard.com%2flogin%2fevent%2fsmhc%2d2025%2fregistration&amp;umid=9F44A767-2F69-9C06-8BDD-51B62510E2F0&amp;auth=6763e979df924ae8f7143fa37c4447a1ecaa1213-a8ed79a2092e317c931d310ba638bd4ff24871b6"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Button_v1.png"></a>
 <h1><strong>Registration is open!</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
