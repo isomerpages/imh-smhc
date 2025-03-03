@@ -407,26 +407,23 @@ to their next destination and sufficient funds for his/her stay in Singapore.
 Please visit the Singapore Immigration &amp; Checkpoints Authority website
 at <a rel="noopener noreferrer nofollow" target="_blank">http://www.ica.gov.sg</a> for
 more information on entry visas requirement.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; The Delegates shall be responsible for ensuring
-that he/she has the necessary visas, licenses or permits to attend the
-Conference (if applicable), and the Organiser shall not be liable for the
-same.</p>
-<p>&nbsp;</p>
-<p><u>M. CONFIDENTIALITY</u>
+<p>2.&nbsp;The Delegates shall be responsible for ensuring that he/she has
+the necessary visas, licenses or permits to attend the Conference (if applicable),
+and the Organiser shall not be liable for the same.</p>
+<p>&nbsp;<u>M. CONFIDENTIALITY</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; You agree to treat as confidential all information
-received from the Organiser which the Organiser has indicated in writing
-or labelled to be “Confidential”, “Proprietary” or “Restricted”, or with
-any other comparable legend to similar effect, at the time of disclosure
-or if disclosed orally, confirmed in writing by the Organiser as such within
-thirty (30) calendar days after its disclosure, including but without any
-limitation whatsoever:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all commercial, marketing
-and business information, strategic and development plans, intentions,
-any matter concerning the Organiser, its affairs, business, operations,
-shareholders, directors, officers, business associates, clients or any
-other person or entity having dealings with the Organiser;</p>
+<p>1.&nbsp;You agree to treat as confidential all information received from
+the Organiser which the Organiser has indicated in writing or labelled
+to be “Confidential”, “Proprietary” or “Restricted”, or with any other
+comparable legend to similar effect, at the time of disclosure or if disclosed
+orally, confirmed in writing by the Organiser as such within thirty (30)
+calendar days after its disclosure, including but without any limitation
+whatsoever:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+all commercial, marketing and business information, strategic and development
+plans, intentions, any matter concerning the Organiser, its affairs, business,
+operations, shareholders, directors, officers, business associates, clients
+or any other person or entity having dealings with the Organiser;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; information relating
 to the financial condition of the Organiser, its accounts, audited or otherwise,
