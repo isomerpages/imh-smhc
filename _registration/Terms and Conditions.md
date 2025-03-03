@@ -586,22 +586,20 @@ arbitration, either Party may institute an action in court. The Parties
 agree, in such event, to submit irrevocably to the non-exclusive jurisdiction
 of the Courts of the Republic of Singapore to settle any and all disputes
 in connection with these Terms.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Any reference to arbitration in Singapore shall
-be a submission to arbitration within the meaning of the Arbitration Act
-2001 for the time being in force in Singapore. Such arbitration shall be
-conducted in the English language in accordance with the Arbitration Rules
-of the Singapore International Arbitration Centre (“SIAC Rules”) for the
-time being in force, which rules are deemed to be incorporated by reference
-into this clause, except in so far as such Rules conflict with the express
-provisions of this clause, in which event the provisions of this clause
-will prevail.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; For the avoidance of doubt, it is agreed that
-nothing in this Clause shall prevent a Party from seeking urgent equitable
-relief before any appropriate court and the commencement of any dispute
-resolution proceedings shall in no way affect the continual performance
-of the Parties’ obligations under these Terms.</p>
-<p>&nbsp;</p>
-<p><u>V. GOVERNING LAW</u>
+<p>4.&nbsp;Any reference to arbitration in Singapore shall be a submission
+to arbitration within the meaning of the Arbitration Act 2001 for the time
+being in force in Singapore. Such arbitration shall be conducted in the
+English language in accordance with the Arbitration Rules of the Singapore
+International Arbitration Centre (“SIAC Rules”) for the time being in force,
+which rules are deemed to be incorporated by reference into this clause,
+except in so far as such Rules conflict with the express provisions of
+this clause, in which event the provisions of this clause will prevail.</p>
+<p>5.&nbsp;For the avoidance of doubt, it is agreed that nothing in this
+Clause shall prevent a Party from seeking urgent equitable relief before
+any appropriate court and the commencement of any dispute resolution proceedings
+shall in no way affect the continual performance of the Parties’ obligations
+under these Terms.</p>
+<p>&nbsp;<u>V. GOVERNING LAW</u>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; This Terms and Conditions shall be deemed to
 be made in Singapore, subject to, governed by and construed in all respects
