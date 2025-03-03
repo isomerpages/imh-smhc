@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/6I0A9273v2.jpg
-      url: https://form.gov.sg/673a9235af16d982df47d348
+      url: https://app.swapcard.com/login/event/smhc-2025/registration
       title: Singapore Mental Health Conference 2025
-      button: 16 - 17 July 2025 | Singapore Expo
+      button: Register now
       variant: floating
       size: md
       alignment: left
@@ -22,7 +22,7 @@ sections:
         - title: Call for Abstracts
           description: Submit here
           url: https://form.gov.sg/67490f3d961741ba92f8436d
-      subtitle: Reimagining Mental Health. Empowering Lives.
+      subtitle: 16 - 17 July 2025 | Singapore Expo
   - infobar:
       title: Reimagining Mental Health. Empowering Lives.
       subtitle: SMHC 2025 Theme
@@ -56,11 +56,10 @@ sections:
   - infopic:
       title: Registration
       id: infopic
-      description: Registration will open in February 2025!
       alt: Image alt text
       image: /images/R6M25948.jpg
-      button: register your interest
-      url: https://form.gov.sg/673a9235af16d982df47d348
+      button: Register Now
+      url: https://app.swapcard.com/login/event/smhc-2025/registration
   - infopic:
       title: Sponsorship
       id: infopic
