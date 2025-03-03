@@ -16,7 +16,7 @@ sections:
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: Register Your Interest
+        - title: Registration
           description: Click here
           url: https://form.gov.sg/673a9235af16d982df47d348
         - title: Call for Abstracts
