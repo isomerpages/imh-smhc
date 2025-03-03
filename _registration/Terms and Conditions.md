@@ -269,51 +269,62 @@ entered by you into the payment gateway to complete the payment.</p>
 <p>(v) The Organiser will not be held responsible for any information and/or
 data that is collected by a third party directly from you.</p>
 <p>3.&nbsp;Information Security</p>
-<p>(i)&nbsp;&nbsp;&nbsp; The Organiser shall protect and take all reasonable
-precautions and adequate measures to safeguard your information against
-such risks as loss, theft, unauthorised access, unauthorised disclosure,
-modification, copying, use and destruction.</p>
-<p>(ii)&nbsp;&nbsp; The Organiser will protect the confidentiality of your
-information in its dealing with third party vendors.</p>
-<p>(iii)&nbsp; The SMHC Conference App account (“Registration Account”) is
-password-protected for privacy purposes. You are advised not to disclose
-your account information to anyone. Disclosure of your password to any
-third party may result in unauthorised access to your account.</p>
-<p>(iv)&nbsp; The Organiser will not request for your username and password
-via email or telephone. If you receive such requests, please refrain from
-disclosing such information to the sender or caller and inform the Conference
-Secretariat immediately via email at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.&nbsp;&nbsp;</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Accuracy of Information</p>
-<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The information which you provide to
-the Organiser will be deemed as accurate and complete upon registration,
-necessary for the purpose for which it is intended to be used.</p>
-<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp; Accurate, complete and up to date information
-will minimise any inappropriate decisions made when the need arises.</p>
-<p>(iii)&nbsp;&nbsp;&nbsp; You may access, update and make changes to your
-information by logging into your Registration Account. The log-in information
-can be found on the “Registration Confirmation Letter” sent to your given
-email address. Alternatively, you may email the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a> to request for the
+<p>(i) The Organiser shall protect and take all reasonable precautions and
+adequate measures to safeguard your information against such risks as loss,
+theft, unauthorised access, unauthorised disclosure, modification, copying,
+use and destruction.</p>
+<p>(ii) The Organiser will protect the confidentiality of your information
+in its dealing with third party vendors.</p>
+<p>(iii) The SMHC Conference App account (“Registration Account”) is password-protected
+for privacy purposes. You are advised not to disclose your account information
+to anyone. Disclosure of your password to any third party may result in
+unauthorised access to your account.</p>
+<p>(iv) The Organiser will not request for your username and password via
+email or telephone. If you receive such requests, please refrain from disclosing
+such information to the sender or caller and inform the Conference Secretariat
+immediately via email at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.&nbsp;&nbsp;</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Accuracy of Information</p>
+</li>
+</ol>
+<p>(i) The information which you provide to the Organiser will be deemed
+as accurate and complete upon registration, necessary for the purpose for
+which it is intended to be used.</p>
+<p>(ii) Accurate, complete and up to date information will minimise any inappropriate
+decisions made when the need arises.</p>
+<p>(iii) You may access, update and make changes to your information by logging
+into your Registration Account. The log-in information can be found on
+the “Registration Confirmation Letter” sent to your given email address.
+Alternatively, you may email the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a> to request for the
 changes to be made.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; Retention and Destruction of Information</p>
-<p>(i)&nbsp;&nbsp;&nbsp; The Organiser will maintain appropriate practices
-for the retention and destruction of your information. Your information
-will be deleted and/or destroyed if it is no longer serves the Purposes
-set out in this Privacy Policy. Upon the destruction of your information,
-the Organiser will no longer have access to such information.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; Transfer of Information</p>
-<p>(i)&nbsp;&nbsp;&nbsp; The information which you provide to the Organiser
-will not be transferred to other countries and will be accessed only by
-the Organiser and its duly authorised partner/s.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp; Photography &amp; Video Recordings</p>
-<p>(i)&nbsp;&nbsp;&nbsp; By participating in the Conference, you consent
-to photography, audio recording and/or video recording of your person,
-whether wholly or in part.</p>
-<p>(ii)&nbsp;&nbsp; You agree that the Organiser, or anyone authorised by
-the Organiser, shall have the right to use or publish in print or electronic
-medium any photograph, audio or video recording referred to in Clause 7(i)
-above for educational, news, or promotional / publicity purposes, without
-any payment or compensation to you.</p>
-<p>8.&nbsp;&nbsp; For any enquiries regarding the Privacy Policy or any requests
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Retention and Destruction of Information</p>
+</li>
+</ol>
+<p>(i)&nbsp;The Organiser will maintain appropriate practices for the retention
+and destruction of your information. Your information will be deleted and/or
+destroyed if it is no longer serves the Purposes set out in this Privacy
+Policy. Upon the destruction of your information, the Organiser will no
+longer have access to such information.</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>Transfer of Information</p>
+</li>
+</ol>
+<p>(i) The information which you provide to the Organiser will not be transferred
+to other countries and will be accessed only by the Organiser and its duly
+authorised partner/s.</p>
+<p>7.&nbsp;Photography &amp; Video Recordings</p>
+<p>(i) By participating in the Conference, you consent to photography, audio
+recording and/or video recording of your person, whether wholly or in part.</p>
+<p>(ii) You agree that the Organiser, or anyone authorised by the Organiser,
+shall have the right to use or publish in print or electronic medium any
+photograph, audio or video recording referred to in Clause 7(i) above for
+educational, news, or promotional / publicity purposes, without any payment
+or compensation to you.</p>
+<p>8.&nbsp;For any enquiries regarding the Privacy Policy or any requests
 regarding your information, please contact the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.</p>
 <p><strong>&nbsp;</strong>
 </p>
