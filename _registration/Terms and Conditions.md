@@ -293,8 +293,8 @@ will minimise any inappropriate decisions made when the need arises.</p>
 <p>(iii)&nbsp;&nbsp;&nbsp; You may access, update and make changes to your
 information by logging into your Registration Account. The log-in information
 can be found on the “Registration Confirmation Letter” sent to your given
-email address. Alternatively, you may email the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a> to
-request for the changes to be made.</p>
+email address. Alternatively, you may email the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a> to request for the
+changes to be made.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; Retention and Destruction of Information</p>
 <p>(i)&nbsp;&nbsp;&nbsp; The Organiser will maintain appropriate practices
 for the retention and destruction of your information. Your information
@@ -390,13 +390,12 @@ to strike and other causes, theft, or damage to the personal belongings.</p>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Delegates requiring an official Letter of Invitation
 for the purpose of obtaining an entry visa to Singapore to attend the Conference
-may submit their requests in writing to the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.
-The Letter of Invitation is not a commitment from the Organiser to provide
-any kind of financial support or hosting arrangement, nor does it guarantee
-that an entry visa will be issued. The Letter of Invitation will be issued
-to the Delegate only after full registration fees have been received by
-the Organiser. Any expenses associated with such a request shall be borne
-by the Delegates.</p>
+may submit their requests in writing to the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>. The Letter of Invitation
+is not a commitment from the Organiser to provide any kind of financial
+support or hosting arrangement, nor does it guarantee that an entry visa
+will be issued. The Letter of Invitation will be issued to the Delegate
+only after full registration fees have been received by the Organiser.
+Any expenses associated with such a request shall be borne by the Delegates.</p>
 <p>&nbsp;</p>
 <p><u>L. ENTRY VISA APPLICATION AND VALIDITY OF PASSPORT</u>
 </p>
