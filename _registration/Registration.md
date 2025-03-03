@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Registration is open!</strong></h1>
-<p></p><a class="isomer-image-wrapper" href="https://app.swapcard.com/login/event/smhc-2025/registration"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v2.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://app.swapcard.com/login/event/smhc-2025/registration"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v5.png"></a>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC_2025_v1.png">
@@ -17,5 +18,5 @@ description: ""
 </p>
 <p><strong>For queries on registration, please email to <a href="mailto:smhc@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg.</a></strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://app.swapcard.com/login/event/smhc-2025/registration"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v2.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://app.swapcard.com/login/event/smhc-2025/registration"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v5.png"></a>
 <p></p>
