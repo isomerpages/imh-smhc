@@ -419,32 +419,30 @@ comparable legend to similar effect, at the time of disclosure or if disclosed
 orally, confirmed in writing by the Organiser as such within thirty (30)
 calendar days after its disclosure, including but without any limitation
 whatsoever:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-all commercial, marketing and business information, strategic and development
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I.&nbsp;&nbsp;all
+commercial, marketing and business information, strategic and development
 plans, intentions, any matter concerning the Organiser, its affairs, business,
 operations, shareholders, directors, officers, business associates, clients
 or any other person or entity having dealings with the Organiser;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; information relating
-to the financial condition of the Organiser, its accounts, audited or otherwise,
-notes, memoranda, documents and/or records in any form whatsoever, whether
-electronic or otherwise; and</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; scientific, technical,
-intellectual or other information in any form whatsoever, whether electronic
-or otherwise, relating to methods, processes, formulae, compositions, systems,
-techniques, product information, inventions, know-how, trade secrets, design
-rights, machines, computer programs, software, development codes and research
-projects; business plans, co-developer/collaborator identities, data (including
-patient data or personal data), business records of every nature, customer
-lists and client database, pricing data, project records, market reports,
-sources of supply, employee lists, business manuals, policies and procedures,
-information relating to technologies or theory and all other information
-which may be disclosed by the Organiser, whether stored electronically
-or otherwise; and all copies, reproductions and extracts thereof, in any
-format or manner of storage, whether in whole or in part, together with
-any other property of the Organiser made or acquired by you or coming into
-your possession or control in any manner whatsoever.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II.&nbsp;&nbsp;information
+relating to the financial condition of the Organiser, its accounts, audited
+or otherwise, notes, memoranda, documents and/or records in any form whatsoever,
+whether electronic or otherwise; and</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III.&nbsp;&nbsp;scientific,
+technical, intellectual or other information in any form whatsoever, whether
+electronic or otherwise, relating to methods, processes, formulae, compositions,
+systems, techniques, product information, inventions, know-how, trade secrets,
+design rights, machines, computer programs, software, development codes
+and research projects; business plans, co-developer/collaborator identities,
+data (including patient data or personal data), business records of every
+nature, customer lists and client database, pricing data, project records,
+market reports, sources of supply, employee lists, business manuals, policies
+and procedures, information relating to technologies or theory and all
+other information which may be disclosed by the Organiser, whether stored
+electronically or otherwise; and all copies, reproductions and extracts
+thereof, in any format or manner of storage, whether in whole or in part,
+together with any other property of the Organiser made or acquired by you
+or coming into your possession or control in any manner whatsoever.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; The Confidential Information shall be and remain
 the sole property of the Organiser and returned to the Organiser forthwith
 on demand at any time or without demand upon completion of the Conference.</p>
@@ -452,74 +450,65 @@ on demand at any time or without demand upon completion of the Conference.</p>
 that any Confidential Information shall not be disclosed, whether directly
 or indirectly, to third parties without the prior written consent of the
 Organiser, which consent shall not be unreasonably withheld, except:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the purpose contemplated,
-pursuant to and in accordance with these Terms;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With the written consent
-of the Organiser and then only to the extent specified in such consent;
-and</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To the extent as may
-be required by law or in accordance with the order of a court of competent
-jurisdiction, regulation, effective government policy or by any regulatory
-authority, provided that you give the Organiser prompt written notice of
-such requirement or order.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; The restrictions on disclosure of Confidential
-Information described in this Clause do not extend to any information that
-(i) already exists in the public domain at the time of its disclosure;
-(ii) is already in your possession prior to the time of disclosure; (iii)
-is independently developed by you outside the scope of these Terms; or
-(iv) is rightfully obtained from third parties.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; You hereby agree that you shall take all reasonably
-necessary steps to limit access to Confidential Information to your principals,
-directors, officers, agents, employees, bankers, financial advisors, consultants
-and legal or other advisors, whose duties require them to possess such
-information or who are directly concerned with the purposes contemplated
-by these Terms and are made aware of its confidential status, to the extent
-reasonably required for the performance of these Terms and ensure that
-they do not disclose or make public or authorize any disclosure or publication
-of any Confidential Information in violation of these Terms.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; You must promptly inform the Organiser about
-any unauthorised disclosure of Confidential Information.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp; Subject to the foregoing, your confidentiality
-obligations under this Clause M shall survive the expiry of these Terms.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+I.&nbsp;&nbsp;&nbsp;For the purpose contemplated, pursuant to and in accordance
+with these Terms;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II.&nbsp;&nbsp;With
+the written consent of the Organiser and then only to the extent specified
+in such consent; and</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III.&nbsp;&nbsp;To
+the extent as may be required by law or in accordance with the order of
+a court of competent jurisdiction, regulation, effective government policy
+or by any regulatory authority, provided that you give the Organiser prompt
+written notice of such requirement or order.</p>
+<p>4.&nbsp;The restrictions on disclosure of Confidential Information described
+in this Clause do not extend to any information that (i) already exists
+in the public domain at the time of its disclosure; (ii) is already in
+your possession prior to the time of disclosure; (iii) is independently
+developed by you outside the scope of these Terms; or (iv) is rightfully
+obtained from third parties.</p>
+<p>5.&nbsp;You hereby agree that you shall take all reasonably necessary
+steps to limit access to Confidential Information to your principals, directors,
+officers, agents, employees, bankers, financial advisors, consultants and
+legal or other advisors, whose duties require them to possess such information
+or who are directly concerned with the purposes contemplated by these Terms
+and are made aware of its confidential status, to the extent reasonably
+required for the performance of these Terms and ensure that they do not
+disclose or make public or authorize any disclosure or publication of any
+Confidential Information in violation of these Terms.</p>
+<p>6.&nbsp;You must promptly inform the Organiser about any unauthorised
+disclosure of Confidential Information.</p>
+<p>7.&nbsp;&nbsp;Subject to the foregoing, your confidentiality obligations
+under this Clause M shall survive the expiry of these Terms.</p>
 <p><u>N. INDEMNITY</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; You shall indemnify, defend and hold harmless
-the Organiser and its directors, officers, employees, servants, &nbsp;agents
-and any other authorised representatives and personnel against all or any
-liability, claim, expenses (including court costs and fees of solicitors
-(on a full indemnity basis) and that of other professionals) or loss in
-respect of damage to any property or personal injury to or the death of
-any person caused by you or arising out of or in the course of the performance
-of these Terms PROVIDED THAT you may not enter into any settlement, agreement,
+<p>1.&nbsp;You shall indemnify, defend and hold harmless the Organiser and
+its directors, officers, employees, servants, &nbsp;agents and any other
+authorised representatives and personnel against all or any liability,
+claim, expenses (including court costs and fees of solicitors (on a full
+indemnity basis) and that of other professionals) or loss in respect of
+damage to any property or personal injury to or the death of any person
+caused by you or arising out of or in the course of the performance of
+these Terms PROVIDED THAT you may not enter into any settlement, agreement,
 arrangement or compromise that would have a material adverse effect on
 the Organiser.</p>
-<p>&nbsp;</p>
-<p><u>O. VARIATION</u>
+<p>&nbsp;<u>O. VARIATION</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; These Terms may be updated by the Organiser
-from time to time by updating this page on the SMHC 2025 website. You are
-advised to visit this page from time to time to review the updated Terms
-(if any).</p>
-<p>&nbsp;</p>
-<p><u>P. WAIVER</u>
+<p>1.&nbsp;These Terms may be updated by the Organiser from time to time
+by updating this page on the SMHC 2025 website. You are advised to visit
+this page from time to time to review the updated Terms (if any).</p>
+<p>&nbsp;<u>P. WAIVER</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; No waiver of any breach of any covenant, condition,
-stipulation, obligation or provision contained or implied in these Terms
-shall operate or be interpreted as a waiver of another breach of the same
-or of any covenant, condition, stipulation, obligation or provision in
-these Terms.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Any time or other indulgence granted by the
-Organiser under these Terms shall be without prejudice to and shall not
-be taken as a waiver of any of the Organiser’s rights under these Terms
-nor shall it prejudice or in any way limit or affect any statutory rights
-or powers from time to time vested in or exercisable by the Organiser.</p>
-<p>&nbsp;</p>
-<p><u>Q. ASSIGNMENT</u>
+<p>1.&nbsp;No waiver of any breach of any covenant, condition, stipulation,
+obligation or provision contained or implied in these Terms shall operate
+or be interpreted as a waiver of another breach of the same or of any covenant,
+condition, stipulation, obligation or provision in these Terms.</p>
+<p>2.&nbsp;Any time or other indulgence granted by the Organiser under these
+Terms shall be without prejudice to and shall not be taken as a waiver
+of any of the Organiser’s rights under these Terms nor shall it prejudice
+or in any way limit or affect any statutory rights or powers from time
+to time vested in or exercisable by the Organiser.</p>
+<p>&nbsp;<u>Q. ASSIGNMENT</u>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Subject to the other provisions in these Terms,
 all the provisions of these Terms shall be binding upon and inure to the
