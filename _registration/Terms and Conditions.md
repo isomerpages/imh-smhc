@@ -399,14 +399,13 @@ support or hosting arrangement, nor does it guarantee that an entry visa
 will be issued. The Letter of Invitation will be issued to the Delegate
 only after full registration fees have been received by the Organiser.
 Any expenses associated with such a request shall be borne by the Delegates.</p>
-<p>&nbsp;</p>
-<p><u>L. ENTRY VISA APPLICATION AND VALIDITY OF PASSPORT</u>
+<p>&nbsp;<u>L. ENTRY VISA APPLICATION AND VALIDITY OF PASSPORT</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Where applicable, all Delegates should have
-a valid passport, onward/return tickets, onward facilities (e.g. visas,
-entry permits, etc.) to their next destination and sufficient funds for
-his/her stay in Singapore. Please visit the Singapore Immigration &amp;
-Checkpoints Authority website at <a rel="noopener noreferrer nofollow" target="_blank">http://www.ica.gov.sg</a> for
+<p>1.&nbsp;Where applicable, all Delegates should have a valid passport,
+onward/return tickets, onward facilities (e.g. visas, entry permits, etc.)
+to their next destination and sufficient funds for his/her stay in Singapore.
+Please visit the Singapore Immigration &amp; Checkpoints Authority website
+at <a rel="noopener noreferrer nofollow" target="_blank">http://www.ica.gov.sg</a> for
 more information on entry visas requirement.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; The Delegates shall be responsible for ensuring
 that he/she has the necessary visas, licenses or permits to attend the
