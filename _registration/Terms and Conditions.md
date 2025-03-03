@@ -326,64 +326,59 @@ educational, news, or promotional / publicity purposes, without any payment
 or compensation to you.</p>
 <p>8.&nbsp;For any enquiries regarding the Privacy Policy or any requests
 regarding your information, please contact the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><u>I. LIABILITY AND DISCLAIMER</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; The Organiser shall not be liable for any loss,
-damage or penalty resulting from delays or failures in the performance
-of their obligations under these Terms if the delay or failure results
-from events beyond the reasonable control of the Organiser.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Such events shall include but are not limited
-to the unavailability of the event venue as determined by the venue provider,
-acts of God, wars, hostility, invasions, acts of foreign enemies, rebellions,
-revolutions, riots, civil wars, disturbances, requisitioning or other acts
-of civil or military authority, laws, regulations, acts or orders of any
-governmental authority, body, agency or official, fires, inclement weather,
-rain or floods (however caused), industrial action, strikes, lock-outs
-or other labour disputes, outbreaks, epidemics, pandemics, embargoes or
-other catastrophes affecting the availability of materials or labour necessary
-for the performance of these Terms.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; If any of the above-mentioned events shall
-continue for a period exceeding ONE HUNDRED AND TWENTY (120) calendar days,
-the Organiser may, in its sole discretion, elect to cancel the Conference.
-For the duration of such event, the Organiser shall be relieved of any
-obligation under these Terms that is or are affected by the event except
-that the provisions of these Terms shall remain in force with regard to
-all other obligations which are not affected by the event.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; You acknowledge and agree that you shall have
-no right to lodge any claim against the Organiser, and the Organiser shall
-not be liable for any loss or damage whatsoever, should the Conference
-be cancelled, hindered or prevented from taking place as a result of any
-of the above-mentioned events, or in the event of any programme changes.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; The Organiser shall not be liable for any personal
-injury or any loss or damage whatsoever and howsoever incurred or sustained
-by the Delegates in the course of the Delegates’ participation in the Conference,
-unless such injury, loss or damage was caused by any negligent act on the
-part of the Organiser.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; In the event of cancellation of the Conference
-due to any of the above-mentioned events, all pre-paid fees will be refunded
-to you in full, direct to the delegate upon proof of payment.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp; In the event of cancellation of the Conference,
-details of any cancellation will be posted on the SMHC website and you
-will be notified via email. Delegates are responsible for checking this
-information prior to the commencement of the Conference.</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp; The Organiser reserves the right to make changes
-to the programme, topics, and dates of event without prior notification
-to the Delegates. The Organiser reserves the right to make changes to the
-Conference speakers in case of illnesses or other circumstances beyond
-its control. All information provided will be accurate as at the date of
-publishing.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp; In carrying out their respective obligations
-under these Terms, each Party shall comply with all laws and regulations
-applicable thereto.</p>
-<p>10.&nbsp; To the extent permitted under applicable law, the Organiser
-shall not be liable to the delegates for any indirect, incidental, special,
-punitive or consequential damages however caused, including any loss of
-profits or business interruption costs and under any theory of liability,
-including but not limited to contract, strict liability and negligence;
-whether or not the Delegates have been advised of the possibility of such
-damage.</p>
+<p>1.&nbsp;The Organiser shall not be liable for any loss, damage or penalty
+resulting from delays or failures in the performance of their obligations
+under these Terms if the delay or failure results from events beyond the
+reasonable control of the Organiser.</p>
+<p>2.&nbsp;Such events shall include but are not limited to the unavailability
+of the event venue as determined by the venue provider, acts of God, wars,
+hostility, invasions, acts of foreign enemies, rebellions, revolutions,
+riots, civil wars, disturbances, requisitioning or other acts of civil
+or military authority, laws, regulations, acts or orders of any governmental
+authority, body, agency or official, fires, inclement weather, rain or
+floods (however caused), industrial action, strikes, lock-outs or other
+labour disputes, outbreaks, epidemics, pandemics, embargoes or other catastrophes
+affecting the availability of materials or labour necessary for the performance
+of these Terms.</p>
+<p>3.&nbsp;If any of the above-mentioned events shall continue for a period
+exceeding ONE HUNDRED AND TWENTY (120) calendar days, the Organiser may,
+in its sole discretion, elect to cancel the Conference. For the duration
+of such event, the Organiser shall be relieved of any obligation under
+these Terms that is or are affected by the event except that the provisions
+of these Terms shall remain in force with regard to all other obligations
+which are not affected by the event.</p>
+<p>4.&nbsp;You acknowledge and agree that you shall have no right to lodge
+any claim against the Organiser, and the Organiser shall not be liable
+for any loss or damage whatsoever, should the Conference be cancelled,
+hindered or prevented from taking place as a result of any of the above-mentioned
+events, or in the event of any programme changes.</p>
+<p>5.&nbsp;The Organiser shall not be liable for any personal injury or any
+loss or damage whatsoever and howsoever incurred or sustained by the Delegates
+in the course of the Delegates’ participation in the Conference, unless
+such injury, loss or damage was caused by any negligent act on the part
+of the Organiser.</p>
+<p>6.&nbsp;In the event of cancellation of the Conference due to any of the
+above-mentioned events, all pre-paid fees will be refunded to you in full,
+direct to the delegate upon proof of payment.</p>
+<p>7.&nbsp;In the event of cancellation of the Conference, details of any
+cancellation will be posted on the SMHC website and you will be notified
+via email. Delegates are responsible for checking this information prior
+to the commencement of the Conference.</p>
+<p>8.&nbsp;The Organiser reserves the right to make changes to the programme,
+topics, and dates of event without prior notification to the Delegates.
+The Organiser reserves the right to make changes to the Conference speakers
+in case of illnesses or other circumstances beyond its control. All information
+provided will be accurate as at the date of publishing.</p>
+<p>9.&nbsp;In carrying out their respective obligations under these Terms,
+each Party shall comply with all laws and regulations applicable thereto.</p>
+<p>10.&nbsp;To the extent permitted under applicable law, the Organiser shall
+not be liable to the delegates for any indirect, incidental, special, punitive
+or consequential damages however caused, including any loss of profits
+or business interruption costs and under any theory of liability, including
+but not limited to contract, strict liability and negligence; whether or
+not the Delegates have been advised of the possibility of such damage.</p>
 <p>&nbsp;</p>
 <p><u>J. INSURANCE</u>
 </p>
