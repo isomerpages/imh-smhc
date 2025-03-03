@@ -4,13 +4,11 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
-<h1></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Registration_Button_v2.png">
-</div>
 <h1><strong>Registration is open!</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v2.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC_2025_v1.png">
@@ -22,3 +20,8 @@ description: ""
 </p>
 <p><strong>For queries on registration, please email to <a href="mailto:smhc@imh.com.sg" rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg.</a></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v2.png">
+</div>
+<p></p>
