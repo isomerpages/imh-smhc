@@ -379,23 +379,21 @@ or consequential damages however caused, including any loss of profits
 or business interruption costs and under any theory of liability, including
 but not limited to contract, strict liability and negligence; whether or
 not the Delegates have been advised of the possibility of such damage.</p>
-<p>&nbsp;</p>
-<p><u>J. INSURANCE</u>
+<p>&nbsp;<u>J. INSURANCE</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; The Organiser will not be responsible for any
-dental, healthcare and ambulatory services during the Conference.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; The Organiser strongly recommends that Delegates
-purchase their own travel insurance and take up appropriate insurance cover
-in connection with the Delegates’ participation in the Conference.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; The Organiser accepts no responsibility of
-any nature whatsoever for personal injury, cancellation of bookings due
-to strike and other causes, theft, or damage to the personal belongings.</p>
-<p>&nbsp;</p>
-<p><u>K. LETTER OF INVITATION</u>
+<p>1.&nbsp;The Organiser will not be responsible for any dental, healthcare
+and ambulatory services during the Conference.</p>
+<p>2.&nbsp;The Organiser strongly recommends that Delegates purchase their
+own travel insurance and take up appropriate insurance cover in connection
+with the Delegates’ participation in the Conference.</p>
+<p>3.&nbsp;The Organiser accepts no responsibility of any nature whatsoever
+for personal injury, cancellation of bookings due to strike and other causes,
+theft, or damage to the personal belongings.</p>
+<p>&nbsp;<u>K. LETTER OF INVITATION</u>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Delegates requiring an official Letter of Invitation
-for the purpose of obtaining an entry visa to Singapore to attend the Conference
-may submit their requests in writing to the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>. The Letter of Invitation
+<p>1.&nbsp;Delegates requiring an official Letter of Invitation for the purpose
+of obtaining an entry visa to Singapore to attend the Conference may submit
+their requests in writing to the SMHC Secretariat at <a rel="noopener noreferrer nofollow" target="_blank">smhc@imh.com.sg</a>. The Letter of Invitation
 is not a commitment from the Organiser to provide any kind of financial
 support or hosting arrangement, nor does it guarantee that an entry visa
 will be issued. The Letter of Invitation will be issued to the Delegate
