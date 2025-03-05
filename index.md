@@ -10,7 +10,7 @@ sections:
       background: /images/6I0A9273v2.jpg
       url: /registration/
       title: Singapore Mental Health Conference 2025
-      button: Register now
+      button: 16 - 17 July 2025 | Singapore Expo
       variant: floating
       size: md
       alignment: left
@@ -22,7 +22,6 @@ sections:
         - title: Call for Abstracts
           description: Submit here
           url: https://form.gov.sg/67490f3d961741ba92f8436d
-      subtitle: 16 - 17 July 2025 | Singapore Expo
   - infobar:
       title: Reimagining Mental Health. Empowering Lives.
       subtitle: SMHC 2025 Theme
