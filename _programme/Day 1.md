@@ -14,4 +14,4 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme.png">
 </div>
-<p>*Programme may be subjected to change</p>
+<p>*Programme details may be subjected to change</p>
