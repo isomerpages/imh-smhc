@@ -7,6 +7,13 @@ links:
         url: /about-smhc/
       - title: Past SMHC
         url: /past-smhc/
+  - title: Programme
+    url: /programme
+    sublinks:
+      - title: Day 1
+        url: /prog-day1
+      - title: Day 2
+        url: /prog-day2
   - title: Registration
     url: /registration/
     sublinks:
@@ -16,10 +23,3 @@ links:
         url: /registration-tc/
   - title: Call for Abstracts
     url: https://form.gov.sg/67490f3d961741ba92f8436d
-  - title: Programme
-    url: /programme
-    sublinks:
-      - title: Day 1
-        url: /prog-day1
-      - title: Day 2
-        url: /prog-day2
