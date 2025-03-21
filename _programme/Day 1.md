@@ -8,7 +8,8 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/v1_Approved_Design___Day_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/v2_Approved_Design___Day_1.png">
 </div>
 <p></p>
