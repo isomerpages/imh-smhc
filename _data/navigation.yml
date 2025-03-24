@@ -7,6 +7,13 @@ links:
         url: /about-smhc/
       - title: Past SMHC
         url: /past-smhc/
+  - title: Programme
+    url: /prog-day1
+    sublinks:
+      - title: Day 1
+        url: /prog-day1
+      - title: Day 2
+        url: /prog-day2
   - title: Registration
     url: /registration/
     sublinks:
