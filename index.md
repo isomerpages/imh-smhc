@@ -39,7 +39,7 @@ sections:
       description: To view the programme, please click here.
       image: /images/R6M29260.jpg
       alt: Image alt text
-      button: here
+      button: View Full Programme
       url: /prog-day1
   - infopic:
       title: Tracks
