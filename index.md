@@ -36,9 +36,11 @@ sections:
   - infopic:
       title: Programme
       id: infopic
-      description: We are in the process of developing a compelling programme.
+      description: To view the programme, please click here.
       image: /images/R6M29260.jpg
       alt: Image alt text
+      button: here
+      url: /prog-day1
   - infopic:
       title: Tracks
       id: infopic
