@@ -81,6 +81,6 @@ sections:
       image: /images/past_highlights.png
   - infopic:
       id: infopic
-      image: /images/logo_20Feb.png
+      image: /images/Bottom_Main_Page_logo_design_v1_.png
       alt: Image alt text
 ---
