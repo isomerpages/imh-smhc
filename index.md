@@ -26,6 +26,7 @@ sections:
       id: infopic
       image: /images/Bottom_Main_Page_logo_design_v1_.png
       alt: Image alt text
+      title: "Organised by:"
   - infobar:
       title: Reimagining Mental Health. Empowering Lives.
       subtitle: SMHC 2025 Theme
