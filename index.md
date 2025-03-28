@@ -22,6 +22,11 @@ sections:
         - title: Call for Abstracts
           description: Submit here
           url: https://form.gov.sg/67490f3d961741ba92f8436d
+  - infopic:
+      title: "Organised by:"
+      id: infopic
+      image: /images/top_logo_for_main_page.png
+      alt: Image alt text
   - infobar:
       title: Reimagining Mental Health. Empowering Lives.
       subtitle: SMHC 2025 Theme
