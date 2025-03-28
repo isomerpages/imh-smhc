@@ -12,7 +12,8 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Day_1_V2_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programme_Day_1_V2_2.png">
 </div>
 <p>*Programme details may be subject to change</p>
