@@ -1,5 +1,5 @@
 ---
-title: Mission & Vision
+title: About SMHC
 permalink: /about-smhc/
 variant: tiptap
 description: ""
