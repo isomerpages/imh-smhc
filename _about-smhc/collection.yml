@@ -2,7 +2,7 @@ collections:
   about-smhc:
     output: true
     order:
-      - Advisory Committee.md
-      - Organising Committee.md
       - Mission & Vision.md
       - Past SMHC.md
+      - Advisory Committee.md
+      - Organising Committee.md
