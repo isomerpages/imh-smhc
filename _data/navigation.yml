@@ -25,12 +25,3 @@ links:
         url: /registration/
       - title: Terms and Conditions
         url: /registration-tc/
-  - title: Committee Members
-    url: /advisory-committee
-    sublinks:
-      - title: Advisory Committee
-        url: /advisory-committee
-      - title: Organising Committee
-        url: /organising-committee
-  - title: Call for Abstracts
-    url: https://form.gov.sg/67490f3d961741ba92f8436d
