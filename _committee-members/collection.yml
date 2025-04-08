@@ -1,5 +1,4 @@
 collections:
   committee-members:
     output: true
-    order:
-      - Advisory Committee.md
+    order: []
