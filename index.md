@@ -51,11 +51,9 @@ sections:
   - infopic:
       title: Abstracts
       id: infopic
-      description: SMHC invites abstract submission on mental health.
+      description: The submission deadline is closed.
       alt: Image alt text
       image: /images/6I0A9316.jpg
-      button: click here to submit
-      url: https://form.gov.sg/67490f3d961741ba92f8436d
   - infopic:
       title: Registration
       id: infopic
