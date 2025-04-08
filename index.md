@@ -19,9 +19,6 @@ sections:
         - title: Registration
           description: Click here
           url: /registration/
-        - title: Call for Abstracts
-          description: Submit here
-          url: https://form.gov.sg/67490f3d961741ba92f8436d
   - infopic:
       title: "Organised by:"
       id: infopic
