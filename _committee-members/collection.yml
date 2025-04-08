@@ -2,4 +2,5 @@ collections:
   committee-members:
     output: true
     order:
+      - Organising Committee.md
       - Advisory Committee.md
