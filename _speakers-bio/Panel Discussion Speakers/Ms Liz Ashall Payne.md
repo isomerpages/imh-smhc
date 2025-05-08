@@ -23,3 +23,8 @@ of Warwick.</p>
 She is a trusted Ambassador for the UK Department for Business and Trade
 and advises on digital innovation as Entrepreneur in Residence at the University
 of Plymouth, shaping the future of healthcare worldwide.</p>
+<hr>
+<p>Panel Discussion Title: Is Digitalisation in Mental Health an Enabler
+or a Detriment?</p>
+<p>Date: 17 July 2025, Thursday</p>
+<p>Time: 9:00 AM</p>
