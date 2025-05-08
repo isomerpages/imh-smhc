@@ -21,3 +21,8 @@ alma mater.</p>
 <p>In his free time, he prioritises and enjoys being with his family and
 his multiple pets (furries and creepy crawlies). And as opportunities present,
 he indulges in playing acoustic guitar, reading, skipping and inline skating.</p>
+<hr>
+<p>Plenary Title: Building Psychologically Safe Workplaces</p>
+<p>Date: 17 July 2025, Thursday</p>
+<p>Time: 11.15 AM</p>
+<p>Breakout Session: Track 3 - Inclusive Workplace &amp; Community</p>
