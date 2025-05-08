@@ -16,7 +16,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/enoc-li/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Enoc_Li.png">
 </a><a class="isomer-image-wrapper" href="/krista-vanderheide/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Krista_Vanderheide.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/swapna-k-verma/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail___A_Prof_Swapna_K_Verma.png">
+</a>
 <p></p>
 <p></p>
 <p></p>
@@ -25,7 +27,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/fahim-fazil/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mr_Fahim_Fazil.png">
 </a><a class="isomer-image-wrapper" href="/liz-ashall-payne/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Liz_Ashall_Payne.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/tan-weng-mooi/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Dr__Tan_Weng_Mooi.png">
+</a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -33,7 +37,7 @@ description: ""
 </div><a class="isomer-image-wrapper" href="/joseph-kalaivanar/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mr_Joseph_Kalaivanar.png"></a>
 <a class="isomer-image-wrapper" href="/rebecca-loh/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Rebecca_Loh.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/yew-woon-wah/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mdm_Yew_Woon_Wah.png"></a>
 </td>
 </tr>
 </tbody>
