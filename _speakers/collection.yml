@@ -2,6 +2,7 @@ collections:
   speakers:
     output: true
     order:
+      - Plenary Speakers/Bernadette.md
       - Plenary Speakers/Plenary Speakers (thumbnail).md
       - Plenary Speakers/.keep
       - Track Speakers/.keep
