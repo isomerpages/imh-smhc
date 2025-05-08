@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Plenary Speakers
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Plenary_Dr_Jill_Murphy.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Plenary__Dr_Jill_Murphy_v1.png">
 </div>
 <p>Dr. Jill Murphy is the Executive Director of the APEC Digital Hub for
 Mental Health. She is also the Research Chair in Mental Health and Addictions
