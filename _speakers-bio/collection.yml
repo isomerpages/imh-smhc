@@ -2,11 +2,11 @@ collections:
   speakers-bio:
     output: true
     order:
-      - Plenary Speakers/Dr Jill Murphy.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Ms Bernadette Loh.md
       - Plenary Speakers/Mr Frank Ng.md
       - Plenary Speakers/Mr Goh Zhengqin.md
       - Plenary Speakers/Professor Guan Cuntai.md
+      - Plenary Speakers/Dr Jill Murphy.md
       - Track Speakers/.keep
       - Panel Discussion Speakers/.keep
