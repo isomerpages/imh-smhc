@@ -16,3 +16,8 @@ Pacific. Prior to Intellect, he has worked in a range of regional and global
 roles across Reckitt, Uber, and the Singapore government. He is passionate
 about making mental health in Singapore and beyond accessible, relatable,
 and stigma-free.</p>
+<hr>
+<p>Plenary Title: Building Psychologically Safe Workplaces</p>
+<p>Date: 17 July 2025, Thursday</p>
+<p>Time: 11.15 AM</p>
+<p>Breakout Session: Track 3 - Inclusive Workplace &amp; Community</p>
