@@ -24,7 +24,7 @@ Academy of Engineering.</p>
 <p>Breakout Session: Track 1 - Digital Mental Health &amp; Artificial Intelligence</p>
 <hr>
 <p></p>
-<p>Speaker's Abstract</p>
+<p>Plenary Abstract</p>
 <p>Artificial Intelligence (AI) is rapidly transforming many aspects of our
 lives, and healthcare stands out as one of the key fields experiencing
 profound changes. Mental health care, in particular, is poised to significantly
