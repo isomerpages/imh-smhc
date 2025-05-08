@@ -2,6 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Panel Discussion Speakers/.keep
-      - Track Speakers/.keep
       - Plenary Speakers/.keep
+      - Track Speakers/.keep
+      - Panel Discussion Speakers/.keep
