@@ -2,7 +2,6 @@ collections:
   speakers-bio:
     output: true
     order:
-      - Plenary Speakers/Ms Suyin Tay.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Ms Bernadette Loh.md
       - Plenary Speakers/Mr Frank Ng.md
@@ -12,5 +11,6 @@ collections:
       - Plenary Speakers/Ms Katherine Hay.md
       - Plenary Speakers/Dr Lim Choon Guan.md
       - Plenary Speakers/Dr Romulo de Castro.md
+      - Plenary Speakers/Ms Suyin Tay.md
       - Track Speakers/.keep
       - Panel Discussion Speakers/.keep
