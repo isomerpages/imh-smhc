@@ -12,3 +12,8 @@ third_nav_title: Plenary Speakers
 to be an advocate in more than one sense. Bernadette draws from her lived
 experiences with depression and ADHD, striving daily to be a more empathetic
 and nurturing peer supporter and colleague.</p>
+<hr>
+<p>Plenary Title: Building Psychologically Safe Workplaces</p>
+<p>Date: 17 July 2025, Thursday</p>
+<p>Time: 11.15 AM</p>
+<p>Breakout Session: Track 3 - Inclusive Workplace &amp; Community</p>
