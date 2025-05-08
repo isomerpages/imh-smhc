@@ -2,7 +2,7 @@ collections:
   speakers-bio:
     output: true
     order:
-      - Panel Discussion Speakers/.keep
-      - Track Speakers/.keep
-      - Plenary Speakers/Ms Bernadette Loh.md
       - Plenary Speakers/.keep
+      - Plenary Speakers/Ms Bernadette Loh.md
+      - Track Speakers/.keep
+      - Panel Discussion Speakers/.keep
