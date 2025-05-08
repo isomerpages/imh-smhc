@@ -25,11 +25,7 @@ description: ""
 <p></p>
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Thumbnail_Ms_Bernadette_Loh.png">
-</div>
-<p></p>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/goh-zhengqin/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Goh_Zhengqin.png"></a>
 <p></p>
 <p></p>
 <p></p>
