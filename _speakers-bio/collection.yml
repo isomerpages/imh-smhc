@@ -2,5 +2,6 @@ collections:
   speakers-bio:
     output: true
     order:
+      - Panel Discussion Speakers/.keep
       - Track Speakers/.keep
       - Plenary Speakers/.keep
