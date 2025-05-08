@@ -31,13 +31,13 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Dr__Tan_Weng_Mooi.png">
 </a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Cat_Pham.png">
-</div><a class="isomer-image-wrapper" href="/joseph-kalaivanar/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mr_Joseph_Kalaivanar.png"></a>
-<a class="isomer-image-wrapper" href="/rebecca-loh/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Rebecca_Loh.png">
-</a><a class="isomer-image-wrapper" href="/yew-woon-wah/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mdm_Yew_Woon_Wah.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/cat-pham/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Cat_Pham.png"></a>
+<a class="isomer-image-wrapper" href="/joseph-kalaivanar/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mr_Joseph_Kalaivanar.png">
+</a><a class="isomer-image-wrapper" href="/rebecca-loh/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Rebecca_Loh.png"></a>
+<a class="isomer-image-wrapper" href="/yew-woon-wah/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mdm_Yew_Woon_Wah.png">
+</a>
 </td>
 </tr>
 </tbody>
