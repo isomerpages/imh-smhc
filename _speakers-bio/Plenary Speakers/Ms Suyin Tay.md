@@ -18,3 +18,8 @@ and as Curriculum Design Consultant for Generation, McKinsey's transformative
 social initiative. Recognised as an Obama Asia Pacific Leader, Suyin is
 also a certified Six Seconds EQ Master Trainer and leads EQ curriculum
 and strategies at Bettr.</p>
+<hr>
+<p>Plenary Title: Building Psychologically Safe Workplaces</p>
+<p>Date: 17 July 2025, Thursday</p>
+<p>Time: 11.15 AM</p>
+<p>Breakout Session: Track 3 - Inclusive Workplace &amp; Community</p>
