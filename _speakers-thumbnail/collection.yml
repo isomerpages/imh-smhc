@@ -2,6 +2,6 @@ collections:
   speakers-thumbnail:
     output: true
     order:
-      - Panel Discussion Speakers.md
-      - Track Speakers.md
       - Plenary Speakers.md
+      - Track Speakers.md
+      - Panel Discussion Speakers.md
