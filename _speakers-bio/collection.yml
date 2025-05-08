@@ -2,6 +2,7 @@ collections:
   speakers-bio:
     output: true
     order:
+      - Plenary Speakers/Mr Frank Ng.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Ms Bernadette Loh.md
       - Track Speakers/.keep
