@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Plenary Speakers
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Plenary_Dr_Romulo_de_Castro.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Plenary__Dr_Romulo_de_Castro_v1.png">
 </div>
 <p>Dr. Romulo de Castro is a neuroscientist and health informatician. He
 is the Director of the Center for Informatics at the University of San
