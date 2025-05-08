@@ -1,4 +1,5 @@
 collections:
   speakers-thumbnail:
     output: true
-    order: []
+    order:
+      - Plenary Speakers.md
