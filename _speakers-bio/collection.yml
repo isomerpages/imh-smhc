@@ -1,0 +1,4 @@
+collections:
+  speakers-bio:
+    output: true
+    order: []
