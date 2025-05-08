@@ -2,8 +2,8 @@ collections:
   speakers:
     output: true
     order:
-      - Panel Discussion Speakers.md
-      - Track Speakers.md
       - Plenary Speakers.md
+      - Track Speakers.md
+      - Panel Discussion Speakers.md
       - Plenary Speakers/.keep
       - Plenary Speakers/Overview.md
