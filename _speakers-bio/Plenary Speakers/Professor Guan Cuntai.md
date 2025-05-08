@@ -18,7 +18,7 @@ rehabilitation, mental health, and cognitive enhancement. He is an elected
 Fellow of IEEE, AIMBE, the US National Academy of Inventors, and the Singapore
 Academy of Engineering.</p>
 <hr>
-<p>Topic: Leveraging AI in Mental Health Care</p>
+<p>Plenary Title: Leveraging AI in Mental Health Care</p>
 <p>Date: 17 July 2025, Thursday</p>
 <p>Time: 11.15AM</p>
 <p>Breakout Session: Track 1 - Digital Mental Health &amp; Artificial Intelligence</p>
