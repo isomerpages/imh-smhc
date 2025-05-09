@@ -18,15 +18,15 @@ each other to progress in their mental health journeys together. Fahim
 facilitates peer support circles attended by young adults struggling with
 mental health, and occasionally leads workshops and other peer-driven engagement
 activities, all aimed at empowering peers – individuals who are diagnosed
-with mental health conditions or seeking support - to lead thriving lives.</p>
-<p>A person in recovery himself, Fahim’s battle with depression for the last
+with mental health conditions or seeking support - to lead thriving lives.
+<br>A person in recovery himself, Fahim’s battle with depression for the last
 decade has led him to discover various routes of recovery, igniting his
 desire to give back to the community. Fahim is an avid writer and a fur
 parent to his cat, Lucky.</p>
 <hr>
 <p>Panel Discussion Title: Road to Recovery: Helping Youths and Families
-Find the Light in their Mental Health Recovery</p>
-<p>Date: 16 July 2025, Wednesday</p>
-<p>Time: 1:35 PM</p>
-<p>Breakout Session: Track 4 – Voices from the Community</p>
+Find the Light in their Mental Health Recovery
+<br>Date: 16 July 2025, Wednesday
+<br>Time: 1:35 PM
+<br>Breakout Session: Track 4 – Voices from the Community</p>
 <p></p>
