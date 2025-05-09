@@ -27,7 +27,7 @@ Antigonish, Nova Scotia in Eastern Canada.</p>
 Technologies to Promote Equitable Access to Mental Health Promotion and
 Care in the APEC Region
 <br>Date: 16 July 2025, Wednesday
-<br>Time: 9.25AM</p>
+<br>Time: 9.25 AM</p>
 <hr>
 <p><strong>Plenary Abstract</strong>
 <br>The Asia Pacific Economic Cooperation (APEC) Digital Hub for Mental Health
