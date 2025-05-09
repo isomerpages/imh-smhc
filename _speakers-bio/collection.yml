@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Plenary Speakers/.keep
-      - Plenary Speakers/Ms Bernadette Loh.md
       - Plenary Speakers/Mr Frank Ng.md
       - Plenary Speakers/Mr Goh Zhengqin.md
       - Plenary Speakers/Professor Guan Cuntai.md
