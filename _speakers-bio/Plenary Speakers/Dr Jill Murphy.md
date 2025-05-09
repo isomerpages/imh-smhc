@@ -40,9 +40,7 @@ support of sustainable economic growth. The <em>Roadmap</em> acknowledges
 the potential of digital technologies to support access to mental health
 promotion, prevention, screening and treatment across several priority
 focus areas.
-<br>
-</p>
-<p>Digital technologies are increasingly recognised as effective and acceptable
+<br>Digital technologies are increasingly recognised as effective and acceptable
 methods of delivering mental health prevention, promotion and care interventions.
 Despite this, ongoing efforts are required to understand how these can
 be delivered equitably among diverse populations, and how to promote uptake,
@@ -60,4 +58,3 @@ study, which seeks to promote youth well-being and resilience via a co-designed
 app for secondary school students in Vietnam. Reflections and recommendations
 about promoting mental health equity and the sustained uptake of digital
 mental health technologies within diverse contexts will be provided.</p>
-<p></p>
