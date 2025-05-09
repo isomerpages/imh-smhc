@@ -20,10 +20,12 @@ Beyond his professional work, he brings powerful conversations to the stage
 as a playwright and actor, using theatre to explore mental health, identity,
 and peer support. In recognition of his contributions to mental health
 in Singapore, he was honoured with an award by President Tharman Shanmugaratnam
-in 2024.&nbsp;&nbsp;</p>
+in 2024.&nbsp;&nbsp;
+<br>
+</p>
 <hr>
 <p>Panel Discussion Title: Championing Well-being Cultivating Community:
-Strengthening Workplace Mental Health Through Peer Support</p>
-<p>Date: 17 July 2025, Thursday</p>
-<p>Time: 11:15 AM</p>
-<p>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
+Strengthening Workplace Mental Health Through Peer Support
+<br>Date: 17 July 2025, Thursday
+<br>Time: 11:15 AM
+<br>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
