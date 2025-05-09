@@ -21,3 +21,11 @@ community integration.</p>
 <br>Date: 17 July 2025, Thursday
 <br>Time: 11.15 AM
 <br>Breakout Session: Track 3 - Inclusive Workplace &amp; Community</p>
+<hr>
+<p><strong>Plenary Abstract</strong>
+<br>Join our panel discussion on workplace psychological safety and mental
+health support. Discover how these essential elements interweave to provide
+enhanced support for individuals experiencing mental health challenges.
+Our panellists will explore how psychological safety fosters workplace
+mental wellbeing, whilst examining ways to reduce stigma and cultivate
+meaningful conversations about mental health in the workplace.</p>
