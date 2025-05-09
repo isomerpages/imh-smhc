@@ -9,5 +9,5 @@ third_nav_title: Panel Discussion Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Panel_Discussion__Ms_Ayu_Regina_Yolandasari.png">
 </div>
-<p><strong>Speaker Profile to be published soon.</strong>
+<p><strong>Speaker Profile to be published soon</strong>
 </p>
