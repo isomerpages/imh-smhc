@@ -13,18 +13,18 @@ her contributions across policy, industry, academia, and innovation. With
 a clinical background in the NHS, she has dedicated her career to leveraging
 digital technology to enhance health outcomes and system efficiency globally.
 Liz serves as a Board Member at Tech UK and Vice-Chair of its Health and
-Social Care Council, influencing national digital health policy.</p>
-<p>She supports the next generation of healthcare innovators as an NHS England
+Social Care Council, influencing national digital health policy.
+<br>She supports the next generation of healthcare innovators as an NHS England
 NIA Alumni Fellow and Coach for the NHS Clinical Entrepreneur Programme.
 Liz also contributes to academia as an Honorary Lecturer at the University
 of Central Lancashire and an Honorary Research Fellow at the University
-of Warwick.</p>
-<p>As the Founder of ORCHA Health UK, Liz leads global digital health accreditation.
+of Warwick.
+<br>As the Founder of ORCHA Health UK, Liz leads global digital health accreditation.
 She is a trusted Ambassador for the UK Department for Business and Trade
 and advises on digital innovation as Entrepreneur in Residence at the University
 of Plymouth, shaping the future of healthcare worldwide.</p>
 <hr>
 <p>Panel Discussion Title: Is Digitalisation in Mental Health an Enabler
-or a Detriment?</p>
-<p>Date: 17 July 2025, Thursday</p>
-<p>Time: 9:00 AM</p>
+or a Detriment?
+<br>Date: 17 July 2025, Thursday
+<br>Time: 9:00 AM</p>
