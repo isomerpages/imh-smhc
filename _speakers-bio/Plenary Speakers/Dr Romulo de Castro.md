@@ -23,12 +23,12 @@ and The Burnham Institute (San Diego, CA), and previously worked as a program
 officer of Autism Speaks.</p>
 <hr>
 <p>Plenary Title: ATIPAN: From Telehealth to Digital Mental Health in Marginalized
-Communities</p>
-<p>Date: 16 July 2025, Wednesday</p>
-<p>Time: 10.40 AM</p>
+Communities
+<br>Date: 16 July 2025, Wednesday
+<br>Time: 10.40 AM</p>
 <hr>
-<p>Plenary Abstract</p>
-<p>The ATIPAN Project was originally a social protection program that facilitated
+<p><strong>Plenary Abstract</strong>
+<br>The ATIPAN Project was originally a social protection program that facilitated
 access to healthcare services for remote underserved Indigenous and rural
 low-income communities in Western Visayas (Region 6, Philippines) during
 the COVID-19 pandemic. It has been proposed as a community-based digital
