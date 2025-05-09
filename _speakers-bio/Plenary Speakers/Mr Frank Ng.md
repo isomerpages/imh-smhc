@@ -17,7 +17,7 @@ roles across Reckitt, Uber, and the Singapore government. He is passionate
 about making mental health in Singapore and beyond accessible, relatable,
 and stigma-free.</p>
 <hr>
-<p>Plenary Title: Building Psychologically Safe Workplaces</p>
-<p>Date: 17 July 2025, Thursday</p>
-<p>Time: 11.15 AM</p>
-<p>Breakout Session: Track 3 - Inclusive Workplace &amp; Community</p>
+<p>Plenary Title: Building Psychologically Safe Workplaces
+<br>Date: 17 July 2025, Thursday
+<br>Time: 11.15 AM
+<br>Breakout Session: Track 3 - Inclusive Workplace &amp; Community</p>
