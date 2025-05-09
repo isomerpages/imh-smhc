@@ -22,3 +22,10 @@ National Healthcare Group and IMH institutional review boards, and is a
 senior editor with the peer-reviewed open-access journal ‘Child and Adolescent
 Psychiatry and Mental Health’. Dr Lim is also a board member with the charity
 organisation, Silver Ribbon Singapore.</p>
+<hr>
+<p>Plenary Title: The Use of Technology in Child &amp; Adolescent Mental
+Health Service
+<br>Date: 16 July 2025, Wednesday
+<br>Time: 11.40 AM
+<br>
+</p>
