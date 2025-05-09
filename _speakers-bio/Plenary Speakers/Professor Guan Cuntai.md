@@ -20,7 +20,7 @@ Academy of Engineering.</p>
 <hr>
 <p>Plenary Title: Leveraging AI in Mental Health Care
 <br>Date: 17 July 2025, Thursday
-<br>Time: 11.15AM
+<br>Time: 11.15 AM
 <br>Breakout Session: Track 1 - Digital Mental Health &amp; Artificial Intelligence</p>
 <hr>
 <p><strong>Plenary Abstract</strong>
