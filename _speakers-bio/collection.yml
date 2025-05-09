@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Plenary Speakers/.keep
-      - Plenary Speakers/Professor Guan Cuntai.md
       - Plenary Speakers/Dr Jill Murphy.md
       - Plenary Speakers/Ms Katherine Hay.md
       - Plenary Speakers/Dr Lim Choon Guan.md
