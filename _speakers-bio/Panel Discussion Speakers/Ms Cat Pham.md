@@ -22,7 +22,7 @@ that promote connection between age groups and support sustainable models
 of care.</p>
 <hr>
 <p>Panel Discussion Title: Digital Mental Health and Co-Design: Lived Experience
-Perspectives</p>
-<p>Date: 16 July 2025, Wednesday</p>
-<p>Time: 1:35 PM</p>
-<p>Breakout Session: Track 1 – Digital Mental Health &amp; Artificial Intelligence</p>
+Perspectives
+<br>Date: 16 July 2025, Wednesday
+<br>Time: 1:35 PM
+<br>Breakout Session: Track 1 – Digital Mental Health &amp; Artificial Intelligence</p>
