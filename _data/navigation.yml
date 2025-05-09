@@ -18,6 +18,15 @@ links:
         url: /prog-day1
       - title: Day 2
         url: /prog-day2
+  - title: Speakers
+    url: /plenary-speakers/
+    sublinks:
+      - title: Plenary Speakers
+        url: /plenary-speakers/
+      - title: Track Speakers
+        url: /track-speakers/
+      - title: Panel Discussion Speakers
+        url: /panel-speakers/
   - title: Registration
     url: /registration/
     sublinks:
