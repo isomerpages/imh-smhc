@@ -18,6 +18,6 @@ health and community care to be person-centric, empowering, holistic and
 nature-integrated particularly in mental health and dementia care.</p>
 <hr>
 <p>Panel Discussion Title: Is Digitalisation in Mental Health an Enabler
-or a Detriment?</p>
-<p>Date: 17 July 2025, Thursday</p>
-<p>Time: 9:00 AM</p>
+or a Detriment?
+<br>Date: 17 July 2025, Thursday
+<br>Time: 9:00 AM</p>
