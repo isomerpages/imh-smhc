@@ -25,12 +25,12 @@ Antigonish, Nova Scotia in Eastern Canada.</p>
 <hr>
 <p>Plenary Title: The APEC Digital Hub for Mental Health: Leveraging Digital
 Technologies to Promote Equitable Access to Mental Health Promotion and
-Care in the APEC Region</p>
-<p>Date: 16 July 2025, Wednesday</p>
-<p>Time: 9.25AM</p>
+Care in the APEC Region
+<br>Date: 16 July 2025, Wednesday
+<br>Time: 9.25AM</p>
 <hr>
-<p>Plenary Abstract</p>
-<p>The Asia Pacific Economic Cooperation (APEC) Digital Hub for Mental Health
+<p><strong>Plenary Abstract</strong>
+<br>The Asia Pacific Economic Cooperation (APEC) Digital Hub for Mental Health
 (‘the Digital Hub’) is hosted in Canada with the collaboration of people
 with lived and living experiences, researchers, clinicians, and policy
 makers from across the APEC region. The <em>2021-2030 Roadmap to Promote Mental Wellness in a Healthy Asia Pacific</em> (‘the
@@ -39,8 +39,9 @@ continue strengthening mental health systems and promoting well-being in
 support of sustainable economic growth. The <em>Roadmap</em> acknowledges
 the potential of digital technologies to support access to mental health
 promotion, prevention, screening and treatment across several priority
-focus areas.</p>
-<p></p>
+focus areas.
+<br>
+</p>
 <p>Digital technologies are increasingly recognised as effective and acceptable
 methods of delivering mental health prevention, promotion and care interventions.
 Despite this, ongoing efforts are required to understand how these can
