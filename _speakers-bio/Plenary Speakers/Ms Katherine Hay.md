@@ -26,4 +26,4 @@ from the Governor General of Canada in 2025.</p>
 <hr>
 <p>Plenary Title: Unlocking Mental Health Care through e-solutions.
 <br>Date: 17 July 2025, Thursday
-<br>Time: 11.00 AM</p>
+<br>Time: 10.15 AM</p>
