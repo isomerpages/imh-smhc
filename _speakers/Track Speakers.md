@@ -22,7 +22,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<blockquote>
-<h4><strong>More Speakers Profile to be published soon</strong></h4>
-</blockquote>
+<p>More Speakers Profile to be published soon</p>
 <p></p>
