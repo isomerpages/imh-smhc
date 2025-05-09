@@ -24,5 +24,5 @@ base camp is one of the items she aspires to check off.</p>
 <p>Panel Discussion Title: Road to Recovery: Helping Youths and Families
 Find the Light in their Mental Health Recovery
 <br>Date: 16 July 2025, Wednesday
-<br>Time: 1:35 PM
+<br>Time: 3:05 PM
 <br>Breakout Sesion: Track 4 – Voices from the Community</p>
