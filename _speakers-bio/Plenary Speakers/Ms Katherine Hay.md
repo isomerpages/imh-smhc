@@ -12,18 +12,18 @@ third_nav_title: Plenary Speakers
 <p>Katherine (Kathy) Hay is the President and CEO of Kids Help Phone (KHP),
 Canada's first and only free, national, multilingual, 24/7 e-mental health
 solution and a global leader in youth mental health innovation. In March
-2025, she was appointed to serve in the Senate of Canada.</p>
-<p>Her visionary and strategic leadership has guided KHP through a period
+2025, she was appointed to serve in the Senate of Canada.
+<br>Her visionary and strategic leadership has guided KHP through a period
 of remarkable growth and innovation. Since January 2020, KHP has supported
 youth across Canada more than 22 million times, fuelled by new technologies,
-data insights, and a focus on equity and inclusion.</p>
-<p>Kathy is a passionate&nbsp;and action-oriented leader with a proven track
+data insights, and a focus on equity and inclusion.
+<br>Kathy is a passionate&nbsp;and action-oriented leader with a proven track
 record in driving a meaningful system solution across Canada throughout
 her more than 20 years of exceptional service in senior leadership roles
 in the not-for-profit and financial services sectors. In recognition of
 her contributions, Kathy was awarded a King Charles III Coronation Medal
 from the Governor General of Canada in 2025.</p>
 <hr>
-<p>Plenary Title: Unlocking Mental Health Care through e-solutions.</p>
-<p>Date: 17 July 2025, Thursday</p>
-<p>Time: 11.00am</p>
+<p>Plenary Title: Unlocking Mental Health Care through e-solutions.
+<br>Date: 17 July 2025, Thursday
+<br>Time: 11.00am</p>
