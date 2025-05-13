@@ -15,10 +15,7 @@ description: ""
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ainul-abubakar/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Ainul_Abubakar.png"></a>
 <a class="isomer-image-wrapper" href="/prof-andi/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Andi_Jayalangkara_Tanra.png">
-</a>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Asher_Low.png">
-</div>
+</a><a class="isomer-image-wrapper" href="/asher-low/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Asher_Low.png"></a>
 <p></p><a class="isomer-image-wrapper" href="/chris-tan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Chris_Tan.png"></a>
 <p></p>
 <p></p>
