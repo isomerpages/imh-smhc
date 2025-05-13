@@ -13,15 +13,23 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ainul-abubakar/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Ainul_Abubakar.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/prof-andi/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Andi_Jayalangkara_Tanra.png">
+</a>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
+<a class="isomer-image-wrapper" href="/andrew-greenshaw/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Prof_Andrew_Greenshaw.png">
+</a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alvin-lum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Alvin_Lum.png"></a>
+<a class="isomer-image-wrapper" href="/anita-low-lim/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mrs_Anita_Low.png">
+</a>
 </td>
 </tr>
 </tbody>
