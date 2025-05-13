@@ -19,7 +19,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Asher_Low.png">
 </div>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/chris-tan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Chris_Tan.png"></a>
 <p></p>
 <p></p>
 </td>
@@ -31,7 +31,7 @@ description: ""
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alvin-lum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Alvin_Lum.png"></a>
 <a class="isomer-image-wrapper" href="/anita-low-lim/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mrs_Anita_Low.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/bettina-yeap/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Bettina_Yeap.png"></a>
 </td>
 </tr>
 </tbody>
