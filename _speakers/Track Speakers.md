@@ -22,6 +22,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/fu-danfeng/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Fu_Danfeng.png">
 </a><a class="isomer-image-wrapper" href="/james-cheong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_James_Cheong.png"></a>
+<a class="isomer-image-wrapper" href="/janhavi-ajit-vaingankar/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Janhavi_Ajit.png">
+</a><a class="isomer-image-wrapper" href="/joseph-kalaivanar/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mr_Joseph_Kalaivanar.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
 <a class="isomer-image-wrapper" href="/andrew-greenshaw/">
@@ -33,6 +36,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/germaine-chua/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Germaine_Chua_Gek_Lin.png">
 </a><a class="isomer-image-wrapper" href="/james-tan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_James_Tan.png"></a>
+<a class="isomer-image-wrapper" href="/jasper-lim/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Jasper_Lim.png">
+</a><a class="isomer-image-wrapper" href="/jungup-lee/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_A_Prof_Jungup_Lee.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alvin-lum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Alvin_Lum.png"></a>
 <a class="isomer-image-wrapper" href="/anita-low-lim/">
@@ -43,6 +49,9 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/frilya-rachma-putri/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Frilya_Rachma_Putri.png"></a>
 <a class="isomer-image-wrapper" href="/guan-cuntai/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Professor_Guan_Cuntai.png">
+</a><a class="isomer-image-wrapper" href="/jamie-soo/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Jamie_Soo.png"></a>
+<a class="isomer-image-wrapper" href="/john-lam/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_John_Lam.png">
 </a>
 </td>
 </tr>
