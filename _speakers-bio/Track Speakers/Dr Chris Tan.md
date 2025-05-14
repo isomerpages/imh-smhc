@@ -26,7 +26,8 @@ work in community mental health.</p>
 <p>Track Title: Beyond the Clutter: Understanding and Managing Hoarding in
 the Elderly
 <br>Date: 16 July 2025, Wednesday
-<br>Time: 4.05 PM</p>
+<br>Time: 4.05 PM
+<br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
 <p><strong>Synopsis of Talk:</strong>
 <br>Hoarding presents unique challenges in the elderly population, with significant
 implications for personal well-being, safety, and community health. This
