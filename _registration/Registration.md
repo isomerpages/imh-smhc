@@ -4,13 +4,14 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Registration is open!</strong></h1>
+<h1><strong>Early Bird Rate Extended to 15 June 2025!</strong></h1>
 <p></p><a class="isomer-image-wrapper" href="https://app.swapcard.com/login/event/smhc-2025/registration"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v5.png"></a>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Price_Registration_table_v3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/early_bird_rate.png">
 </div>
 <p><strong>*Price is per pax.</strong>
 <br><strong>*All prices are quoted in Singapore Dollars (SGD). A 9% Goods and Services Tax (GST) will apply.</strong>
