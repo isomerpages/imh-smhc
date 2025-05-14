@@ -25,4 +25,5 @@ at the Research Department at IMH.</p>
 <p>Track Title: Management of Patient with Mental Health Condition in the
 Community
 <br>Date: 17 July 2025, Thursday
-<br>Time: 1.40 PM</p>
+<br>Time: 1.40 PM
+<br>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
