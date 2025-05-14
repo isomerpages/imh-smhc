@@ -26,4 +26,5 @@ with a research focus in neuroscience, AI, and e-mental health.</p>
 <hr>
 <p>Track Title: Transforming Mental Health Support Through AI
 <br>Date: 17 July 2025, Thursday
-<br>Time: 12.00 PM</p>
+<br>Time: 12.00 PM
+<br>Breakout Session: Track 1 – Digital Mental Health &amp; Artificial Intelligence</p>
