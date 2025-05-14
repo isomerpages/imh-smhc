@@ -23,4 +23,5 @@ and supports TOUCH’s leadership in implementing <em>Beyond the Label</em>.</p>
 <p>Track Title: Beyond the Label: Collective Impact Approach to Addressing
 Mental Health Stigma and Well-Being in Singapore
 <br>Date: 16 July 2025, Wednesday
-<br>Time: 2.35 PM</p>
+<br>Time: 2.35 PM
+<br>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
