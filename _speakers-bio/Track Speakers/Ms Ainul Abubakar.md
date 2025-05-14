@@ -25,4 +25,6 @@ Sciences.
 <p>Track Title: Thrive Together: A Community Mental Well-being Initiative
 for Seniors
 <br>Date: 17 July 2025, Thursday
-<br>Time: 1.40 PM</p>
+<br>Time: 1.40 PM
+<br>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
+<p></p>
