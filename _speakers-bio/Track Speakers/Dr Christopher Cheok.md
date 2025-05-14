@@ -25,4 +25,16 @@ and over 20 research papers in peer-reviewed journals.</p>
 <p>Track Title: Transforming Mental Health Services through Technology
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 4.05 PM
-<br>Breakout Session: Track 1 – Digital Mental Health &amp; Artificial Intelligence</p>
+<br>Breakout Session: Track 1 – Digital Mental Health &amp; Artificial Intelligence
+<br>
+</p>
+<p><strong>Synopsis</strong>
+<br>The integration of technology into mental health services, including internet-based
+cognitive behavioural therapy (iCBT), is transforming accessibility, efficiency,
+and personalization. Digital platforms, such as telehealth, mental health
+apps, and iCBT programs, remove geographical and social barriers, offering
+individuals immediate and structured support from the comfort of their
+homes. Advanced technologies like artificial intelligence improveefficiency,
+while iCBT provides evidence-based interventions tailored to individual
+needs. &nbsp;Together, these innovations redefine how we approach mental
+health care with empathy and precision.</p>
