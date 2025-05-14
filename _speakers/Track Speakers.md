@@ -22,7 +22,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/fu-danfeng/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Fu_Danfeng.png">
 </a>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_James_Cheong.png">
+</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
 <a class="isomer-image-wrapper" href="/andrew-greenshaw/">
@@ -42,7 +44,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/christopher-cheok/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Adj_Associate_Professor_Dr_Christopher_Cheok.png">
 </a><a class="isomer-image-wrapper" href="/frilya-rachma-putri/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Frilya_Rachma_Putri.png"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="/guan-cuntai/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Professor_Guan_Cuntai.png">
+</a>
 </td>
 </tr>
 </tbody>
