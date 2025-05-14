@@ -41,4 +41,5 @@ spirit of a Dementia-Friendly Singapore.</p>
 <hr>
 <p>Track Title: Living with Dementia and Not Stopping
 <br>Date: 17 July 2025, Thursday
-<br>Time: 4.10 PM</p>
+<br>Time: 4.10PM
+<br>Breakout Session: Track 4 – Voices From The Community</p>
