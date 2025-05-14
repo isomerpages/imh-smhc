@@ -29,4 +29,5 @@ and President of the Indonesian Psychiatric Association (IPA).</p>
 <hr>
 <p>Track Title: Artificial Intelligence and Its Negative Impact on Neurobiology
 <br>Date: 17 July 2025, Thursday
-<br>Time: 4.10 PM</p>
+<br>Time: 4.10 PM
+<br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
