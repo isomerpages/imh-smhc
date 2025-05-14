@@ -21,4 +21,5 @@ living with dementia and their caregivers.</p>
 <hr>
 <p>Track Title: CARA - Building a Digital Dementia Community
 <br>Date: 16 July 2025, Wednesday
-<br>Time: 1.35 PM</p>
+<br>Time: 1.35 PM
+<br>Breakout Session: Track 1 – Digital Mental Health &amp; Artificial Intelligence</p>
