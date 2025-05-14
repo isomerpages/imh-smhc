@@ -21,10 +21,7 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/damien-lain/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Damien_Lain_Lai_Ping_v1.png"></a>
 <a class="isomer-image-wrapper" href="/fu-danfeng/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Fu_Danfeng.png">
-</a>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_James_Cheong.png">
-</div>
+</a><a class="isomer-image-wrapper" href="/james-cheong/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_James_Cheong.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
 <a class="isomer-image-wrapper" href="/andrew-greenshaw/">
@@ -35,7 +32,7 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/daniel-fung/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Adj_A_Prof_Daniel_Fung_Shuen_Sheng.png"></a>
 <a class="isomer-image-wrapper" href="/germaine-chua/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Germaine_Chua_Gek_Lin.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/james-tan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_James_Tan.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alvin-lum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Alvin_Lum.png"></a>
 <a class="isomer-image-wrapper" href="/anita-low-lim/">
