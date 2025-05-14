@@ -24,3 +24,20 @@ Trends in Singapore
 <br>Date: 17 July 2025, Thursday
 <br>Time: 3.40 PM
 <br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
+<p><strong>Synopsis</strong>
+<br>Youth is a critical life stage, marked by rapid changes in academic, social,
+and emotional environments of individuals. These often have long-lasting
+influences on their mental health and adult life. The incidence of mental
+health disorders peaks during the transition from childhood to adulthood,
+with up to one fourth of youths experiencing significant mental health
+problems before they turn 25. Additionally, the COVID-19 pandemic and worsening
+international turmoil have shone a spotlight on youth mental health like
+never before. Despite these critical drivers, most youths do not seek appropriate
+and timely treatment, resulting in adverse health outcomes and disease
+burden. The National Youth Mental Health Study was a cross-sectional survey
+of 2600 nationally representative youths that established the prevalence
+of depressive, anxiety and stress symptoms among Singaporean youths, identified
+psychosocial risk and protective factors and investigated mental healthcare
+service use patterns in this population. The speaker will present findings
+from this study and draw comparisons with the global youth mental health
+situation.</p>
