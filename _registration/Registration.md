@@ -4,7 +4,7 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Registration is open!</strong></h1>
+<h1><strong>Early Bird Rate Extended to 15 June 2025!</strong></h1>
 <p></p><a class="isomer-image-wrapper" href="https://app.swapcard.com/login/event/smhc-2025/registration"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v5.png"></a>
 <p></p>
 <p></p>
