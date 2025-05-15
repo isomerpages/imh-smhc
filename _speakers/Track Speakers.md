@@ -34,6 +34,7 @@ description: ""
 <a class="isomer-image-wrapper" href="/suttha-supanya/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Suttha_Supanya.png">
 </a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
 <a class="isomer-image-wrapper" href="/andrew-greenshaw/">
@@ -54,6 +55,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/rahul-malhotra/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Rahul_Malhotra.png">
 </a><a class="isomer-image-wrapper" href="/simon-leow/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Simon_Leow.png"></a>
+<a class="isomer-image-wrapper" href="/tan-hwee-koon/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Tan_Hwee_Koon.png">
+</a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alvin-lum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Alvin_Lum.png"></a>
 <a class="isomer-image-wrapper" href="/anita-low-lim/">
@@ -74,6 +78,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/sb-viknesan/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_SB_Viknesan.png">
 </a><a class="isomer-image-wrapper" href="/sum-min-yi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Sum_Min_Yi.png"></a>
+<a class="isomer-image-wrapper" href="/tan-seow-peng/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Tan_Seow_Peng.png">
+</a>
 </td>
 </tr>
 </tbody>
