@@ -29,3 +29,17 @@ from Singapore
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 2.35 PM
 <br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
+<p></p>
+<p><strong>Synopsis</strong>
+<br>Loneliness (a subjective state reflecting the perceived extent of the
+lack of meaningful social relationships) and social isolation (an objective
+state of having few social relationships or infrequent social contact)
+are important psychosocial health states among older adults, both in of
+themselves and as predictors of other adverse health outcomes. In this
+talk, Dr. Malhotra will present empirical data from studies of older adults
+conducted by the Centre for Ageing Research and Education (CARE) in Singapore
+on the extent of and overlap between loneliness and social isolation, the
+impact of loneliness and social isolation on two important population health
+indicators (life expectancy and health expectancy), and the lived experience
+of loneliness and social isolation and its implications for interventions
+to address them. &nbsp;&nbsp;&nbsp;</p>
