@@ -5,3 +5,27 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Mr_Zainal_Lee.png">
+</div>
+<p>Zainal Lee is a senior manager and team lead for Caregiver Support Network
+Community Outreach Team (CREST-CSN) in Club HEAL, a programme that focuses
+on caregivers who are caring for persons at risk of or with mental health
+issues and/or dementia, or are at risk of developing depression, anxiety
+and burnout themselves due to their caregiving role.
+<br>As the former programme head in Club HEAL, he previously supervised a
+team of counsellors and oversaw the rehabilitation programme. He graduated
+from the American University for Humanities with a degree in counselling
+and has more than 25 years of experience in counselling. He conducts support
+group and motivational sessions for people with mental health issues and
+their caregivers.
+<br>He also volunteers with other social agencies during his spare time conducting
+peer support groups and suicide prevention workshops.
+<br>He regularly gives public talks on mental health and dementia, and occasionally
+contributes articles on caregiving for various publications. Incidentally,
+he is also a caregiver to multiple family members.</p>
+<hr>
+<p>Track Title: The Importance of Caregiver Support: “Every Caregiver Matters”
+<br>Date: 17 July 2025, Thursday
+<br>Time: 11.15 AM
+<br>Breakout Session: Track 4 – Voices From The Community</p>
