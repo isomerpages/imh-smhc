@@ -27,7 +27,7 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/joseph-kalaivanar/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mr_Joseph_Kalaivanar.png"></a>
 <a class="isomer-image-wrapper" href="/liew-siew-lian/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Liew_Siew_Lian.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/tan-wee-shen/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Marcus_Tan_Wee_Shen.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
 <a class="isomer-image-wrapper" href="/andrew-greenshaw/">
@@ -59,10 +59,14 @@ description: ""
 <a class="isomer-image-wrapper" href="/john-lam/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_John_Lam.png">
 </a><a class="isomer-image-wrapper" href="/lee-wei-xuan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Lee_Wei_Xuan.png"></a>
+<a class="isomer-image-wrapper" href="/loh-yan-zhu/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Loh_Yan_Zhu.png">
+</a>
 </td>
 </tr>
 </tbody>
 </table>
 <p>More Speakers Profile to be published soon</p>
+<p></p>
 <p></p>
 <p></p>
