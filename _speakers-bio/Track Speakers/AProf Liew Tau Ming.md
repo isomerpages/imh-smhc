@@ -25,3 +25,11 @@ Cognitive Impairment in Singapore
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 2.05 PM
 <br>Breakout Session: Track 1 – Emerging Trends &amp; Insights</p>
+<p><strong>Synopsis</strong>
+<br>Early detection of cognitive impairment improves health outcomes in the
+older population.&nbsp; However, efforts for early detection can be challenging
+in the community, as most available approaches are not scalable nor sustainable.&nbsp;
+This presentation will describe the development of an Artificial Intelligence
+(AI) tool that provides an accurate and convenient solution for early detection
+of cognitive impairment in the community, based on testing inapproximately1800
+older individuals in Singapore.</p>
