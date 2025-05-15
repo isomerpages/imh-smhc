@@ -33,7 +33,7 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/selina-tang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Selina_Tang.png"></a>
 <a class="isomer-image-wrapper" href="/suttha-supanya/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Suttha_Supanya.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/tricia-chang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Tricia_Chang.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
@@ -57,7 +57,7 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/simon-leow/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Simon_Leow.png"></a>
 <a class="isomer-image-wrapper" href="/tan-hwee-koon/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Tan_Hwee_Koon.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/zainal-lee/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Zainal_Lee.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alvin-lum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Alvin_Lum.png"></a>
 <a class="isomer-image-wrapper" href="/anita-low-lim/">
@@ -80,12 +80,12 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/sum-min-yi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Sum_Min_Yi.png"></a>
 <a class="isomer-image-wrapper" href="/tan-seow-peng/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Tan_Seow_Peng.png">
-</a>
+</a><a class="isomer-image-wrapper" href="/melvyn-zhang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Zhang_Weibin.png"></a>
 </td>
 </tr>
 </tbody>
 </table>
-<p>More Speakers Profile to be published soon</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
