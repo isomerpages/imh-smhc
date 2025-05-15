@@ -17,3 +17,8 @@ on ground activations in Institute of Higher Learning, workplaces and community.
 She also oversees HPB mental well-being programmes and initiatives to support
 parents, children and youths. Seow Peng holds the Master of Public Health
 from the National University of Singapore.</p>
+<hr>
+<p>Track Title: Reach Out: Breaking Barriers to Mental Health Support
+<br>Date: 16 July 2025, Wednesday
+<br>Time: 1.35 PM
+<br>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
