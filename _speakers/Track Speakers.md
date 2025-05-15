@@ -31,6 +31,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/pony-chew/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Pony_Chew.png">
 </a><a class="isomer-image-wrapper" href="/selina-tang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Selina_Tang.png"></a>
+<a class="isomer-image-wrapper" href="/suttha-supanya/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Suttha_Supanya.png">
+</a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
 <a class="isomer-image-wrapper" href="/andrew-greenshaw/">
