@@ -25,3 +25,18 @@ to a nuanced perspective of the Singapore mental health landscape.</p>
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 5.05 PM
 <br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
+<p><strong>Synopsis</strong>
+<br>Over the past decade, global dementia prevalence has continued to rise,
+driven by population aging, improved diagnostic recognition, and evolving
+risk factor profiles. While overall prevalence rates have increased, some
+high-income countries have reported a stabilisation or decline, potentially
+due to improved cardiovascular health, higher education levels, and public
+health interventions. In contrast, low- and middle-income countries (LMICs)
+are experiencing sharper rises due to demographic shifts and persistent
+modifiable risk factors such as hypertension, diabetes, and air pollution.
+Emerging evidence also highlights lifestyle factors, genetic predispositions,
+and social determinants as crucial contributors to dementia risk. Advances
+in large-scale epidemiological studies and predictive&nbsp; modelling have
+further refined our understanding of these trends. This talk will explore
+recent findings on dementia prevalence, key risk and protective factors,
+and implications for future prevention and intervention strategies.</p>
