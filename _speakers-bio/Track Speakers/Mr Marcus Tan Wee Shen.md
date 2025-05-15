@@ -24,3 +24,17 @@ Seniors
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 2.05 PM
 <br>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
+<p><strong>Synopsis</strong>
+<br>Community mental health support plays a crucial role in promoting well-being
+and preventing mental health challenges. By fostering a network of care
+through the CREST and Active Ageing Centre ecosystems, seniors are provided
+with accessible resources, support systems, and a sense of belonging. This
+includes outreach initiatives aimed at raising awareness and early detection
+of mental health issues, educational programmes, peer support groups as
+well as case management and counselling services. These community-based
+mental health programs empower seniors to seek help early, ensuring timely
+interventions and reducing the long-term impact of mental health issues.
+Collaborations amongst stakeholders create an environment where mental
+health isprioritised, and people feel safe discussing their challenges
+without fear of judgment. This ultimately creates a space where seniors
+can thrive emotionally, mentally, and socially.</p>
