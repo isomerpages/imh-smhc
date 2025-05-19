@@ -33,8 +33,8 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/ayu-regina-yolandasari/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Ayu_Regina_Yolandasari.png"></a>
-<a class="isomer-image-wrapper" href="/enoc-li/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Enoc_Li.png">
+<a class="isomer-image-wrapper" href="/enoch-li/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail___Ms_Enoc_Li_v1.png">
 </a><a class="isomer-image-wrapper" href="/goh-zhengqin/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Goh_Zhengqin.png"></a>
 <a class="isomer-image-wrapper" href="/rebecca-loh/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Ms_Rebecca_Loh.png">
