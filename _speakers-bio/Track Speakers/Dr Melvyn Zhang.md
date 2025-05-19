@@ -19,7 +19,8 @@ publications, focusing on several research areas, which include that of
 addictive disorders, the interface of psychiatric disorder and medical
 disorders, and E and M Health innovations.</p>
 <hr>
-<p>Track Title: The Silent Dependency: Gaming Addiction
+<p>Track Title: The Silent Dependency: Digital Addiction
+<br>i. Gaming Addiction
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 4.35 PM
 <br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
