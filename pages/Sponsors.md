@@ -9,4 +9,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MTPS_Mark_Logo_Vertical_RGB.jpg">
 </div>
-<p>Donor</p>
+<h3>Donor</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMHC 2023/Lee_Foundation_Logo.png">
+</div>
+<p></p>
