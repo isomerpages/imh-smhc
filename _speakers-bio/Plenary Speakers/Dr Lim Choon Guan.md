@@ -18,7 +18,7 @@ with the Duke-National University of Singapore (NUS) Graduate Medical School
 and the National Technological University, and a Senior Clinical Tutor
 at the NUS Yong Loo Lin School of Medicine. Dr Lim’s research interests
 include ADHD and child/adolescent mental health. He is a member of the
-National Healthcare Group and IMH institutional review boards, and is a
+National Healthcare Group and IMH institutional review boards and is a
 senior editor with the peer-reviewed open-access journal ‘Child and Adolescent
 Psychiatry and Mental Health’. Dr Lim is also a board member with the charity
 organisation, Silver Ribbon Singapore.</p>
@@ -26,6 +26,17 @@ organisation, Silver Ribbon Singapore.</p>
 <p>Plenary Title: The Use of Technology in Child &amp; Adolescent Mental
 Health Service
 <br>Date: 16 July 2025, Wednesday
-<br>Time: 11.40 AM
-<br>
-</p>
+<br>Time: 11.40 AM</p>
+<p><strong><u>Plenary Abstract</u></strong>
+<br>The Child Guidance Clinic is the largest provider of child and adolescent
+psychiatry service in Singapore. In this talk, Dr Lim will share the clinic’s
+experience in research and clinical service delivery which utilised various
+technologies. The first long-running project investigated the brain computer
+interface (BCI) to develop an attention training program for the treatment
+of attention deficit hyperactivity disorder (ADHD) and the product is now
+commercially available. He will highlight the results of their trials,
+including the randomised controlled trial, and some of the challenges faced
+along this journey. The same technology has been investigated in the treatment
+of other conditions including autism spectrum disorder and anxiety disorder.
+The pandemic also accelerated the progress of tele-consultation which has
+now become one option for access to mental health service in our clinic.</p>

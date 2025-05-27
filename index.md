@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/6I0A9273v2.jpg
-      url: /registration/
-      title: Singapore Mental Health Conference 2025
-      button: 16 - 17 July 2025 | Singapore Expo
       variant: floating
       size: md
       alignment: left
@@ -19,6 +16,9 @@ sections:
         - title: Registration
           description: Click here
           url: /registration/
+      title: Singapore Mental Health Conference 2025
+      button: 16-17 JULY 2025 | SINGAPORE EXPO
+      url: /registration/
   - infopic:
       title: "Organised by:"
       id: infopic
