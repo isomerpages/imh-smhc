@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Mr_Tan_Hwee_Koon.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Ms_Tan_Hwee_Koon___Speaker_Bio.png">
 </div>
 <p>Ms. Hwee Koon TAN is a research specialist at the Translational Research
 Division of the National Council of Social Services (NCSS), where she researches
