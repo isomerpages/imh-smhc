@@ -13,7 +13,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMHC 2023/Lee_Foundation_Logo.png">
 </div>
-<h3>Exhibitors</h3>
+<h3>Exhibitor</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dsquared_Medical_logo_v1.jpg">
