@@ -25,4 +25,8 @@ advocates for work-life balance, implementing family-friendly policies
 at AAVC to support his staff. His multifaceted contributions to veterinary
 science and community welfare underscore his dedication to the field.</p>
 <hr>
-<p></p>
+<p>Track Title: Championing Well-being Cultivating Community: Strengthening
+Workplace Mental Health Through Peer Support
+<br>Date: 17 July 2025, Thursday
+<br>Time: 12:00 PM
+<br>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
