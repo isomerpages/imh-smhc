@@ -24,8 +24,8 @@ in 2024.&nbsp;&nbsp;
 <br>
 </p>
 <hr>
-<p>Panel Discussion Title: Championing Well-being Cultivating Community:
-Strengthening Workplace Mental Health Through Peer Support
+<p>Track Title: Championing Well-being Cultivating Community: Strengthening
+Workplace Mental Health Through Peer Support
 <br>Date: 17 July 2025, Thursday
 <br>Time: 12:00 PM
 <br>Breakout Session: Track 3 – Inclusive Workplace &amp; Community</p>
