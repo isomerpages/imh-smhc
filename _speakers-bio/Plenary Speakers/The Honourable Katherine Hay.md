@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Plenary Speakers
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Plenary__Ms_Katherine_Hay.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio___Ms_Katherine_Hay_2.png">
 </div>
 <p>Katherine (Kathy) Hay is the President and CEO of Kids Help Phone (KHP),
 Canada's first and only free, national, multilingual, 24/7 e-mental health
