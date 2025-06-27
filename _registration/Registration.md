@@ -4,7 +4,8 @@ permalink: /registration/
 variant: tiptap
 description: ""
 ---
-<h2><strong><em>Registration is closing on 30 June 2025!</em></strong></h2><a class="isomer-image-wrapper" href="https://app.swapcard.com/login/event/smhc-2025/registration"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v5.png"></a>
+<h2><strong><em>Registration is closing on 30 June 2025!</em></strong></h2>
+<h3><strong><em>Virtual Registration remains open till 15 July 2025</em></strong></h3><a class="isomer-image-wrapper" href="https://app.swapcard.com/login/event/smhc-2025/registration"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Registration_Button_v5.png"></a>
 <p></p>
 <p></p>
 <p></p>
