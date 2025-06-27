@@ -14,7 +14,7 @@ sections:
       backgroundColor: gray
       key_highlights:
         - title: Registration
-          description: Click here
+          description: Closing on 30 June 2025!
           url: /registration/
       title: Singapore Mental Health Conference 2025
       button: 16-17 JULY 2025 | SINGAPORE EXPO
