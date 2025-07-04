@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Panel Discussion Speakers
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Bs_Bernadette_Loh___Bio.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Speaker_Bio___Sum_Min_Yi.png">
 </div>
 <p>As a lawyer and a volunteer with Resilience Collective, Bernadette aspires
 to be an advocate in more than one sense. Bernadette draws from her lived
