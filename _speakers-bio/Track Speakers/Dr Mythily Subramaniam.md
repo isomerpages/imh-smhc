@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Dr_Mythily_Subramaniam.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Speaker_Bio_Dr_Mythily_Subramaniam.png">
 </div>
-<p>Dr Mythily Subramaniam&nbsp;is a leading mental health researcher with
+<p>Dr. Mythily Subramaniam&nbsp;is a leading mental health researcher with
 extensive expertise in psychiatric epidemiology, psychosis, and addictions.
 She is the Director of the Research Division at Singapore’s Institute of
 Mental Health (IMH) and the Lead Investigator of the Mental Health Policy
