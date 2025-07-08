@@ -10,8 +10,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2MTPS_Mark_Logo_Vertical_RGB.jpg">
 </div>
 <h4><strong>Title:</strong> Unmasking the Hidden Burden in Bipolar I Depression</h4>
-<h4><br><strong>Speaker:</strong> <strong>Dr Nisha Chandwani,</strong> <em>Senior Consultant, Institute of Mental Health</em></h4>
-<h4><br><strong>Abstract</strong></h4>
+<h4><strong>Speaker:</strong> <strong>Dr Nisha Chandwani,</strong> Senior Consultant, Institute of Mental Health</h4>
+<h4><strong>Abstract</strong></h4>
 <p>Bipolar I depression is often under-recognized and misdiagnosed due to
 its overlapping features with unipolar depression and its multifaceted
 symptomatology. This presentation aims to enhance clinical understanding
