@@ -4,7 +4,7 @@ permalink: /sponsored-lunch-talk-16-july-2025/
 variant: tiptap
 description: ""
 ---
-<h4>Lunch Talk Sponsored By: </h4>
+<h4>Lunch Talk Sponsored By:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2MTPS_Mark_Logo_Vertical_RGB.jpg">
