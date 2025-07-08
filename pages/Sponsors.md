@@ -35,7 +35,6 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <p></p><a class="isomer-image-wrapper" href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sumitomo_Pharma_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1">
@@ -52,8 +51,32 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SMHC 2023/Lee_Foundation_Logo.png">
 </div>
 <h3>Exhibitor</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Dsquared_Medical_logo_v1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Dsquared_Medical_logo_v1.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/logo_full_colour_horizontal_30kb_3.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo_NAIHE_Primary_Land.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
