@@ -31,9 +31,9 @@ description: ""
 <a class="isomer-image-wrapper" href="/nikki-lim-ashworth/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Nikki_Lim_Ashworth.png">
 </a><a class="isomer-image-wrapper" href="/sb-viknesan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_SB_Viknesan.png"></a>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="/sum-min-yi/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Sum_Min_Yi_2.png">
-</div><a class="isomer-image-wrapper" href="/tan-seow-peng/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Tan_Seow_Peng.png"></a>
+</a><a class="isomer-image-wrapper" href="/tan-seow-peng/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Tan_Seow_Peng.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
