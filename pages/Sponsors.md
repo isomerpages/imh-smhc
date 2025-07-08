@@ -6,10 +6,8 @@ description: ""
 ---
 <h3>Sponsor</h3>
 <p></p>
-<table style="minWidth: 175px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -45,18 +43,6 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Lede_Text_Logo__on_White__With_Green_.png">
 </div>
 </th>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logo_full_colour_horizontal_30kb_3.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo_NAIHE_Primary_Land.png">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
@@ -65,8 +51,32 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SMHC 2023/Lee_Foundation_Logo.png">
 </div>
 <h3>Exhibitor</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Dsquared_Medical_logo_v1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Dsquared_Medical_logo_v1.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/logo_full_colour_horizontal_30kb_3.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo_NAIHE_Primary_Land.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
