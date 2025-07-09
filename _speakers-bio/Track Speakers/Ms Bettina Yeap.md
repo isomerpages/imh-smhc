@@ -8,6 +8,9 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_Bio_Ms_Bettina_Yeap.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Ms_Bettina_Yeap.png">
+</div>
 <p>Ms Bettina Yeap is Principal Counsellor and the founder of INSIGHT, the
 youth mental health team at Care Corner Singapore Ltd. Holding a B.A. in
 Psychology and Sociology and an M.A. in Counselling, Bettina is passionate
