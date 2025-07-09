@@ -15,8 +15,8 @@ help.
 <br>In 2016, Alison was diagnosed with a rare dementia called Primary Progressive
 Aphasia (PPA). She was in her 50s. Unable to find support, Alison "stalked"
 young-onset dementia persons (people diagnosed before 65) outside clinics
-to invited them home to further understand this confusing journey. She
-was also very fortunate to meet scientists, researchers, and neurologists,
+to invite them home to further understand this confusing journey. She was
+also very fortunate to meet scientists, researchers, and neurologists,
 including the professor who coined the term "PPA".
 <br>Shortly after her diagnosis, Alison and her daughter Jamie started Dementia
 &amp; Co, a support network for raising dementia awareness and helping
