@@ -84,6 +84,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Ms_Tan_Hwee_Koon___Thumbnail.png">
 </div><a class="isomer-image-wrapper" href="/zainal-lee/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Zainal_Lee.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Thumbnail___Andrea_Chan.png">
+</div>
 </td>
 </tr>
 </tbody>
