@@ -8,8 +8,8 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Ms_Jamie_Soo.png">
 </div>
-<p>Jamie Soo is the Lead Social Worker at Montfort Care, with 24 years of
-experience in social services. She has worked extensively with individuals
+<p>Ms Jamie Soo is the Lead Social Worker at Montfort Care, with 24 years
+of experience in social services. She has worked extensively with individuals
 facing mental health challenges, particularly the elderly, as well as families
 and children, shelter residents, ex-offenders, and those with disabilities.
 Jamie is dedicated to a person-centred care approach, focusing on the unique
