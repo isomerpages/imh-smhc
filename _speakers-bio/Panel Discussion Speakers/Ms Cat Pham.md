@@ -8,7 +8,7 @@ third_nav_title: Panel Discussion Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Panel_Discussion__Ms_Cat_Pham.png">
 </div>
-<p>Cat Pham is a psychology student and research assistant at RMIT University
+<p>Ms Cat Pham is a psychology student and research assistant at RMIT University
 Vietnam, as well as a mental health advocate committed to reimagining public
 mental health through inclusive, community-driven innovation. She serves
 on the Vietnamese Youth Advisory Council for the Youth Promotion of Resilience

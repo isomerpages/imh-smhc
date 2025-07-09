@@ -8,10 +8,10 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Ms_Lee_Wei_Xuan.png">
 </div>
-<p>Wei Xuan is the Assistant Manager of Mobile Support Team at the Singapore
-Association for Mental Health, mainly supporting the COMIT team. Prior
-to this, she was with Dementia Singapore for four years and Ministry of
-Social and Family Development (Adult Protective Service) where she worked
+<p>Ms Lee Wei Xuan is the Assistant Manager of Mobile Support Team at the
+Singapore Association for Mental Health, mainly supporting the COMIT team.
+Prior to this, she was with Dementia Singapore for four years and Ministry
+of Social and Family Development (Adult Protective Service) where she worked
 closely with vulnerable adults with protection concerns and persons living
 with dementia and their caregivers to provide the support needed. Wei Xuan
 is a registered social worker and graduated from National University of

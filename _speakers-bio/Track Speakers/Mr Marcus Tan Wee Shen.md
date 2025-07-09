@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Mr_Marcus_Tan_Wee_Shen.png">
 </div>
-<p>Marcus has been working as a social work practitioner for over 17 years,
+<p>Mr Marcus has been working as a social work practitioner for over 17 years,
 working with youth, adults and seniors. He has a decade of experience working
 with persons with mental health conditions and was a member of the research
 team at the Institute of Mental Health piloting a social acuity tool. He

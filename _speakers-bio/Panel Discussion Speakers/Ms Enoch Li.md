@@ -8,12 +8,13 @@ third_nav_title: Panel Discussion Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio___Ms_Enoc_Liv1.png">
 </div>
-<p>Enoch is an expert on leadership, resilience, and well-being in the workplace.
-At INSEAD, she programme-directs, teaches and consults in Executive Education
-Programmes, and is the Co-Director of the MBA’s Personal Leadership Development
-Programme. Her teaching focuses on how resilient leadership sustains group
-performance and psychological safety, considering the unconscious factors
-that sustain or hinder both outcomes in different organisational contexts.
+<p>Ms Enoch is an expert on leadership, resilience, and well-being in the
+workplace. At INSEAD, she programme-directs, teaches and consults in Executive
+Education Programmes, and is the Co-Director of the MBA’s Personal Leadership
+Development Programme. Her teaching focuses on how resilient leadership
+sustains group performance and psychological safety, considering the unconscious
+factors that sustain or hinder both outcomes in different organisational
+contexts.
 <br>She is widely recognized for pioneering the workplace mental health conversation
 in China at a time when the topic was taboo through founding Bearapy, an
 award-winning social impact company that spearheaded consulting and training

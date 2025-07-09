@@ -17,19 +17,17 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Jardine_Matheson_logo_Colour_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Jardines_logo_Colour_2024.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mindset_Logo_CMYK.png">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2MTPS_Mark_Logo_Vertical_RGB.jpg">
 </div>
@@ -38,7 +36,6 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sumitomo_Pharma_Logo.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Lede_Text_Logo__on_White__With_Green_.png">
 </div>
@@ -48,7 +45,7 @@ description: ""
 </table>
 <h3>Donor</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SMHC 2023/Lee_Foundation_Logo.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/SMHC 2023/Lee_Foundation_Logo.png">
 </div>
 <h3>Exhibitor</h3>
 <table style="minWidth: 75px">
@@ -67,13 +64,15 @@ description: ""
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/logo_full_colour_horizontal_30kb_3.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1_safespace.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo_NAIHE_Primary_Land.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_NAIHE.png">
 </div>
 </th>
 </tr>

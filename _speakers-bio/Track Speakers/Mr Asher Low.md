@@ -9,9 +9,9 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Mr_Asher_Low.png">
 </div>
-<p>The founder and current Executive Director of Limitless, Asher is a social
-worker with over fifteen years of experience working with young people.
-He also has clinical tenures in the family, prisons and youth sectors.
+<p>The founder and current Executive Director of Limitless, Mr Asher is a
+social worker with over fifteen years of experience working with young
+people. He also has clinical tenures in the family, prisons and youth sectors.
 <br>Asher has a dedicated passion to help youths who struggle with mental
 health conditions, and has spearheaded research, advocacy, and public education
 efforts to help promote help-seeking behaviour, reduce stigma in youths,

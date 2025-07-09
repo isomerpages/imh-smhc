@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_Bio___Sherman_Ho.png">
 </div>
-<p>Sherman is the co-founder of Happiness Initiative, where his work focuses
+<p>Mr Sherman is the co-founder of Happiness Initiative, where his work focuses
 on making well-being accessible to everyone through interactive programmes,
 community initiatives like Well-Being Circles, a large-scale research-based
 community well-being programme that has impacted hundreds of individuals.

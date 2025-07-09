@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Track Speakers
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Dr_Selina_Tang.png">
-</div>
-<p>Selina is a Lecturer in Psychology at Ngee Ann Polytechnic, with almost
+<p>Dr Selina is a Lecturer in Psychology at Ngee Ann Polytechnic, with almost
 20 years of teaching experience. She has worked with youth workers and
 educators to enhance their mental health literacy, and improve their ability
 to engage with young people facing mental health challenges. Passionate

@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_Bio_Mr_Bernard_Lim.png">
 </div>
-<p>Bernard Lim is Dementia Singapore's Director of Advocacy and Communications.
+<p>Mr Bernard Lim is Dementia Singapore's Director of Advocacy and Communications.
 He joined the organisation in December 2022, bringing over 20 years of
 experience in the media and entertainment industry.
 <br>Bernard is instrumental in expanding the organisation's efforts to raise

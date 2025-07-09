@@ -8,9 +8,9 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Ms_Germaine_Chua.png">
 </div>
-<p>Germaine Chua Gek Lin is a seasoned SAC-Registered Counsellor with over
-13 years of hands-on experience in the mental health field. Germaine holds
-a Master’s degree in Counselling from Monash University and specialises
+<p>Ms Germaine Chua Gek Lin is a seasoned SAC-Registered Counsellor with
+over 13 years of hands-on experience in the mental health field. Germaine
+holds a Master’s degree in Counselling from Monash University and specialises
 in Internal Family Systems (IFS), Eye Movement Desensitization and Reprocessing
 (EMDR), and Emotion-Focused Therapy (EFT). She has worked with a broad
 spectrum of clients, particularly caregivers and adults aged 18 and above,

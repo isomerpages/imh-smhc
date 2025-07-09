@@ -9,7 +9,7 @@ third_nav_title: Panel Discussion Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Panel_Discussion__Ms_Ayu_Regina_Yolandasari.png">
 </div>
-<p>Ayu Regina Yolandasari is a specialist and advocate for mental health,
+<p>Ms Ayu Regina Yolandasari is a specialist and advocate for mental health,
 gender, and sexuality issues in Indonesia, with more than 10 years of working
 experience. She began her career as a Sexual and Gender-Based Violence
 (SGBV) counsellor in a Non-Governmental Organisation (NGO) and is currently

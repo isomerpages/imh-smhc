@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Mr_Jasper_Lim.png">
 </div>
-<p>Jasper Lim is the Manager of INSIGHT, Care Corner's youth mental health
+<p>Mr Jasper Lim is the Manager of INSIGHT, Care Corner's youth mental health
 team, with over a decade of experience working with at-risk youth and their
 families. His team is dedicated to mental health education, outreach, and
 intervention services. Jasper was part of the team that developed Carey,

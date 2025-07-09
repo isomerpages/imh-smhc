@@ -8,8 +8,8 @@ third_nav_title: Panel Discussion Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Panel_Discussion__A_Prof_Swapna_K_Verma.png">
 </div>
-<p>Dr. Swapna completed her residency training in Psychiatry at Baylor College
-of Medicine in Houston, Texas, USA and is a board-certified psychiatrist.
+<p>A/Prof Swapna completed her residency training in Psychiatry at Baylor
+College of Medicine in Houston, Texas, USA and is a board-certified psychiatrist.
 <br>She started her academic career with the Singapore Early Psychosis Intervention
 Programme (EPIP) in 2001 when EPIP was first established and thus has been
 closely involved in the development and establishment of its clinical,

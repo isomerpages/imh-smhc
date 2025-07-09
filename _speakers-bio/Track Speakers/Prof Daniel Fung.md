@@ -8,10 +8,10 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Adj_A_Prof_Daniel_Fung_Shuen_Sheng.png">
 </div>
-<p><strong>Dr Daniel Fung</strong> is a child and adolescent psychiatrist
-and the CEO of the Institute of Mental Health (IMH) in Singapore.&nbsp;
-He is an Adjunct Associate Professor at all 3 Singapore medical schools.&nbsp;
-Dr Fung is the President of the College of Psychiatrists, Academy of Medicine,
+<p>Adj A/Prof Daniel Fung is a child and adolescent psychiatrist and the
+CEO of the Institute of Mental Health (IMH) in Singapore.&nbsp; He is an
+Adjunct Associate Professor at all 3 Singapore medical schools.&nbsp; Dr
+Fung is the President of the College of Psychiatrists, Academy of Medicine,
 Singapore and Past President of the International Association for Child
 and Adolescent Psychiatry and Allied Professions (2018-2022) as well as
 the Asian Society for Child and Adolescent Psychiatry and Allied Professionals
