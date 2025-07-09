@@ -8,8 +8,8 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_A_Prof_Jungup_Lee.png">
 </div>
-<p>A/P Jungup Lee is an Associate Professor in the Department of Social Work
-and Co-Director of Social Service Research Centre at National University
+<p>A/Prof Jungup Lee is an Associate Professor in the Department of Social
+Work and Co-Director of Social Service Research Centre at National University
 of Singapore. Her research primarily focuses on youth mental health and
 digital well-being, cyberbullying and online sexual harms, and technology
 in children and youth development. &nbsp;She currently conducts various
