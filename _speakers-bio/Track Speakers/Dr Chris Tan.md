@@ -8,6 +8,9 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_Bio_Dr_Chris_Tan.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Dr_Chris_Tan.png">
+</div>
 <p>Dr Chris Tan is the Chief of North Region and Program Director of Aged
 Psychiatry Community Assessment and Treatment Service at the Institute
 of Mental Health Singapore. He also serves as Deputy Program Director of
