@@ -8,11 +8,11 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Mr_Zainal_Lee.png">
 </div>
-<p>Zainal Lee is a senior manager and team lead for Caregiver Support Network
-Community Outreach Team (CREST-CSN) in Club HEAL, a programme that focuses
-on caregivers who are caring for persons at risk of or with mental health
-issues and/or dementia, or are at risk of developing depression, anxiety
-and burnout themselves due to their caregiving role.
+<p>Mr Zainal Lee is a senior manager and team lead for Caregiver Support
+Network Community Outreach Team (CREST-CSN) in Club HEAL, a programme that
+focuses on caregivers who are caring for persons at risk of or with mental
+health issues and/or dementia, or are at risk of developing depression,
+anxiety and burnout themselves due to their caregiving role.
 <br>As the former programme head in Club HEAL, he previously supervised a
 team of counsellors and oversaw the rehabilitation programme. He graduated
 from the American University for Humanities with a degree in counselling
