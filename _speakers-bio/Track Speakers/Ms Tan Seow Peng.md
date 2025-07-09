@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Ms_Tan_Seow_Peng.png">
 </div>
-<p>Seow Peng is passionate about promoting preventive health with 7 years
+<p>Ms Seow Peng is passionate about promoting preventive health with 7 years
 of experience in the Health Promotion Board. Since joining the Mental Health
 Education team in 2023, Seow Peng has led nationwide campaigns to equip
 Singaporeans with effective emotional support skills to support others
