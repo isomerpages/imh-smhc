@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Panel_Discussion__Mr_Joseph_Kalaivanar.png">
 </div>
-<p>Joseph is the co-founder and CEO of Kaleidoscope Labs, an organisation
+<p>Mr Joseph is the co-founder and CEO of Kaleidoscope Labs, an organisation
 driving innovation in mental health and workplace well-being. In 2023,
 Kaleidoscope was appointed by the Tripartite Alliance to manage the Well-being
 Champions Network (WCN), Singapore’s largest workplace well-being network.
