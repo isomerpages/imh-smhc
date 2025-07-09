@@ -8,7 +8,7 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Dr_Frilya_Rachma_Putri.png">
 </div>
-<p>Frilya Rachma Putri is a senior lecturer in the Department of Psychiatry
+<p>Dr Frilya Rachma Putri is a senior lecturer in the Department of Psychiatry
 at Universitas Brawijaya , Malang, East Java, Indonesia. She is a child
 and adolescent psychiatrist from Indonesia who has a passion for studying
 child &amp; adolescent mental health, developmental psychiatry, and psychotherapy
