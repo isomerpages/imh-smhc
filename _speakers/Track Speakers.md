@@ -37,9 +37,9 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alison-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Alison_Lim.png"></a>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="/andrea-chan/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Thumbnail___Andrea_Chan.png">
-</div><a class="isomer-image-wrapper" href="/asher-low/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Asher_Low.png"></a>
+</a><a class="isomer-image-wrapper" href="/asher-low/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Asher_Low.png"></a>
 <a class="isomer-image-wrapper" href="/chris-tan/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Chris_Tan.png">
 </a><a class="isomer-image-wrapper" href="/damien-lain/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_Thumbnail___Dr_Damien_Lain_Lai_Ping.png"></a>
