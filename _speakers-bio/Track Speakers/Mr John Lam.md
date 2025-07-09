@@ -8,14 +8,14 @@ third_nav_title: Track Speakers
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Mr_John_Lam.png">
 </div>
-<p>John Lam is the Deputy Director of Crisis Support in Samaritans of Singapore
-(SOS), Singapore’s lead agency for suicide prevention. In his role, he
-oversees SOS’ 24-hour crisis lines, including the Hotline and CareText
-services. He has worked over 30 years in business start-ups and the commercial
-sector in roles such as a General Manager and CFO. He presently contributes
-to both operational and strategic development roles in crisis service and
-believes emphatically that technology and innovation can enhance the way
-to prevent suicide.</p>
+<p>Mr John Lam is the Deputy Director of Crisis Support in Samaritans of
+Singapore (SOS), Singapore’s lead agency for suicide prevention. In his
+role, he oversees SOS’ 24-hour crisis lines, including the Hotline and
+CareText services. He has worked over 30 years in business start-ups and
+the commercial sector in roles such as a General Manager and CFO. He presently
+contributes to both operational and strategic development roles in crisis
+service and believes emphatically that technology and innovation can enhance
+the way to prevent suicide.</p>
 <hr>
 <p>Track Title: SOS CareText: Connecting Care with Technology in Times of
 Crisis
