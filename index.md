@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: "Organised by:"
       id: infopic
-      image: /images/top_logo_for_main_page.png
+      image: /images/IMH_new_logo.png
       alt: Image alt text
   - infobar:
       title: Reimagining Mental Health. Empowering Lives.
@@ -81,6 +81,6 @@ sections:
       image: /images/past_highlights.png
   - infopic:
       id: infopic
-      image: /images/Bottom_Main_Page_logo_design_v1_.png
+      image: /images/IMH_new_logo.png
       alt: Image alt text
 ---
