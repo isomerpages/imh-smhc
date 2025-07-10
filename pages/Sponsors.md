@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Gold Sponsor</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/J_M_Write_up_3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/J_M_Write_up_3.png">
 </div>
 <p>MINDSET Care Limited (“MINDSET”) is the registered charity of the Jardine
 Matheson Group (“Jardines” or “the Group”), dedicated to making a meaningful
