@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Gold Sponsor</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/J_M_Write_up_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/J_M_Write_up_2.png">
 </div>
 <h2>Silver Sponsor</h2>
 <div class="isomer-image-wrapper">
