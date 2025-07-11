@@ -7,7 +7,7 @@ third_nav_title: Track Speakers
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Speaker_Bio_Dr_Sum_Min_Yi.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/2_Speaker_Bio___Track_Dr_Sum_Min_Yi.png">
 </div>
 <p>Dr. Min Yi SUM is currently a senior research specialist in NCSS. Her
 current role includes investigating the quality of life of the general
