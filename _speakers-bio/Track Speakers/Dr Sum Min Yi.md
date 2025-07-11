@@ -7,7 +7,7 @@ third_nav_title: Track Speakers
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Speaker_Bio_Dr_Sum_Min_Yi.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/2_Speaker_Bio___Track_Dr_Sum_Min_Yi.png">
 </div>
 <p>Dr. Min Yi SUM is currently a senior research specialist in NCSS. Her
 current role includes investigating the quality of life of the general
@@ -22,7 +22,7 @@ experiences of these individuals. She has also authored and co-authored
 multiple peer-reviewed publications on the topics of stigma and quality
 of life in both patients with psychotic disorders and the general population.</p>
 <hr>
-<p>Track Title: Quality of Life (QOL) of Persons with Mental Health Needs
+<p>Track Title: Reimagining Mental Health on a Continuum
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 5.05 PM
 <br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
