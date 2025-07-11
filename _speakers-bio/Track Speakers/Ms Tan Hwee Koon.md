@@ -18,7 +18,7 @@ to NCSS from the Ministry of Digital Development and Information (MDDI),
 Hwee Koon previously was in MDDI’s Research and Data Division where her
 area of work was in analysing economic trends and industry sentiments.</p>
 <hr>
-<p>Track Title: Quality of Life (QOL) of Persons with Mental Health Needs
+<p>Track Title: Reimagining Mental Health on a Continuum
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 5.05 PM
 <br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
