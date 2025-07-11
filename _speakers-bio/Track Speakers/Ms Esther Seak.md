@@ -13,3 +13,10 @@ of mental health in primary care-related projects, including the mental
 health and dementia services at polyclinics, and the Mental Health GP Partnership
 programme. She has experience in the clinical, policy and health administration
 domains, and is passionate about advancing community mental health. &nbsp;</p>
+<hr>
+<p>Track Title: GP-COMIT Partnership – The Collaboration Between GP and COMIT
+Represents a Pivotal Shift Toward Community-Based Care that Integrates
+Medical and Psychosocial Domains
+<br>Date: 17 July 2025, Thursday
+<br>Time: 2.40 PM
+<br>Breakout Session: Track 4 – Voices From The Community</p>
