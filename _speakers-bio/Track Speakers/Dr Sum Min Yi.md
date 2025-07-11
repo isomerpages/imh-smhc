@@ -22,7 +22,7 @@ experiences of these individuals. She has also authored and co-authored
 multiple peer-reviewed publications on the topics of stigma and quality
 of life in both patients with psychotic disorders and the general population.</p>
 <hr>
-<p>Track Title: Quality of Life (QOL) of Persons with Mental Health Needs
+<p>Track Title: Reimagining Mental Health on a Continuum
 <br>Date: 16 July 2025, Wednesday
 <br>Time: 5.05 PM
 <br>Breakout Session: Track 2 – Emerging Trends &amp; Insights</p>
