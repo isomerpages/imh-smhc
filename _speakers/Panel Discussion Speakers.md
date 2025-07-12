@@ -48,10 +48,7 @@ description: ""
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/bernadette-loh/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Bernadette_Loh.png"></a>
 <a class="isomer-image-wrapper" href="/fahim-fazil/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Mr_Fahim_Fazil.png">
-</a>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Speaker_Thumbnail___Ms_Krista_Vanderheide.png">
-</div>
+</a><a class="isomer-image-wrapper" href="/krista-vanderheide/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Speaker_Thumbnail___Ms_Krista_Vanderheide.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Suyin_Tay.png">
 </div><a class="isomer-image-wrapper" href="/tan-weng-mooi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail__Dr__Tan_Weng_Mooi.png"></a>
