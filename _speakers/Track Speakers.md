@@ -44,25 +44,28 @@ description: ""
 </a><a class="isomer-image-wrapper" href="/asher-low/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Asher_Low.png"></a>
 <a class="isomer-image-wrapper" href="/chris-tan/">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Chris_Tan.png">
-</a><a class="isomer-image-wrapper" href="/damien-lain/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaker_Thumbnail___Dr_Damien_Lain_Lai_Ping.png"></a>
-<a class="isomer-image-wrapper" href="/ezwani-rahim/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Thumbnail___Ezwani.png">
-</a><a class="isomer-image-wrapper" href="/germaine-chua/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Germaine_Chua_Gek_Lin.png"></a>
-<a class="isomer-image-wrapper" href="/jamie-buitelaar/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Thumbnail___Jamie_B.png">
-</a><a class="isomer-image-wrapper" href="/jasper-lim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Jasper_Lim.png"></a>
-<a class="isomer-image-wrapper" href="/jungup-lee/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_A_Prof_Jungup_Lee.png">
-</a><a class="isomer-image-wrapper" href="/liew-siew-lian/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Liew_Siew_Lian.png"></a>
-<a class="isomer-image-wrapper" href="/tan-wee-shen/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Marcus_Tan_Wee_Shen.png">
-</a><a class="isomer-image-wrapper" href="/pony-chew/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Pony_Chew.png"></a>
-<a class="isomer-image-wrapper" href="/sb-viknesan/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_SB_Viknesan.png">
-</a><a class="isomer-image-wrapper" href="/sum-min-yi/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Sum_Min_Yi_2.png"></a>
-<a class="isomer-image-wrapper" href="/tan-seow-peng/">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Tan_Seow_Peng.png">
-</a><a class="isomer-image-wrapper" href="/melvyn-zhang/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Zhang_Weibin.png"></a>
+</a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1Speaker_Thumbnail___Dr_Damien_Lain_Lai_Ping.png">
+</div><a class="isomer-image-wrapper" href="/ezwani-rahim/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Thumbnail___Ezwani.png"></a>
+<a class="isomer-image-wrapper" href="/germaine-chua/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Germaine_Chua_Gek_Lin.png">
+</a><a class="isomer-image-wrapper" href="/jamie-buitelaar/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Thumbnail___Jamie_B.png"></a>
+<a class="isomer-image-wrapper" href="/jasper-lim/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Jasper_Lim.png">
+</a><a class="isomer-image-wrapper" href="/jungup-lee/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_A_Prof_Jungup_Lee.png"></a>
+<a class="isomer-image-wrapper" href="/liew-siew-lian/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Liew_Siew_Lian.png">
+</a><a class="isomer-image-wrapper" href="/tan-wee-shen/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_Marcus_Tan_Wee_Shen.png"></a>
+<a class="isomer-image-wrapper" href="/pony-chew/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Pony_Chew.png">
+</a><a class="isomer-image-wrapper" href="/sb-viknesan/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Mr_SB_Viknesan.png"></a>
+<a class="isomer-image-wrapper" href="/sum-min-yi/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Sum_Min_Yi_2.png">
+</a><a class="isomer-image-wrapper" href="/tan-seow-peng/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Ms_Tan_Seow_Peng.png"></a>
+<a class="isomer-image-wrapper" href="/melvyn-zhang/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Zhang_Weibin.png">
+</a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/alvin-lum/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Thumbnail_Dr_Alvin_Lum.png"></a>
 <a class="isomer-image-wrapper" href="/andrew-greenshaw/">
