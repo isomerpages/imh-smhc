@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Panel Discussion Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Panel_Discussion_Ms_Krista_Vanderheide.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Speaker_Bio___Ms_Krista_Vande.png">
 </div>
 <p>Ms Krista Vanderheide is the Assistant Secretary, responsible for the
 System Enablers Branch, in the Mental Health and Suicide Prevention Division

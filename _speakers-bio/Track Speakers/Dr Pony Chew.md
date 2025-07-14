@@ -13,7 +13,7 @@ as a Senior Research Specialist at the National Council of Social Service's
 (NCSS) Translational Research division. She believes in generating research
 findings that create tangible value for both society and its people.</p>
 <hr>
-<p>Track Title: Understanding Adverse Childhood Experience ti Inform Care
+<p>Track Title: Understanding Adverse Childhood Experience to Inform Care
 Placement &amp; Support
 <br>Date: 17 July 2025, Thursday
 <br>Time: 4.10 PM
