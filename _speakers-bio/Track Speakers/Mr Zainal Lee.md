@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Track Speakers
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/Speaker_Bio_Mr_Zainal_Lee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/1_Speaker_Bio___Mr_Zainal_Lee.png">
 </div>
 <p>Mr Zainal Lee is a senior manager and team lead for Caregiver Support
 Network Community Outreach Team (CREST-CSN) in Club HEAL, a programme that
