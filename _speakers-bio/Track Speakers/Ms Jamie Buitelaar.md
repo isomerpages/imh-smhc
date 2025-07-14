@@ -10,7 +10,7 @@ third_nav_title: Track Speakers
 </div>
 <p>Following Ms Jamie's mother’s diagnosis with Primary Progressive Aphasia,
 they together created Dementia &amp; Co, a ground-up that supports over
-100 people living with dementia and their families through peer to peer
+100 people living with dementia and their families through peer-to-peer
 support, social events, outreach, advocacy and partnerships with care institutions.</p>
 <hr>
 <p>Track Title: Living with Dementia and Not Stopping
