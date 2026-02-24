@@ -44,12 +44,12 @@ sections:
       alt: Image alt text
       image: /images/past_highlights.png
   - infopic:
-      id: infopic
-      image: /images/IMH_new_logo.png
-      alt: Image alt text
-  - infopic:
       title: SMHC 2025
       subtitle: PAST FEEDBACK
       id: infopic
+      alt: Image alt text
+  - infopic:
+      id: infopic
+      image: /images/IMH_new_logo.png
       alt: Image alt text
 ---
