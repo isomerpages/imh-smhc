@@ -32,6 +32,11 @@ sections:
       button: Learn more
       url: /about-smhc/
   - infopic:
+      title: SMHC 2025
+      subtitle: PAST FEEDBACK
+      id: infopic
+      alt: Image alt text
+  - infopic:
       title: SMHC 2023
       subtitle: Past Feedback
       id: infopic
@@ -43,11 +48,6 @@ sections:
       description: SMHC 2013 - 2023
       alt: Image alt text
       image: /images/past_highlights.png
-  - infopic:
-      title: SMHC 2025
-      subtitle: PAST FEEDBACK
-      id: infopic
-      alt: Image alt text
   - infopic:
       id: infopic
       image: /images/IMH_new_logo.png
