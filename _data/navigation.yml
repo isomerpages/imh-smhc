@@ -9,3 +9,8 @@ links:
         url: /past-smhc/
   - title: Sponsors
     url: /sponsors
+  - title: Sponsors
+    url: /permalink
+    sublinks:
+      - title: 2025 Sponsors
+        url: /permalink
