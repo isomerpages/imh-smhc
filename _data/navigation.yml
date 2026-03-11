@@ -8,9 +8,7 @@ links:
       - title: Past SMHC
         url: /past-smhc/
   - title: Sponsors
-    url: /sponsors
-  - title: Sponsors
     url: /sponsors/
     sublinks:
-      - title: 2025 Sponsors
+      - title: Past Sponsors
         url: /2025-sponsors
