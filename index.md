@@ -36,6 +36,7 @@ sections:
       subtitle: PAST FEEDBACK
       id: infopic
       alt: Image alt text
+      image: /images/SMHC_2025_Feedback_Webiste3.png
   - infopic:
       title: SMHC 2023
       subtitle: Past Feedback
