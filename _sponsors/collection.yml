@@ -2,4 +2,5 @@ collections:
   sponsors:
     output: true
     order:
+      - 2025 Sponsors.md
       - Sponsors.md
