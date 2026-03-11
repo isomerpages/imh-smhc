@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Singapore Mental Health Conference 2025
-description: Singapore Mental Health Conference 2025
+title: Singapore Mental Health Conference 2027
+description: Singapore Mental Health Conference 2027
 image: /images/SMHClogo.png
 permalink: /
 notification: ""
