@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: Register your interest here!
           description: ""
-          url: /registration/
+          url: https://form.gov.sg/699bcb60dbb717b43e56f848
       title: Singapore Mental Health Conference 2027
       button: JULY 2027 | SINGAPORE EXPO
-      url: /registration/
+      url: https://form.gov.sg/699bcb60dbb717b43e56f848
   - infopic:
       title: "Organised by:"
       id: infopic
