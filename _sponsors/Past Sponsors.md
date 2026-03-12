@@ -4,7 +4,8 @@ permalink: /past-sponsors/
 variant: tiptap
 description: ""
 ---
-<h1>Gold Sponsors</h1>
+<h1>2025 Sponsors </h1>
+<h3>Gold Sponsors</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jardines_Mindset.png">
@@ -38,13 +39,13 @@ group of employee volunteers.
 <br>MINDSET is a six-time winner of the Charity Transparency Award and two-time
 winner of the Charity Governance Award (small category). Jardines and MINDSET
 also received the President’s Volunteer &amp; Philanthropy Award in 2021.</p>
-<h1>Silver Sponsor</h1>
+<h3>Silver Sponsor</h3>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MTPS_Mark_Logo_Vertical_RGB.jpg">
 </div>
-<h1>Lunch Symposium</h1>
+<h3>Lunch Symposium</h3>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -68,11 +69,11 @@ also received the President’s Volunteer &amp; Philanthropy Award in 2021.</p>
 </tr>
 </tbody>
 </table>
-<h1>Donor</h1>
+<h3>Donor</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Lee_Foundation.png">
 </div>
-<h1>Other Sponsors</h1>
+<h3>Other Sponsors</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
