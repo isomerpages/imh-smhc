@@ -1,5 +1,5 @@
 collections:
-  registration:
+  registration-2025:
     output: true
     order:
       - Registration.md
