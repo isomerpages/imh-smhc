@@ -1,0 +1,6 @@
+collections:
+  registration-2025:
+    output: true
+    order:
+      - Registration 2025.md
+      - Terms and Conditions 2025.md

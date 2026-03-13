@@ -1,6 +1,6 @@
 ---
-title: Terms and Conditions
-permalink: /registration-tc/
+title: Terms and Conditions 2025
+permalink: /registration-tc-2025/
 variant: tiptap
 description: ""
 ---

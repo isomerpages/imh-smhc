@@ -7,36 +7,7 @@ links:
         url: /about-smhc/
       - title: Past SMHC
         url: /past-smhc/
-      - title: Advisory Committee
-        url: /advisory-committee/
-      - title: Organising Committee
-        url: /organising-committee/
-  - title: Programme
-    url: /prog-day1
-    sublinks:
-      - title: Day 1
-        url: /prog-day1
-      - title: Day 2
-        url: /prog-day2
-      - title: Sponsored Lunch Talk | 16 Jul
-        url: /sponsored-lunch-talk-16-july-2025/
-      - title: Sponsored Lunch Talk | 17 Jul
-        url: /sponsored-lunch-talk-17-july-2025/
-  - title: Speakers
-    url: /plenary-speakers/
-    sublinks:
-      - title: Plenary Speakers
-        url: /plenary-speakers/
-      - title: Track Speakers
-        url: /track-speakers/
-      - title: Panel Discussion Speakers
-        url: /panel-speakers/
   - title: Registration
     url: /registration/
-    sublinks:
-      - title: Registration
-        url: /registration/
-      - title: Terms and Conditions
-        url: /registration-tc/
   - title: Sponsors
-    url: /sponsors
+    collection: sponsors

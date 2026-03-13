@@ -1,6 +1,6 @@
 ---
 title: Register Your Interest
-permalink: /register-interest/
+permalink: /register-interest-2025/
 variant: tiptap
 description: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Singapore Mental Health Conference 2025
-description: Singapore Mental Health Conference 2025
+title: Singapore Mental Health Conference 2027
+description: Singapore Mental Health Conference 2027
 image: /images/SMHClogo.png
 permalink: /
 notification: ""
@@ -13,21 +13,17 @@ sections:
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: Virtual Registration till 15 July 2025
+        - title: Register your interest here!
           description: ""
-          url: /registration/
-      title: Singapore Mental Health Conference 2025
-      button: 16-17 JULY 2025 | SINGAPORE EXPO
-      url: /registration/
+          url: https://form.gov.sg/699bcb60dbb717b43e56f848
+      title: Singapore Mental Health Conference 2027
+      button: JULY 2027 | SINGAPORE EXPO
+      url: https://form.gov.sg/699bcb60dbb717b43e56f848
   - infopic:
       title: "Organised by:"
       id: infopic
       image: /images/IMH_new_logo.png
       alt: Image alt text
-  - infobar:
-      title: Reimagining Mental Health. Empowering Lives.
-      subtitle: SMHC 2025 Theme
-      id: infobar
   - infobar:
       title: About SMHC
       id: infobar
@@ -36,37 +32,11 @@ sections:
       button: Learn more
       url: /about-smhc/
   - infopic:
-      title: Programme
-      id: infopic
-      description: To view the programme, please click here.
-      image: /images/R6M29260.jpg
-      alt: Image alt text
-      button: View Full Programme
-      url: /prog-day1
-  - infopic:
-      title: Tracks
-      id: infopic
-      image: /images/tracksv9dec2.png
-      alt: Image alt text
-  - infopic:
-      title: Abstracts
-      id: infopic
-      description: The submission deadline is closed.
-      alt: Image alt text
-      image: /images/6I0A9316.jpg
-  - infopic:
-      title: Registration
+      title: SMHC 2025
+      subtitle: PAST FEEDBACK
       id: infopic
       alt: Image alt text
-      image: /images/R6M25948.jpg
-      button: Register Now
-      url: /registration/
-  - infopic:
-      title: Sponsorship
-      id: infopic
-      alt: Image alt text
-      image: /images/sponsorship_packages_VDec11.png
-      description: For more sponsorship details, contact us at smhc@imh.com.sg
+      image: /images/SMHC_2025_Feedback_Webiste4.png
   - infopic:
       title: SMHC 2023
       subtitle: Past Feedback

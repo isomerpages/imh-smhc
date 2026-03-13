@@ -1,12 +1,14 @@
 ---
-title: Sponsors
-permalink: /sponsors/
+title: Past Sponsors
+permalink: /past-sponsors/
 variant: tiptap
 description: ""
 ---
-<h2>Gold Sponsor</h2>
+<h1>2025 Sponsors </h1>
+<h3>Gold Sponsors</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SMHC 2025 Speakers/J_M_Write_up_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Jardines_Mindset.png">
 </div>
 <p>MINDSET Care Limited (“MINDSET”) is the registered charity of the Jardine
 Matheson Group (“Jardines” or “the Group”), dedicated to making a meaningful
@@ -36,14 +38,14 @@ outreach efforts.</p>
 group of employee volunteers.
 <br>MINDSET is a six-time winner of the Charity Transparency Award and two-time
 winner of the Charity Governance Award (small category). Jardines and MINDSET
-also received the President’s Volunteer &amp; Philanthropy Award in 2021.
-<br>
-</p>
-<h2>Silver Sponsor</h2>
+also received the President’s Volunteer &amp; Philanthropy Award in 2021.</p>
+<h3>Silver Sponsor</h3>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2MTPS_Mark_Logo_Vertical_RGB.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MTPS_Mark_Logo_Vertical_RGB.jpg">
 </div>
-<h2>Lunch Symposium</h2>
+<h3>Lunch Symposium</h3>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -52,22 +54,26 @@ also received the President’s Volunteer &amp; Philanthropy Award in 2021.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2MTPS_Mark_Logo_Vertical_RGB.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2MTPS_Mark_Logo_Vertical_RGB.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.sumitomo-pharma.com/profile/office/sumitomo_pharma_asiapacific.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sumitomo_Pharma_Logo.png"></a>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Sumitomo_Pharma_Logo.png">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<h2>Donor</h2>
+<h3>Donor</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/SMHC 2023/Lee_Foundation_Logo.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Lee_Foundation.png">
 </div>
-<h2>Other Sponsors</h2>
+<h3>Other Sponsors</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -77,31 +83,29 @@ also received the President’s Volunteer &amp; Philanthropy Award in 2021.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Dsquared_Medical_logo_v1.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/1_safespace.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_NAIHE.png">
-</div>
-</th>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Media_Lede_Text_Logo__on_White__With_Green_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dsquared_Medical_logo_v1.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logo_full_colour_horizontal_30kb_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo_NAIHE_Primary_Land.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Lede_Text_Logo__on_White__With_Green_.png">
+</div>
 </td>
 </tr>
 </tbody>

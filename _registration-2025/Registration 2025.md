@@ -1,6 +1,6 @@
 ---
-title: Registration
-permalink: /registration/
+title: Registration 2025
+permalink: /registration-2025/
 variant: tiptap
 description: ""
 ---
