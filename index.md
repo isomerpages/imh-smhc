@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/6I0A9273v2.jpg
+      background: /images/36335890_ceec_456e_99e5_17d4bdb049e4.jpg
       variant: floating
       size: md
       alignment: left
