@@ -36,6 +36,23 @@ sections:
           description: ""
         - title: "Seniors: Enduring Minds"
           description: ""
+  - textcards:
+      title: PROGRAMME HIGHLIGHTS
+      id: textcards
+      description: DISCOVER OUR EXCITING CONFERENCE TRACKS!
+      cards:
+        - title: YOUTH
+          description: EMERGING MINDS
+          linktext: ""
+          url: ""
+        - title: ADULT
+          description: EVOLVING MINDS
+          linktext: ""
+          url: ""
+        - title: SENIORS
+          description: ENDURING MINDS
+          linktext: ""
+          url: ""
   - infobar:
       title: About SMHC
       id: infobar
