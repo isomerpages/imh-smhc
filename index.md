@@ -24,18 +24,6 @@ sections:
       id: infopic
       image: /images/IMH_new_logo.png
       alt: Image alt text
-  - infocols:
-      title: PROGRAMME HIGHLIGHTS
-      subtitle: Explore our conference tracks
-      id: infocols
-      linktext: learn more
-      infoboxes:
-        - title: "Youth: Emerging Minds"
-          description: ""
-        - title: "Adults: Evolving minds"
-          description: ""
-        - title: "Seniors: Enduring Minds"
-          description: ""
   - textcards:
       title: PROGRAMME HIGHLIGHTS
       id: textcards
@@ -45,7 +33,7 @@ sections:
           description: EMERGING MINDS
           linktext: ""
           url: ""
-        - title: ADULT
+        - title: ADULTS
           description: EVOLVING MINDS
           linktext: ""
           url: ""
