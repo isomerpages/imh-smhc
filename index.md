@@ -24,28 +24,19 @@ sections:
       id: infopic
       image: /images/IMH_new_logo.png
       alt: Image alt text
-  - infocols:
-      title: PROGRAMME HIGHLIGHTS
-      subtitle: Explore our conference tracks
-      id: infocols
-      linktext: learn more
-      infoboxes:
-        - title: "Youth: Emerging Minds"
-          description: ""
-        - title: "Adults: Evolving minds"
-          description: ""
-        - title: "Seniors: Enduring Minds"
-          description: ""
+  - infobar:
+      title: "Leave No Mind Behind: Nurturing Mental Wellness at Every Age"
+      id: infobar
+      subtitle: Theme
   - textcards:
-      title: PROGRAMME HIGHLIGHTS
+      title: Tracks
       id: textcards
-      description: DISCOVER OUR EXCITING CONFERENCE TRACKS!
       cards:
         - title: YOUTH
           description: EMERGING MINDS
           linktext: ""
           url: ""
-        - title: ADULT
+        - title: ADULTS
           description: EVOLVING MINDS
           linktext: ""
           url: ""
