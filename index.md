@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/6I0A9273v2.jpg
+      background: /images/36335890_ceec_456e_99e5_17d4bdb049e4.jpg
       variant: floating
       size: md
       alignment: left
@@ -24,6 +24,35 @@ sections:
       id: infopic
       image: /images/IMH_new_logo.png
       alt: Image alt text
+  - infocols:
+      title: PROGRAMME HIGHLIGHTS
+      subtitle: Explore our conference tracks
+      id: infocols
+      linktext: learn more
+      infoboxes:
+        - title: "Youth: Emerging Minds"
+          description: ""
+        - title: "Adults: Evolving minds"
+          description: ""
+        - title: "Seniors: Enduring Minds"
+          description: ""
+  - textcards:
+      title: PROGRAMME HIGHLIGHTS
+      id: textcards
+      description: DISCOVER OUR EXCITING CONFERENCE TRACKS!
+      cards:
+        - title: YOUTH
+          description: EMERGING MINDS
+          linktext: ""
+          url: ""
+        - title: ADULT
+          description: EVOLVING MINDS
+          linktext: ""
+          url: ""
+        - title: SENIORS
+          description: ENDURING MINDS
+          linktext: ""
+          url: ""
   - infobar:
       title: About SMHC
       id: infobar
