@@ -73,5 +73,5 @@ sections:
   - infobar:
       title: "Leave No Mind Behind: Nurturing Mental Wellness at Every Age"
       id: infobar
-      button: Button Text
+      subtitle: Theme
 ---
