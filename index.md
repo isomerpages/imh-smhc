@@ -29,7 +29,7 @@ sections:
       id: infobar
       subtitle: Theme
   - textcards:
-      title: PROGRAMME HIGHLIGHTS
+      title: Tracks
       id: textcards
       cards:
         - title: YOUTH
@@ -44,7 +44,6 @@ sections:
           description: ENDURING MINDS
           linktext: ""
           url: ""
-      subtitle: DISCOVER OUR EXCITING TRACKS!
   - infobar:
       title: About SMHC
       id: infobar
