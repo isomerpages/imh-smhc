@@ -24,10 +24,13 @@ sections:
       id: infopic
       image: /images/IMH_new_logo.png
       alt: Image alt text
+  - infobar:
+      title: "Leave No Mind Behind: Nurturing Mental Wellness at Every Age"
+      id: infobar
+      subtitle: Theme
   - textcards:
       title: PROGRAMME HIGHLIGHTS
       id: textcards
-      description: DISCOVER OUR EXCITING CONFERENCE TRACKS!
       cards:
         - title: YOUTH
           description: EMERGING MINDS
@@ -41,6 +44,7 @@ sections:
           description: ENDURING MINDS
           linktext: ""
           url: ""
+      subtitle: DISCOVER OUR EXCITING TRACKS!
   - infobar:
       title: About SMHC
       id: infobar
@@ -70,8 +74,4 @@ sections:
       id: infopic
       image: /images/IMH_new_logo.png
       alt: Image alt text
-  - infobar:
-      title: "Leave No Mind Behind: Nurturing Mental Wellness at Every Age"
-      id: infobar
-      subtitle: Theme
 ---
