@@ -70,4 +70,8 @@ sections:
       id: infopic
       image: /images/IMH_new_logo.png
       alt: Image alt text
+  - infobar:
+      title: "Leave No Mind Behind: Nurturing Mental Wellness at Every Age"
+      id: infobar
+      button: Button Text
 ---
